@@ -1,0 +1,14 @@
+- name: "Awards"
+  link: "awards"
+
+- name: "Talk"
+  link: "talk"
+
+- name: "Software"
+  link: "software"
+  
+- name: "Publication"
+  link: "publication"
+
+- name: "Home"
+  link: "/"
