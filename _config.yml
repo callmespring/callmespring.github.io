@@ -4,6 +4,9 @@ markdown: kramdown
 
 tracking_id: #
 
+gems:
+  - jekyll-sitemap
+
 sass:
     style: compressed
     sass_dir: _sass
