@@ -47,4 +47,5 @@ Statistical Association_. [supplement](./paper/suppsubagging.pdf).
 
 Luo, S., **Shi, C.**, Song, R., Xie, Y. and Witten, D. [Sure Screening for Gaussian Graphical Models](./paper/GRASS.pdf), working paper. [supplement](./paper/suppGRASS.pdf)
 
-Xie, Y., Witten, D., **Shi, C.** and Song, R. [Sure Screening for Transelliptical Graphical Models](./paper/TEGSS.pdf), working paper.
+Xie, Y., Witten, D., **Shi, C.** and Song, R. Sure Screening for Transelliptical Graphical Models, working paper.
+
