@@ -8,6 +8,8 @@ title: Publication
 Please feel free to email me <cshi4@ncsu.edu> if you have any comments. 
 
 ### Publications/accepted manuscripts
+**Shi, C.**, Song, R., Chen, Z. and Li, R. (2018+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
+_Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award)
 
 **Shi, C.**, Lu, W., and Song, R. (2018+). [On testing conditional qualitative treatment effects](./paper/CQTEaccept.pdf). _Annals of Statistics_, accepted. 
 [supplement](./paper/suppCQTEaccept.pdf). (2017 IMS travel award) <br/> [<font size="2.5">slides</font>](./slides/JSM2017.pdf) <font size="2.5">presented at JSM 2017</font>.
@@ -34,8 +36,6 @@ Association_. [supplement](./paper/suppHDCI.pdf).
 
 **Shi, C.**, Song, R., and Wenbin, Lu. [Subsampling-based methods for inference of the mean outcome under optimal treatment regimes](./paper/subagging.pdf), under review at _Journal of the American
 Statistical Association_. [supplement](./paper/suppsubagging.pdf). 
-
-**Shi, C.**, Song, R., Chen, Z. and Li, R. [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf), minor revision at _Annals of Statistics_. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award)
 
 **Shi, C.**, Lu, W. and Song, R. [Determining the number of latent factors in multirelational learning](./paper/Rescal.pdf), under review at _Journal of Machine Learning Research_.
 
