@@ -29,7 +29,7 @@ _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2
 Zhang, P., Qiu, Z. and **Shi, C.** (2016) [simplexreg: An R Package for Regression Analysis of Proportional Data Using Simplex Distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
 **R package** [<span style="font-family:courier;">**simplexreg**</span>](https://cran.r-project.org/web/packages/simplexreg/index.html)
 
-### Manuscripts under review
+### Manuscripts under review/working paper
 
 **Shi, C.**, Song, R., Wenbin, Lu., and Li, R. [Statistical inference for high-dimensional models via recursive online-score estimation](./paper/HDCI.pdf), under review at _Journal of the American Statistical
 Association_. [supplement](./paper/suppHDCI.pdf).
@@ -43,9 +43,9 @@ Statistical Association_. [supplement](./paper/suppsubagging.pdf).
 
 **Shi, C.**, Lu, W. and Song, R. [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), major revision at _Journal of American Statistical Association_. [supplement](./paper/suppOQTE.pdf)
 
-**Shi, C.**, Song, R., Lu, W. and Zhang, D. [Inference of the Mean Outcome under an Optimal Treatment Regime in High Dimensions](./paper/AIPWE.pdf), working paper. [supplement](./paper/suppAIPWE.pdf)
+**Shi, C.**, Song, R., Lu, W. and Zhang, D. [Inference of the mean outcome under an optimal treatment regime in high dimensions](./paper/AIPWE.pdf), working paper. [supplement](./paper/suppAIPWE.pdf)
 
-Luo, S., **Shi, C.**, Song, R., Xie, Y. and Witten, D. [Sure Screening for Gaussian Graphical Models](./paper/GRASS.pdf), working paper. [supplement](./paper/suppGRASS.pdf)
+Luo, S., **Shi, C.**, Song, R., Xie, Y. and Witten, D. [Sure screening for gaussian graphical models](./paper/GRASS.pdf), working paper. [supplement](./paper/suppGRASS.pdf)
 
-Xie, Y., Witten, D., **Shi, C.** and Song, R. Sure Screening for Transelliptical Graphical Models, working paper.
+Xie, Y., **Shi, C.**, Song, R and Witten, D. Sure screening for transelliptical graphical models, working paper.
 
