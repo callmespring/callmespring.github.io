@@ -4,7 +4,7 @@ markdown: kramdown
 
 tracking_id: #
 
-gems:
+plugins:
   - jekyll-sitemap
 
 sass:
