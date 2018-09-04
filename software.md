@@ -5,7 +5,7 @@ title: Software
 
 ### Software
 
-* arleGP. Approximated Restricted Likelihood Estimator for Gaussian Process. [poster](.slides/arleGP.pdf). [code](.code/arleGP.zip).
+* arleGP. Approximated Restricted Likelihood Estimator for Gaussian Process. [poster](./slides/arleGP.pdf). [code](./code/arleGP.zip).
 
 * [BayesSAE](https://cran.r-project.org/web/packages/BayesSAE/index.html) (v1.0-2)      
 Bayesian Analysis of Small Area Estimation. 
