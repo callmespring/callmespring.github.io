@@ -22,13 +22,13 @@ _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2
 **Shi, C.**, Fan, A., Song, R., and Lu, W. (2018). [High-dimensional A-learning for optimal dynamic treatment regimes](https://projecteuclid.org/euclid.aos/1525313071). _Annals of Statistics_, **46**, 925-957.
 **R package** [<span style="font-family:courier;">**ITRSelect**</span>](https://cran.r-project.org/web/packages/ITRSelect/index.html) <br/> [<font size="2.5">slides</font>](./slides/ENAR2016spring.pdf) <font size="2.5">presented at ENAR 2016</font>
 
-**Shi, C.**, Song, R. and Lu, W. (2018) [Discussion of “Optimal treatment allocations in space and time for on-line control of an emerging infectious disease”](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12266), _Journal of the Royal Statistical Society, Series C_, **67**, 743-789.
+**Shi, C.**, Song, R. and Lu, W. (2018). [Discussion of “Optimal treatment allocations in space and time for on-line control of an emerging infectious disease”](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12266), _Journal of the Royal Statistical Society, Series C_, **67**, 743-789.
 
-**Shi, C.**, Song, R. and Lu, W. (2017) [Discussion of “Random projection ensemble classification”](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228), _Journal of the Royal Statistical Society, Series B_, **79**, 959-1035.
+**Shi, C.**, Song, R. and Lu, W. (2017). [Discussion of “Random projection ensemble classification”](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228), _Journal of the Royal Statistical Society, Series B_, **79**, 959-1035.
 
-**Shi, C.**, Song, R. and Lu, W. (2016) [Robust learning for optimal treatment decision with NP-dimensionality](https://projecteuclid.org/euclid.ejs/1476368559), _Electronic Journal of Statistics_, **10**, 2894-2921.
+**Shi, C.**, Song, R. and Lu, W. (2016). [Robust learning for optimal treatment decision with NP-dimensionality](https://projecteuclid.org/euclid.ejs/1476368559), _Electronic Journal of Statistics_, **10**, 2894-2921.
 
-Zhang, P., Qiu, Z. and **Shi, C.** (2016) [simplexreg: An R package for regression analysis of proportional data using simplex distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
+Zhang, P., Qiu, Z. and **Shi, C.** (2016). [simplexreg: An R package for regression analysis of proportional data using simplex distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
 **R package** [<span style="font-family:courier;">**simplexreg**</span>](https://cran.r-project.org/web/packages/simplexreg/index.html)
 
 ### Manuscripts under review/working paper
