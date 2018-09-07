@@ -28,7 +28,7 @@ _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2
 
 **Shi, C.**, Song, R. and Lu, W. (2016) [Robust learning for optimal treatment decision with NP-dimensionality](https://projecteuclid.org/euclid.ejs/1476368559), _Electronic Journal of Statistics_, **10**, 2894-2921.
 
-Zhang, P., Qiu, Z. and **Shi, C.** (2016) [simplexreg: An R Package for Regression Analysis of Proportional Data Using Simplex Distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
+Zhang, P., Qiu, Z. and **Shi, C.** (2016) [simplexreg: An R package for regression analysis of proportional data using simplex distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
 **R package** [<span style="font-family:courier;">**simplexreg**</span>](https://cran.r-project.org/web/packages/simplexreg/index.html)
 
 ### Manuscripts under review/working paper
