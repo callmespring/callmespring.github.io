@@ -1,13 +1,13 @@
 - name: "Awards"
   link: "awards"
 
-- name: "Talk"
+- name: "Talks"
   link: "talk"
 
-- name: "Software"
+- name: "Softwares"
   link: "software"
   
-- name: "Publication"
+- name: "Publications"
   link: "publication"
 
 - name: "Home"
