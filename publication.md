@@ -33,10 +33,10 @@ Zhang, P., Qiu, Z. and **Shi, C.** (2016). [simplexreg: An R package for regress
 
 ### Manuscripts under review/working paper
 
-**Shi, C.**, Song, R., Wenbin, Lu., and Li, R. Statistical inference for high-dimensional models via recursive online-score estimation, under review at _Journal of the American Statistical
+**Shi, C.**, Song, R., Lu, W., and Li, R. Statistical inference for high-dimensional models via recursive online-score estimation, under review at _Journal of the American Statistical
 Association_. <!---[supplement](./paper/suppHDCI.pdf)-->.
 
-**Shi, C.**, Song, R., and Wenbin, Lu. Subsampling-based methods for inference of the mean outcome under optimal treatment regimes, under review at _Journal of the American
+**Shi, C.**, Song, R., and Lu, W. Subsampling-based methods for inference of the mean outcome under optimal treatment regimes, under review at _Journal of the American
 Statistical Association_. <!---[supplement](./paper/suppsubagging.pdf)-->. 
 
 **Shi, C.**, Lu, W. and Song, R. Determining the number of latent factors in multirelational learning, under review at _Journal of Machine Learning Research_.
