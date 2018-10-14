@@ -9,6 +9,9 @@
   
 - name: "Publications"
   link: "publication"
+  
+- name: "Teaching"
+  link: "teaching"
 
 - name: "Home"
   link: "/"
