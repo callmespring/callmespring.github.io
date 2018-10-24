@@ -11,9 +11,8 @@ I am a Ph.D. student in [Statistics at North Carolina State University](https://
 My research interests include 
 
 <!---* [statistical methods in precision medicine](research_pm)-->
-* statistical methods in precision medicine
-* massive data and high dimensional data analysis
-* statistical relational learning.
+* statistical learning methods in individualized decision making
+* statistical analysis of complex data
 
 My email address is: <cshi4@ncsu.edu>
 
