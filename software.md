@@ -15,3 +15,6 @@ Regression Analysis of Proportional Data Using Simplex Distributions. [paper](ht
 
 * [ITRSelect](https://cran.r-project.org/web/packages/ITRSelect/index.html) (v1.0-1)    
 Variable Selection for Optimal Individualized Dynamic Treatment Regime. 
+
+* [ITRLearn](https://cran.r-project.org/web/packages/ITRLearn/index.html) (v1.0)    
+Statistical Learning for Optimal Individualized Treatment Regime. 
