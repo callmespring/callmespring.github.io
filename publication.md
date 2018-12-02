@@ -33,21 +33,20 @@ Zhang, P., Qiu, Z. and **Shi, C.** (2016). [simplexreg: An R package for regress
 
 ### Manuscripts under review/working paper
 
-**Shi, C.**, Song, R., Lu, W., and Li, R. Statistical inference for high-dimensional models via recursive online-score estimation, under review at _Journal of the American Statistical
-Association_. <!---[supplement](./paper/suppHDCI.pdf)-->.
+**Shi, C.**, Lu, W. and Song, R. A sparse random projection-based test for overall qualitative treatment effects, _Journal of American Statistical Association_, acceptable after moderate revision. 
 
-**Shi, C.**, Song, R., and Lu, W. Subsampling-based methods for inference of the mean outcome under optimal treatment regimes, under review at _Journal of the American
-Statistical Association_. <!---[supplement](./paper/suppsubagging.pdf)-->. 
+**Shi, C.**, Song, R., Lu, W., and Li, R. Statistical inference for high-dimensional models via recursive online-score estimation, major revision at _Journal of the American Statistical
+Association_. 
 
 **Shi, C.**, Lu, W. and Song, R. Determining the number of latent factors in multirelational learning, under review at _Journal of Machine Learning Research_.
 
 **Shi, C.**, Song, R. and Lu, W. Concordance and value information criteria for optimal treatment decision, major revision at _Annals of Statistics_. <!---[supplement](./paper/suppCVIC4.pdf)-->.
 
-**Shi, C.**, Lu, W. and Song, R. A sparse random projection-based test for overall qualitative treatment effects, major revision at _Journal of American Statistical Association_. <!---[supplement](./paper/suppOQTE.pdf)-->
+**Shi, C.**, Song, R., and Lu, W. Subsampling-based methods for inference of the mean outcome under optimal treatment regimes.
 
-**Shi, C.**, Song, R., Lu, W. and Zhang, D. Inference of the mean outcome under an optimal treatment regime in high dimensions, working paper. <!---[supplement](./paper/suppAIPWE.pdf)-->
+**Shi, C.**, Song, R., Lu, W. and Zhang, D. Inference of the mean outcome under an optimal treatment regime in high dimensions.
 
-Luo, S., **Shi, C.**, Song, R., Xie, Y. and Witten, D. Sure screening for gaussian graphical models, working paper. <!---[supplement](./paper/suppGRASS.pdf)-->
+Luo, S., **Shi, C.**, Song, R., Xie, Y. and Witten, D. Sure screening for gaussian graphical models.
 
-Xie, Y., **Shi, C.**, Song, R and Witten, D. Sure screening for transelliptical graphical models, working paper.
+Xie, Y., **Shi, C.**, Song, R and Witten, D. Sure screening for transelliptical graphical models.
 
