@@ -8,7 +8,7 @@ title: Publication
 Please feel free to email me <cshi4@ncsu.edu> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Lu, W. and Song, R. (2018+) Determining the number of latent factors in multirelational learning, _Journal of Machine Learning Research_, accepted.
+**Shi, C.**, Lu, W. and Song, R. (2018+). Determining the number of latent factors in multirelational learning, _Journal of Machine Learning Research_, accepted.
 
 **Shi, C.**, Song, R., Chen, Z. and Li, R. (2018+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
 _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award)
