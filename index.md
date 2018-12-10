@@ -8,11 +8,7 @@ layout: default
 I am a Ph.D. student in [Statistics at North Carolina State University](https://www.stat.ncsu.edu/) (NCSU). I work with [Dr. Wenbin Lu](https://www4.stat.ncsu.edu/~lu/) and 
 [Dr. Rui Song](https://www4.stat.ncsu.edu/~song/). Prior to this, I obtained a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in July 2014.
 
-The motivation behind my work stems from real world applications. In precision medicine, individualizing
-the treatment decision rule can capture patients' heterogeneous response towards treatment. In finance,
-individualizing the investment decision rule can improve individual's financial well-being. In a ride-sharing
-company, individualizing the order dispatching strategy can increase its revenue and customer satisfaction. With the fast development of new technology, modern datasets often consist of massive observations, high-
-dimensional covariates and are characterized by some degree of heterogeneity. In an era of big and complex data, my research is concentrated on
+My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * statistical learning methods in individualized decision making
