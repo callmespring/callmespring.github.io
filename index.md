@@ -14,5 +14,12 @@ My research is concentrated on
 * statistical learning methods in individualized decision making
 * statistical analysis of complex data
 
+The motivation behind my work stems from real world applications. In precision medicine, individualizing
+the treatment decision rule can capture patients' heterogeneous response towards treatment. In finance,
+individualizing the investment decision rule can improve individual's financial well-being. In a ride-sharing
+company, individualizing the order dispatching strategy can increase its revenue and customer satisfaction. With the fast development of new technology, modern datasets often consist of massive observations, 
+high-dimensional covariates and are characterized by some degree of heterogeneity. In an era of big and complex data, I'm interested in developing computationally efficient algorithms
+with statistical performance guarantees. 
+
 My email address is: <cshi4@ncsu.edu>
 
