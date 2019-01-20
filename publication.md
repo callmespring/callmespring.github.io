@@ -8,15 +8,15 @@ title: Publication
 Please feel free to email me <cshi4@ncsu.edu> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Lu, W. and Song, R. (2018+). Determining the number of latent factors in multirelational learning, _Journal of Machine Learning Research_, accepted.
+**Shi, C.**, Lu, W. and Song, R. (2019+). [Determining the number of latent factors in multirelational learning](./paper/Rescal.pdf), _Journal of Machine Learning Research_, accepted.
 
-**Shi, C.**, Song, R., Chen, Z. and Li, R. (2018+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
+**Shi, C.**, Song, R., Chen, Z. and Li, R. (2019+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
 _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award)
 
-**Shi, C.**, Lu, W., and Song, R. (2018+). [On testing conditional qualitative treatment effects](./paper/CQTEaccept.pdf). _Annals of Statistics_, accepted. 
+**Shi, C.**, Lu, W., and Song, R. (2019+). [On testing conditional qualitative treatment effects](./paper/CQTEaccept.pdf). _Annals of Statistics_, accepted. 
 [supplement](./paper/suppCQTEaccept.pdf). (2017 IMS travel award) <br/> [<font size="2.5">slides</font>](./slides/JSM2017.pdf) <font size="2.5">presented at JSM 2017</font>.
 
-**Shi, C.**, Lu, W., and Song, R. (2018+). [A massive data framework for M-estimators with cubic-rate](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1360779). _Journal of the American Statistical Association_, in press.
+**Shi, C.**, Lu, W., and Song, R. (2018). [A massive data framework for M-estimators with cubic-rate](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1360779). _Journal of the American Statistical Association_, **113**, 1698-1709.
 
 **Shi, C.**, Song, R., Lu, W., and Fu, B. (2018). [Maximin projection learning for optimal treatment decision with heterogeneous individualized treatment effects](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12273). _Journal of the Royal Statistical Society, Series B_, **80**, 681-702. 
 **R package** [<span style="font-family:courier;">**ITRLearn**</span>](https://cran.r-project.org/web/packages/ITRLearn/index.html)
