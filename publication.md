@@ -9,7 +9,7 @@ Please feel free to email me <cshi4@ncsu.edu> if you have any comments.
 
 ### Publications/accepted manuscripts
 
-**Shi, C.**, Lu, W. and Song, R. [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf). 
+**Shi, C.**, Lu, W. and Song, R. (2019+). [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf). 
 
 **Shi, C.**, Song, R., Chen, Z. and Li, R. (2019+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
 _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award)
