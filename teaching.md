@@ -15,3 +15,5 @@ title: Teaching
 
 * Fall 2018: Experimental Statistics for Engineers (ST515)
 
+* Spring 2019: Experimental Statistics for Engineers (ST515)
+
