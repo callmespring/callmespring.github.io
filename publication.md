@@ -8,13 +8,16 @@ title: Publication
 Please feel free to email me <cshi4@ncsu.edu> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Lu, W. and Song, R. (2019+). [Determining the number of latent factors in multirelational learning](./paper/Rescal.pdf), _Journal of Machine Learning Research_, accepted.
+
+**Shi, C.**, Lu, W. and Song, R. [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf). 
 
 **Shi, C.**, Song, R., Chen, Z. and Li, R. (2019+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
 _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award)
 
 **Shi, C.**, Lu, W., and Song, R. (2019+). [On testing conditional qualitative treatment effects](./paper/CQTEaccept.pdf). _Annals of Statistics_, accepted. 
 [supplement](./paper/suppCQTEaccept.pdf). (2017 IMS travel award) <br/> [<font size="2.5">slides</font>](./slides/JSM2017.pdf) <font size="2.5">presented at JSM 2017</font>.
+
+**Shi, C.**, Lu, W. and Song, R. (2019+). [Determining the number of latent factors in multirelational learning](http://www.jmlr.org/papers/v20/18-037.html), _Journal of Machine Learning Research_, **20**, 1-38.
 
 **Shi, C.**, Lu, W., and Song, R. (2018). [A massive data framework for M-estimators with cubic-rate](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1360779). _Journal of the American Statistical Association_, **113**, 1698-1709.
 
@@ -33,21 +36,3 @@ _Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2
 
 Zhang, P., Qiu, Z. and **Shi, C.** (2016). [simplexreg: An R package for regression analysis of proportional data using simplex distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
 **R package** [<span style="font-family:courier;">**simplexreg**</span>](https://cran.r-project.org/web/packages/simplexreg/index.html)
-
-### Manuscripts under review/working paper
-
-**Shi, C.**, Lu, W. and Song, R. A sparse random projection-based test for overall qualitative treatment effects, _Journal of American Statistical Association_, acceptable after moderate revision. 
-
-**Shi, C.**, Song, R., Lu, W., and Li, R. Statistical inference for high-dimensional models via recursive online-score estimation, major revision at _Journal of the American Statistical
-Association_. 
-
-**Shi, C.**, Song, R. and Lu, W. Concordance and value information criteria for optimal treatment decision, major revision at _Annals of Statistics_. <!---[supplement](./paper/suppCVIC4.pdf)-->.
-
-**Shi, C.**, Song, R., and Lu, W. Subsampling-based methods for inference of the mean outcome under optimal treatment regimes.
-
-**Shi, C.**, Song, R., Lu, W. and Zhang, D. Inference of the mean outcome under an optimal treatment regime in high dimensions.
-
-Luo, S., **Shi, C.**, Song, R., Xie, Y. and Witten, D. Sure screening for gaussian graphical models.
-
-Xie, Y., **Shi, C.**, Song, R and Witten, D. Sure screening for transelliptical graphical models.
-
