@@ -76,14 +76,16 @@ hr {
 
 @media (max-width: 800px) {
     .container {
-        max-width: $med-width;
+/*        max-width: $med-width;*/
+        max-width: $max-width;
         transition: 0.3s ease all;
     }
 }
 
 @media (max-width: 650px) {
     .container {
-        max-width: 83%;
+/*        max-width: 83%;/*
+        max_width: 100%;
     }
     .navbar-ul {
         margin-top: 5px;
