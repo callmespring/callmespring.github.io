@@ -15,7 +15,7 @@ layout: default
 My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
-* statistical methods in reinforcement learning
+* statistical learning methods in individualized decision making
 * statistical analysis of complex data
 
 The motivation behind my work stems from real world applications. In precision medicine, individualizing
