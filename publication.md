@@ -13,12 +13,12 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 **Shi, C.**, Lu, W. and Song, R. (2019+). [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf).
 
-**Shi, C.**, Song, R., Chen, Z. and Li, R. (2019+). [Linear hypothesis testing for high dimensional generalized linear models](./paper/hdlineartest.pdf). 
-_Annals of Statistics_, accepted. [supplement](./paper/supphdlineartest.pdf). (2018 IMS travel award) 
+**Shi, C.**, Song, R., Chen, Z. and Li, R. (2019). [Linear hypothesis testing for high dimensional generalized linear models](https://projecteuclid.org/euclid.aos/1564797860). 
+_Annals of Statistics_, **47**, 2671-2703. (2018 IMS travel award) 
 **R code** for [<font size="3">linear</font>](./code/lm_ADMM0.r)/[<font size="3">logistic</font>](./code/Logistic_ADMM0.r)/[<font size="3">Poisson</font>](./code/Poisson_ADMM0.r) <font size="3">regression</font>
 
-**Shi, C.**, Lu, W., and Song, R. (2019+). [On testing conditional qualitative treatment effects](./paper/CQTEaccept.pdf). _Annals of Statistics_, accepted. 
-[supplement](./paper/suppCQTEaccept.pdf). (2017 IMS travel award) <br/> [<font size="3">slides</font>](./slides/JSM2017.pdf) <font size="3">presented at JSM 2017</font>.
+**Shi, C.**, Lu, W., and Song, R. (2019). [On testing conditional qualitative treatment effects](https://projecteuclid.org/euclid.aos/1558425648). _Annals of Statistics_, **47**, 2348-2377. 
+(2017 IMS travel award) <br/> [<font size="3">slides</font>](./slides/JSM2017.pdf) <font size="3">presented at JSM 2017</font>.
 
 **Shi, C.**, Lu, W. and Song, R. (2019). [Determining the number of latent factors in multirelational learning](http://www.jmlr.org/papers/v20/18-037.html), _Journal of Machine Learning Research_, **20**, 1-38.
 
