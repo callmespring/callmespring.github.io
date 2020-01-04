@@ -18,3 +18,6 @@ Variable Selection for Optimal Individualized Dynamic Treatment Regime.
 
 * [ITRLearn](https://cran.r-project.org/web/packages/ITRLearn/index.html) (v1.0)    
 Statistical Learning for Optimal Individualized Treatment Regime. 
+
+* [JQL](https://cran.r-project.org/web/packages/JQL/index.html) (v3.6.9)
+Jump Q-Learning for Individualized Interval-Valued Dose Rule.
