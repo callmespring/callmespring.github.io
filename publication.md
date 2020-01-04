@@ -9,6 +9,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 ### Publications/accepted manuscripts
 
+**Shi, C.**, Song, R., Lu, W. and Li. R. (2019+). Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation. Journal of the American Statistical Association, accepted.
+
 **Shi, C.**, Song, R. and Lu, W. (2019+). [Concordance and value information criteria for optimal treatment decision](./paper/CIVIC1.pdf), _Annals of Statistics_, accepted. [supplement](./paper/suppCIVIC1.pdf).
 
 **Shi, C.**, Lu, W. and Song, R. (2019+). [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf).
