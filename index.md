@@ -16,6 +16,7 @@ My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * statistical methods in reinforcement learning (RL)
+* statistical methods in individualized decision making
 * statistical analysis of complex (high-dimensional/massive/heterogeneous/multi-relational/DAG-structured) data 
 
 The motivation behind my work stems from real world applications. In medicine, applying RL algorithms could assist patients in improving their health status. In robotics, applying RL algorithms enables robots to learn complex behaviors in dynamically changing environments. In ride-sharing platforms, applying RL algorithms could increase its revenue and customer satisfaction. With the fast development of new technology, modern datasets often consist of massive observations, 
