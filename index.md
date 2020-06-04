@@ -23,7 +23,7 @@ The motivation behind my work stems from real world applications. In medicine, a
 high-dimensional covariates and are characterized by some degree of heterogeneity. In an era of big and complex data, I'm interested in developing computationally efficient algorithms with statistical performance guarantees. 
 
 A summary of my phase one research
-<img src="phase-I.png", width="500" height="500">
+<img src="phase-I.png" width="500" height="500">
 
 My email address is: <c.shi7@lse.ac.uk>
 
