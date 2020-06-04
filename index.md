@@ -16,7 +16,6 @@ My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * statistical methods in reinforcement learning (RL)
-* statistical methods in individualized decision making
 * statistical analysis of complex (high-dimensional/massive/heterogeneous/multi-relational/DAG-structured) data 
 
 A summary of my [phase one](https://github.com/callmespring/callmespring.github.io/blob/master/phase-I.pdf) research. 
