@@ -24,7 +24,7 @@ high-dimensional covariates and are characterized by some degree of heterogeneit
 
 A summary of my phase one research
 
-[Phase-I.pdf](https://github.com/callmespring/callmespring.github.io/blob/master/phase-I.pdf)
+https://docs.google.com/viewer?url=https://github.com/callmespring/callmespring.github.io/blob/master/phase-I.pdf
 
 My email address is: <c.shi7@lse.ac.uk>
 
