@@ -19,12 +19,10 @@ My research is concentrated on
 * statistical methods in individualized decision making
 * statistical analysis of complex (high-dimensional/massive/heterogeneous/multi-relational/DAG-structured) data 
 
+A summary of my phase one research: [Phase-I](https://github.com/callmespring/callmespring.github.io/blob/master/phase-I.pdf)
+
 The motivation behind my work stems from real world applications. In medicine, applying RL algorithms could assist patients in improving their health status. In robotics, applying RL algorithms enables robots to learn complex behaviors in dynamically changing environments. In ride-sharing platforms, applying RL algorithms could increase its revenue and customer satisfaction. With the fast development of new technology, modern datasets often consist of massive observations, 
 high-dimensional covariates and are characterized by some degree of heterogeneity. In an era of big and complex data, I'm interested in developing computationally efficient algorithms with statistical performance guarantees. 
-
-A summary of my phase one research
-
-[Phase-I.pdf](https://github.com/callmespring/callmespring.github.io/blob/master/phase-I.pdf)
 
 My email address is: <c.shi7@lse.ac.uk>
 
