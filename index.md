@@ -22,6 +22,8 @@ My research is concentrated on
 My phase one research
 
 <object data="phase-I.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="phase-I.pdf">
+  </embed>
 </object>
 
 The motivation behind my work stems from real world applications. In medicine, applying RL algorithms could assist patients in improving their health status. In robotics, applying RL algorithms enables robots to learn complex behaviors in dynamically changing environments. In ride-sharing platforms, applying RL algorithms could increase its revenue and customer satisfaction. With the fast development of new technology, modern datasets often consist of massive observations, 
