@@ -15,8 +15,8 @@ layout: default
 My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
-* statistical learning methods in individualized decision making
-* statistical analysis of complex data
+* statistical methods in reinforcement learning
+* statistical analysis of complex (high-dimensional/massive/heterogeneous/multi-relational/DAG-structured) data 
 
 The motivation behind my work stems from real world applications. In precision medicine, individualizing
 the treatment decision rule can capture patients' heterogeneous response towards treatment. In finance,
