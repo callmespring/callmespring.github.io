@@ -8,7 +8,8 @@ title: Publication
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Wan, R., Song, R., Lu, W. and Leng, L. (2020). [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](https://arxiv.org/pdf/2002.01751.pdf). _ICML_. 
+**Shi, C.**, Wan, R., Song, R., Lu, W. and Leng, L. (2020). [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](https://arxiv.org/pdf/2002.01751.pdf). _ICML_, accepted. 
+**Python module** [<span style="font-family:courier;">**TestMDP**</span>](https://github.com/RunzheStat/TestMDP)
 
 **Shi, C.**, Song, R., Lu, W. and Li. R. (2020). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](./paper/HDCIv3un.pdf), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppHDCIv3un.pdf)
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
