@@ -12,7 +12,7 @@ layout: default
 
 (iii) Prior to (ii), I obtained a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in July 2014.
 
-My CV can be found [here](./cv-4.pdf)
+My CV can be found [here](./cv-4.pdf).
 
 My research is concentrated on
 
