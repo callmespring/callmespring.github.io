@@ -8,7 +8,7 @@ title: Publication
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Lu, W. and Song, R. (2020). [Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes](./paper/SASv2cs.pdf), _Journal of Machine Learning Research_, accepted.
+**Shi, C.**, Lu, W. and Song, R. (2020). [Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes](./paper/SASv2cs.pdf), _Journal of Machine Learning Research_, accepted. **R and C sample code** [<font size="3">subagging2.cpp</font>](./code/subagging2.cpp) [<font size="3">sb.r</font>](./code/sb.r)  
 
 **Shi, C.**, Wan, R., Song, R., Lu, W. and Leng, L. (2020). [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](https://arxiv.org/pdf/2002.01751.pdf). _ICML_, accepted. 
 **Python module** [<span style="font-family:courier;">**TestMDP**</span>](https://github.com/RunzheStat/TestMDP)
