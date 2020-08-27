@@ -11,8 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 **Shi, C.**, Lu, W. and Song, R. (2020). [Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes](./paper/SASv2cs.pdf), _Journal of Machine Learning Research_, accepted. **R and C sample code** [<font size="3">subagging2.cpp</font>](./code/subagging2.cpp) [<font size="3">sb.r</font>](./code/sb.r)  
 
 **Shi, C.**, Wan, R., Song, R., Lu, W. and Leng, L. (2020). [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](https://arxiv.org/pdf/2002.01751.pdf). _ICML_, accepted. 
-**Python module** [<span style="font-family:courier;">**TestMDP**</span>](https://github.com/RunzheStat/TestMDP)
-[<font size="3">slides</font>](./slides/slides.pdf) <font size="3">presented at ICML 2020 and JSM 2020</font>.
+**Python module** [<span style="font-family:courier;">**TestMDP**</span>](https://github.com/RunzheStat/TestMDP) <br/> [<font size="3">slides</font>](./slides/slides.pdf) <font size="3">presented at ICML 2020 and JSM 2020</font>.
 
 **Shi, C.**, Song, R., Lu, W. and Li. R. (2020). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](./paper/HDCIv3un.pdf), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppHDCIv3un.pdf)
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
