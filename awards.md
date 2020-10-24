@@ -5,6 +5,8 @@ title: Awards
 
 ### Awards and Honors
 
+* Finalist in Reinforcement Learning Competition Track (RL Track) in KDD Cup (2020) (Ranked 7 out of more than 1000 teams), 2020.
+
 * Institute of Mathematical Statistics (IMS) Hannan Graduate Student Travel Award, 2018.
 
 * Institute of Mathematical Statistics (IMS) Travel Award, 2017.
