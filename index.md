@@ -25,7 +25,7 @@ high-dimensional covariates and are characterized by some degree of heterogeneit
 
 A summary of my phase one research. 
 
-<img src="phase-I.jpg" width="400">
+<img src="phase-I.jpg" width="700">
 
 My email address is: <c.shi7@lse.ac.uk>
 
