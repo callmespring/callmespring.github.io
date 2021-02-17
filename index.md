@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!---<img class="profile-picture" src="profile0.jpg" width="1000" height="1000">-->
-<img src="profile1.jpeg">
+<img src="profile0.jpg">
 
 (i) I am assistant professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
 
