@@ -16,7 +16,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 **Shi, C.**, Song, R., Lu, W. and Li. R. (2020). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](./paper/HDCIv3un.pdf) (**ROSE**), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppHDCIv3un.pdf)
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
 
-**Shi, C.**, Song, R. and Lu, W. (2020). [Concordance and value information criteria for optimal treatment decision](./paper/CIVIC1.pdf), _Annals of Statistics_, accepted. [supplement](./paper/suppCIVIC1.pdf).
+**Shi, C.**, Song, R. and Lu, W. (2020). [Concordance and value information criteria for optimal treatment decision](./paper/CIVIC1.pdf) (**CIVIC**), _Annals of Statistics_, accepted. [supplement](./paper/suppCIVIC1.pdf).
 
 **Shi, C.**, Lu, W. and Song, R. (2020). [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf).
 
