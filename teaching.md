@@ -3,9 +3,15 @@ layout: default
 title: Teaching
 ---
 
-### Teaching Assistant at Zhejiang University
+### Teaching at London School of Economics and Political Science
 
-* Spring 2014: Financial Risk Management
+* MT 2019: Managing and Visualising Data (ST445)
+
+* MT 2020: Managing and Visualising Data (ST445)
+
+* MT 2020 -- LT 2021: Probability, Distribution Theory and Inference (ST202)
+
+* LT 2021: Foundations of Machine Learning (ST510)
 
 ### Teaching Assistant at North Carolina State University
 
@@ -17,3 +23,6 @@ title: Teaching
 
 * Spring 2019: Experimental Statistics for Engineers (ST515)
 
+### Teaching Assistant at Zhejiang University
+
+* Spring 2014: Financial Risk Management
