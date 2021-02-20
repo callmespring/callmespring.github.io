@@ -8,6 +8,11 @@ title: Publication
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
 ### Publications/accepted manuscripts
+**Shi, C.** and Li, L. (2021). [Testing Mediation Effects Using Logic of Boolean Matrices](./paper/LOGAN.pdf) (**LOGAN**), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppLOGAN.pdf). 
+**Python module** [<span style="font-family:courier;">**TestMDP**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>]
+
+**Shi, C.**, Song, R. and Lu, W. (2021). [Concordance and value information criteria for optimal treatment decision](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.short) (**CIVIC**), _Annals of Statistics_, **49**, 49-75.
+
 **Shi, C.**, Lu, W. and Song, R. (2020). [Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes](./paper/SASv2cs.pdf), _Journal of Machine Learning Research_, accepted. **R and C sample code** [<font size="3">subagging2.cpp</font>](./code/subagging2.cpp) [<font size="3">sb.r</font>](./code/sb.r)  
 
 **Shi, C.**, Wan, R., Song, R., Lu, W. and Leng, L. (2020). [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](http://proceedings.mlr.press/v119/shi20c/shi20c.pdf). _ICML_. 
@@ -16,9 +21,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 **Shi, C.**, Song, R., Lu, W. and Li. R. (2020). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](./paper/HDCIv3un.pdf) (**ROSE**), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppHDCIv3un.pdf)
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
 
-**Shi, C.**, Song, R. and Lu, W. (2020). [Concordance and value information criteria for optimal treatment decision](./paper/CIVIC1.pdf) (**CIVIC**), _Annals of Statistics_, accepted. [supplement](./paper/suppCIVIC1.pdf).
-
-**Shi, C.**, Lu, W. and Song, R. (2020). [A sparse random projection-based test for overall qualitative treatment effects](./paper/OQTE.pdf), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppOQTE.pdf).
+**Shi, C.**, Lu, W. and Song, R. (2020). [A sparse random projection-based test for overall qualitative treatment effects](https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1604368), _Journal of the American Statistical Association_, **115**, 1201-1213.
 
 **Shi, C.**, Song, R., Chen, Z. and Li, R. (2019). [Linear hypothesis testing for high dimensional generalized linear models](https://projecteuclid.org/euclid.aos/1564797860). 
 _Annals of Statistics_, **47**, 2671-2703. (2018 IMS travel award) 
