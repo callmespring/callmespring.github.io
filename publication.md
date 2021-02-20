@@ -8,7 +8,7 @@ title: Publication
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.** and Li, L. (2021). [Testing Mediation Effects Using Logic of Boolean Matrices](./paper/LOGAN.pdf) (**LOGAN**), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppLOGAN.pdf). 
+**Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](./paper/LOGAN.pdf) (**LOGAN**), _Journal of the American Statistical Association_, accepted. [supplement](./paper/suppLOGAN.pdf). 
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
 
 **Shi, C.**, Song, R. and Lu, W. (2021). [Concordance and value information criteria for optimal treatment decision](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.short) (**CIVIC**), _Annals of Statistics_, **49**, 49-75.
