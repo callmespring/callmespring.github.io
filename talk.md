@@ -7,6 +7,8 @@ title: Talk
 
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
 
+* Stat seminar at Fudan University, Shanghai, Aug. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
+
 * JMS, Philadelphia, PA, USA, Aug. 2020 (invited), [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
 
 * Stat seminar at University of Cambridge, Cambridge, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
