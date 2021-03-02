@@ -5,7 +5,7 @@ title: Awards
 
 ### Awards and Honors
 
-* Royal Statistical Society Research Price, 2021.
+* Royal Statistical Society (RSS) Research Price, 2021.
 
 * Finalist in Reinforcement Learning Competition Track (RL Track) in KDD Cup (2020) (Ranked 7 out of more than 1000 teams), 2020.
 
