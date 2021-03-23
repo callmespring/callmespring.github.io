@@ -5,6 +5,8 @@ title: Software
 
 ### Software
 
+* [LOGAN](https://github.com/callmespring/LOGAN). Testing Mediation Effects Using the **LOG**ic of Boole**AN** Matrices.
+
 * [TestMDP](https://github.com/RunzheStat/TestMDP). Testing for the Markov Property in Sequential Decision Making. 
 
 * arleGP. Approximated Restricted Likelihood Estimator for Gaussian Process. [poster](./slides/arleGP.pdf). [code](./code/arleGP.zip).
