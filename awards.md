@@ -5,7 +5,8 @@ title: Grants and Awards
 
 ### Grants
 
-* LSE New Research Support Fund, 2021. "Sparse Reinforcement Learning for Optimal Decision Making In Mobile Health." (PI)
+* LSE New Research Support Fund (PI), 2021. "Sparse Reinforcement Learning for Optimal Decision Making In Mobile Health."
+* Eden Catalyst Fund, LSE Eden Center for Education Enhancement (PI), 2020. "Module-Level Grade Inflation Analysis at LSE".
 
 ### Awards and Honors
 
