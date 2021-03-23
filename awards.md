@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Awards
+title: Grants and Awards
 ---
+
+### Grants
+
+* LSE New Research Support Fund, 2021. "Sparse Reinforcement Learning for Optimal Decision Making In Mobile Health." (PI)
 
 ### Awards and Honors
 
