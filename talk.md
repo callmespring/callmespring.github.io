@@ -9,7 +9,7 @@ title: Talk
 
 * Stat seminar at Fudan University, Shanghai, Aug. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
-* JMS, Philadelphia, PA, USA, Aug. 2020 (invited), [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
+* JMS, Philadelphia, PA, USA, Aug. 2020, [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
 
 * EEE seminar at Imperial College London, London, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
