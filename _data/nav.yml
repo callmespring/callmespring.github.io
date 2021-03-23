@@ -1,11 +1,11 @@
-- name: "Awards"
-  link: "awards"
-
 - name: "Talks"
   link: "talk"
 
 - name: "Softwares"
   link: "software"
+  
+- name: "Grants and Awards"
+  link: "awards"  
   
 - name: "Publications"
   link: "publication"
