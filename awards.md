@@ -15,7 +15,7 @@ title: Grants and Awards
 
 * Institute of Mathematical Statistics (IMS) Hannan Graduate Student Travel Award, 2018.
 
-* Institute of Mathematical Statistics (IMS) Travel Award, 2017.
+* Institute of Mathematical Statistics (IMS) Travel Award, 2017. [Photo]()
 
 * Paige Plagge Award, NCSU, 2017.
 
