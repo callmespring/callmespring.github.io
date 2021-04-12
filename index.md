@@ -20,7 +20,7 @@ My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * statistical methods in **reinforcement learning** (RL)
-* statistical analysis of **complex** data
+* statistical analysis of **complex** data, including
   * DAG-structured data 
   * multi-relational data
   * massive data
