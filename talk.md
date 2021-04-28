@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at Purdue RL group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference for Reinforcement Learning](./slides/slides_long.pdf)
+
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
 
 * Applied Reinforcement Learning (ARL) Seminar, Online, Nov. 2020 (invited), [Discussion on "Statistically Efficient Offline Reinforcement Learning"](./slides/Discussion.pdf) video available [here](https://www.bilibili.com/s/video/BV1f5411V77h)
