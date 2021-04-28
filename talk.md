@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference for Reinforcement Learning](./slides/slides_long.pdf)
+* Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
 
