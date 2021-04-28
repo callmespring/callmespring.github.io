@@ -7,7 +7,7 @@ title: Talk
 
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Ddata? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
 
-* Applied Reinforcement Learning (ARL) Seminar, Online, Nov. 2020 (invited), [Discussion on "Statistically Efficient Offline Reinforcement Learning"](./slides/Discussion.pdf) [video](https://www.bilibili.com/s/video/BV1f5411V77h)
+* Applied Reinforcement Learning (ARL) Seminar, Online, Nov. 2020 (invited), [Discussion on "Statistically Efficient Offline Reinforcement Learning"](./slides/Discussion.pdf) video available [here](https://www.bilibili.com/s/video/BV1f5411V77h)
 
 * Stat seminar at Fudan University, Shanghai, Aug. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
