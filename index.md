@@ -14,11 +14,7 @@ layout: default
 
 (iv) Prior to (iii), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
 
-My email address is: <c.shi7@lse.ac.uk>
-
-My [GitHub](https://github.com/callmespring)
-
-My research is concentrated on
+My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * statistical methods in **reinforcement learning** (RL)
