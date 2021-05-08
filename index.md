@@ -5,7 +5,7 @@ layout: default
 <!---<img class="profile-picture" src="profile0.jpg" width="1000" height="1000">-->
 <img src="profile0.jpg">
 
-### About me###
+### About
 
 (i) I am assistant professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
 
@@ -16,7 +16,11 @@ layout: default
 
 (iv) Prior to (iii), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
 
-My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My research is concentrated on
+My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
+
+### Research Interests
+
+My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * statistical methods in **reinforcement learning** (RL)
