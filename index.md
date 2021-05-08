@@ -14,8 +14,6 @@ layout: default
 
 (iv) Prior to (iii), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
 
-<!---My CV can be found [here](./cv-4.pdf).>
-
 My email address is: <c.shi7@lse.ac.uk>
 
 My [GitHub](https://github.com/callmespring)
