@@ -33,7 +33,7 @@ My email address is: <c.shi7@lse.ac.uk>
 
 My [GitHub](https://github.com/callmespring)
 
-A summary of my phase one research. 
+A summary of my phase one research on **Learning in Finite Horizons with Complex Data**. 
 
 <img src="phase-I.jpg" width="700">
 
