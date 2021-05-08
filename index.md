@@ -5,6 +5,8 @@ layout: default
 <!---<img class="profile-picture" src="profile0.jpg" width="1000" height="1000">-->
 <img src="profile0.jpg">
 
+### About me###
+
 (i) I am assistant professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
 
 (ii) Prior to (i), I was a Ph.D. student in [Statistics at North Carolina State University](https://www.stat.ncsu.edu/) (NCSU). I work with [Dr. Wenbin Lu](https://www4.stat.ncsu.edu/~lu/) and 
