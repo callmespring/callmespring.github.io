@@ -8,7 +8,7 @@ title: Publication
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Wan, R., Chernozhukov, V. and Song, R. (2021). Deeply-Debiased Off-Policy Interval Estimation, _ICML_, accepted.
+**Shi, C.**, Wan, R., Chernozhukov, V. and Song, R. (2021). Deeply-Debiased Off-Policy Interval Estimation, _ICML_, selected as long presentation (top 3% of the submission).
 
 **Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, accepted.
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
