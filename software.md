@@ -5,6 +5,8 @@ title: Software
 
 ### Software
 
+* [D2OPE](https://github.com/RunzheStat/D2OPE). Deeply-Debiased Off-Policy Interval Estimation.
+
 * [LOGAN](https://github.com/callmespring/LOGAN). Testing Mediation Effects Using the **LOG**ic of Boole**AN** Matrices.
 
 * [TestMDP](https://github.com/RunzheStat/TestMDP). Testing for the Markov Property in Sequential Decision Making. 
