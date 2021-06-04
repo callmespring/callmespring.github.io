@@ -16,6 +16,8 @@ layout: default
 
 (iv) Prior to (iii), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
 
+I was honored to receive the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/) in March 2021. 
+
 My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### Research Interests
