@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* Stat seminar at the University of Hong Kong, HK, China, June. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+* Stat seminar at the University of Hong Kong, Hong Kong, China, June. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
 * Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
