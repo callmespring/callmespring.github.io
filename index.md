@@ -25,8 +25,8 @@ My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmesp
 My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
-* statistical methods in **reinforcement learning** (RL)
-* statistical analysis of **complex** data, including
+* **reinforcement learning** (RL)
+* analysis of **complex** data, including
   * DAG-structured data 
   * multi-relational data
   * massive data
