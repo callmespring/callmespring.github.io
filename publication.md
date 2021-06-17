@@ -8,7 +8,7 @@ title: Publication
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
 ### Publications/accepted manuscripts
-**Shi, C.**, Zhaang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
+**Shi, C.**, Zhang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
 Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. 
 **Python module** [<span style="font-family:courier;">**SAVE**</span>](https://github.com/callmespring/SAVE)
 
