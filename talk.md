@@ -34,7 +34,7 @@ Making with Complex Data](./slides/slides22.pdf)
 * Stat seminar at Shanghai University of International Business and Economics, Shanghai, Aug. 2019 (invited), [On Statistical Learning for Individualized Decision
 Making with Complex Data](./slides/slides22.pdf)
 
-* JSM, Denvor, CO, Aug. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
+* JSM, Denver, CO, Aug. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
 
 * ICSA, Raleigh, NC, June. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
 
