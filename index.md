@@ -27,6 +27,7 @@ My research is concentrated on
 <!---* [statistical methods in precision medicine](research_pm)-->
 * **reinforcement learning** (RL)
 * analysis of **complex** data, including
+  * neuroimaging data
   * DAG-structured data 
   * multi-relational data
   * massive data
