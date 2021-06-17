@@ -9,13 +9,13 @@ title: Talk
 
 * Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
-* CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
+* CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
 * Applied Reinforcement Learning (ARL) Seminar, Online, Nov. 2020 (invited), [Discussion on "Statistically Efficient Offline Reinforcement Learning"](./slides/Discussion.pdf) video available [here](https://www.bilibili.com/s/video/BV1f5411V77h)
 
 * Stat seminar at Fudan University, Shanghai, Aug. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
-* JMS, Philadelphia, PA, USA, Aug. 2020, [Does the Markov Decision Process Fit the Data? Testing for the Markov Propery in Sequential Decision Making](./slides/slides.pdf)
+* JMS, Philadelphia, PA, USA, Aug. 2020, [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
 * EEE seminar at Imperial College London, London, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
