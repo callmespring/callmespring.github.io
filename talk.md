@@ -24,7 +24,7 @@ title: Talk
 * Stat seminar at SHUFE, Shanghai, Jan. 2020 (invited), [On Statistical Learning for Individualized Decision
 Making with Complex Data](./slides/slides22.pdf)
 
-* ICSA, Hangzhou, Zhejiang, Dec. 2019 (invited), Statistical inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings
+* ICSA, Hangzhou, Zhejiang, Dec. 2019 (invited), [Statistical inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings](./slides/VIslides.pdf)
 
 * Biostat seminar at NCSU, Raleigh, NC, Nov. 2019 (invited), [On Testing Overall/Conditional Qualitative Treatment Effects](./slides/OCQTE.pdf)
 
