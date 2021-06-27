@@ -20,6 +20,8 @@ I was honoured to receive the [Royal Statistical Society (RSS) Research Prize](h
 
 My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
 
+I am looking for PhD students interested in reinforcement learning. 
+
 ### Research Interests
 
 My research is concentrated on
