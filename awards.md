@@ -11,6 +11,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* Contribution Award, LSE, 2021. 
+
 * [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/), 2021.
 
 * Finalist in Reinforcement Learning Competition Track (RL Track) in KDD Cup (2020) (Ranked 7 out of more than 1000 teams), 2020.
