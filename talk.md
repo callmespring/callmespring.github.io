@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Conference of "Statistical learning methods in modern AI" (invited), Xi'an, China, June. 2021 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
+
 * Stat seminar at the University of Hong Kong, Hong Kong, China, June. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
 * Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
