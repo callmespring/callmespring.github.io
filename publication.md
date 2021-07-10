@@ -22,7 +22,7 @@ Wan, R., Zhang, S., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer L
 
 **Shi, C.**, Song, R. and Lu, W. (2021). [Concordance and Value Information Criteria for Optimal Treatment Decision](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.short) (**CIVIC**), _Annals of Statistics_, **49**, 49-75.
 
-**Shi, C.**, Lu, W. and Song, R. (2020). [Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes](./paper/SASv2cs.pdf), _Journal of Machine Learning Research_, accepted. **R and C sample code** [<font size="3">subagging2.cpp</font>](./code/subagging2.cpp) [<font size="3">sb.r</font>](./code/sb.r)  
+**Shi, C.**, Lu, W. and Song, R. (2020). [Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes](./paper/SASv2cs.pdf), _Journal of Machine Learning Research_, **21**, 1−67. **R and C sample code** [<font size="3">subagging2.cpp</font>](./code/subagging2.cpp) [<font size="3">sb.r</font>](./code/sb.r)  
 
 **Shi, C.**, Wan, R., Song, R., Lu, W. and Leng, L. (2020). [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](http://proceedings.mlr.press/v119/shi20c/shi20c.pdf). _ICML_. 
 **Python module** [<span style="font-family:courier;">**TestMDP**</span>](https://github.com/RunzheStat/TestMDP) <br/> [<font size="3">slides</font>](./slides/slides.pdf) [<font size="3">video</font>](https://icml.cc/virtual/2020/poster/5961) <font size="3">presented at CMStatistics 2020, ICML 2020 and JSM 2020</font>.
