@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* JSM, online, Aug. 2021 (invited), [Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning](./slides/sugar.pdf)
+* JSM, online, Aug. 2021 (invited), [Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning](./slides/SUGAR.pdf)
 
 * Conference of "Statistical learning methods in modern AI" (invited), Xi'an, China, June. 2021 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
