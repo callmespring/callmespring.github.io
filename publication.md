@@ -12,7 +12,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. 
 **Python module** [<span style="font-family:courier;">**SAVE**</span>](https://github.com/callmespring/SAVE) <br/> [<font size="3">slides</font>](./slides/VIslides.pdf) <font size="3">presented at ICSA 2019</font>.
 
-Wan, R., Zhang, S., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (spotlight).
+Wan, R., Zhang, S., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (best paper, spotlight).
 
 **Shi, C.**, Wan, R., Chernozhukov, V. and Song, R. (2021). [Deeply-Debiased Off-Policy Interval Estimation](https://arxiv.org/pdf/2105.04646.pdf), _ICML_ (long talk, top 3% of submissions).
 **Python module** [<span style="font-family:courier;">**D2OPE**</span>](https://github.com/RunzheStat/D2OPE)
