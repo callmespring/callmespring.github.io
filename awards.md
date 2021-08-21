@@ -11,6 +11,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* Best Paper Award, IJCAI 2021 Reinforcement Learning for Intelligent Transportation Systems Workshop. 
+
 * Contribution Award, LSE, 2021. 
 
 * [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/), 2021.
