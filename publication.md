@@ -16,7 +16,7 @@ Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _J
 
 Wan, R., Zhang, S., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (best paper, spotlight).
 
-**Shi, C.**, Wan, R., Chernozhukov, V. and Song, R. (2021). [Deeply-Debiased Off-Policy Interval Estimation](https://arxiv.org/pdf/2105.04646.pdf), _ICML_ (long talk, top 3% of submissions).
+**Shi, C.\***, Wan, R., Chernozhukov, V. and Song, R. (2021). [Deeply-Debiased Off-Policy Interval Estimation](https://arxiv.org/pdf/2105.04646.pdf), _ICML_ (long talk, top 3% of submissions).
 **Python module** [<span style="font-family:courier;">**D2OPE**</span>](https://github.com/RunzheStat/D2OPE)
 
 **Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, accepted.
