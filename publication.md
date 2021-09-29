@@ -14,6 +14,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings, _NeurIPS_. 
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2021+). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](http://eprints.lse.ac.uk/111904/), _Stat_, accepted. 
+**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
 
 **Shi, C.**, Zhang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
 Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. 
