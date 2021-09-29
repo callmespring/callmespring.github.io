@@ -11,7 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings, _NeurIPS_. 
+Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). Deep Jump Learning (**DJL**) for Off-Policy Evaluation in Continuous Treatment Settings, _NeurIPS_. 
+**Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/callmespring/DJL)
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2021+). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](http://eprints.lse.ac.uk/111904/), _Stat_, accepted. 
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
