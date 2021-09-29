@@ -11,7 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings, _NeurIPS_. (Distinguished Student Paper Awards, 2021 ENAR Spring Meeting)
+Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings, _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
 **Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/callmespring/DJL)
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2021+). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](http://eprints.lse.ac.uk/111904/), _Stat_, accepted. 
