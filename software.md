@@ -5,11 +5,13 @@ title: Software
 
 ### Software
 
-* [D2OPE](https://github.com/RunzheStat/D2OPE). Deeply-Debiased Off-Policy Interval Estimation.
+* [DJL](https://github.com/callmespring/D2OPE). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
+
+* [D2OPE](https://github.com/callmespring/D2OPE). Deeply-Debiased Off-Policy Interval Estimation.
 
 * [LOGAN](https://github.com/callmespring/LOGAN). Testing Mediation Effects Using the **LOG**ic of Boole**AN** Matrices.
 
-* [TestMDP](https://github.com/RunzheStat/TestMDP). Testing for the Markov Property in Sequential Decision Making. 
+* [TestMDP](https://github.com/callmespring/TestMDP). Testing for the Markov Property in Sequential Decision Making. 
 
 * arleGP. Approximated Restricted Likelihood Estimator for Gaussian Process. [poster](./slides/arleGP.pdf). [code](./code/arleGP.zip).
 
