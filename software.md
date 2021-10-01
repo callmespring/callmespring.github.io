@@ -5,7 +5,7 @@ title: Software
 
 ### Software
 
-* [DJL](https://github.com/callmespring/D2OPE). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
+* [DJL](https://github.com/callmespring/DJL). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
 
 * [D2OPE](https://github.com/callmespring/D2OPE). Deeply-Debiased Off-Policy Interval Estimation.
 
