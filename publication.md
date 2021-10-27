@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+**Shi, C.**, Luo, S., Zhu, H. and Song, R. (2021+). An Online Sequential Test for Qualitative Treatment Effects. _Journal of Machine Learning Research_, accepted. 
+
 Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
 **Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/callmespring/DJL)
 
