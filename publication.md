@@ -11,8 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-**Shi, C.**, Xu, T., Bergsma, W. and Li, L. (2021+) [DOUBLE GENERATIVE ADVERSARIAL NETWORKS FOR
-CONDITIONAL INDEPENDENCE TESTING](https://arxiv.org/pdf/2006.02615.pdf). _Journal of Machine Learning Research_, accepted. 
+**Shi, C.**, Xu, T., Bergsma, W. and Li, L. (2021+) [Double Generative Adversarial Networks for Conditional Independence Testing](https://arxiv.org/pdf/2006.02615.pdf). _Journal of Machine Learning Research_, accepted. 
 **Python module** [<span style="font-family:courier;">**dgcit**</span>](https://github.com/callmespring/dgcit)
 
 **Shi, C.**, Luo, S., Zhu, H. and Song, R. (2021+). [An Online Sequential Test for Qualitative Treatment Effects](http://eprints.lse.ac.uk/112521/1/Shi_an_online_sequential_test_for_qualitative_treatment_effects_accepted.pdf). _Journal of Machine Learning Research_, accepted. 
