@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* INFORMS Annual Meeting, Online, Oct. 2021 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
+
 * European Young Statisticians Meeting, Online, Sep. 2021 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
 
 * EuroCIM, Online, Sep. 2021, [Testing Mediation Effects Using Logic of Boolean Matrices](./slides/LOGAN.pdf)
