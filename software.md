@@ -5,6 +5,8 @@ title: Software
 
 ### Software
 
+* [dgcit](https://github.com/callmespring/dgcit). Double Generative Adversarial Networks for Conditional Independence Testing.
+
 * [DJL](https://github.com/callmespring/DJL). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
 
 * [D2OPE](https://github.com/callmespring/D2OPE). Deeply-Debiased Off-Policy Interval Estimation.
