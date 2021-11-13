@@ -5,6 +5,16 @@ title: Talk
 
 ### Talk
 
+* ICSA Meeting, Hong Kong, China, Dec. 2022 (invited), Deeply-Debiased Off-Policy Interval Estimation
+
+* JSM Meeting, DC, US, Aug. 2022 (invited), Testing Nonstationary and Policy Optimisation in Reinforcement Learning
+
+* ICSA Meeting, Xi'an, Shaanxi, China, July 2022, (invited) Double Generative Adversarial Networks for Conditional Independence Testing
+
+* The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), Deeply-Debiased Off-Policy Interval Estimation
+
+* Stat seminar at the University of Warwick, Coventry, UK, Nov. 2021 (invited),  Statistical Inference in Reinforcement Learning
+
 * INFORMS Annual Meeting, Online, Oct. 2021 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
 
 * European Young Statisticians Meeting, Online, Sep. 2021 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
