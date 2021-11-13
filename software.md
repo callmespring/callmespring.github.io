@@ -9,6 +9,8 @@ title: Software
 
 * [DJL](https://github.com/callmespring/DJL). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
 
+* [SAVE](https://github.com/callmespring/SAVE). Sequential Value Evaluation.
+
 * [D2OPE](https://github.com/callmespring/D2OPE). Deeply-Debiased Off-Policy Interval Estimation.
 
 * [LOGAN](https://github.com/callmespring/LOGAN). Testing Mediation Effects Using the **LOG**ic of Boole**AN** Matrices.
