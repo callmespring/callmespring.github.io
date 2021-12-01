@@ -14,7 +14,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 **Shi, C.**, Xu, T., Bergsma, W. and Li, L. (2021) [Double Generative Adversarial Networks for Conditional Independence Testing](https://jmlr.org/papers/volume22/21-0294/21-0294.pdf). _Journal of Machine Learning Research_, **22**, 1-32. 
 **Python module** [<span style="font-family:courier;">**dgcit**</span>](https://github.com/callmespring/dgcit)
 
-**Shi, C.**, Luo, S., Zhu, H. and Song, R. (2021+). [An Online Sequential Test for Qualitative Treatment Effects](https://jmlr.org/papers/volume22/21-0383/21-0383.pdf). _Journal of Machine Learning Research_, **22**, 1-51. 
+**Shi, C.**, Luo, S., Zhu, H. and Song, R. (2021). [An Online Sequential Test for Qualitative Treatment Effects](https://jmlr.org/papers/volume22/21-0383/21-0383.pdf). _Journal of Machine Learning Research_, **22**, 1-51. 
 
 Cai, H\*. **Shi, C\*.**, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
 **Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/callmespring/DJL)
