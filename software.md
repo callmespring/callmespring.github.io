@@ -5,6 +5,8 @@ title: Software
 
 ### Software
 
+* [CausalRL](https://github.com/callmespring/CausalRL). Dynamic **Causal** Effects Evaluation in A/B Testing with a **Reinforcement Learning** Framework
+
 * [dgcit](https://github.com/callmespring/dgcit). Double Generative Adversarial Networks for Conditional Independence Testing.
 
 * [DJL](https://github.com/callmespring/DJL). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
