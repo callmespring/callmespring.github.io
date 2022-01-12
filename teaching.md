@@ -11,7 +11,7 @@ title: Teaching
 
 * MT 2020 -- LT 2021: Probability, Distribution Theory and Inference (ST202)
 
-* LT 2021: Foundations of Machine Learning (ST510)
+* LT 2021: [Foundations of Machine Learning](https://lse-st510.github.io/) (ST510)
 
 ### Teaching Assistant at North Carolina State University
 
