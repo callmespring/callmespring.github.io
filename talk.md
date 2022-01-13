@@ -13,7 +13,7 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), Deeply-Debiased Off-Policy Interval Estimation
 
-* Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) Youtube video available [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) 
+* Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) **Youtube video** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) 
 
 * Stat seminar at the University of Warwick, Coventry, UK, Nov. 2021 (invited),  [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) 
 
@@ -33,7 +33,7 @@ title: Talk
 
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
-* Applied Reinforcement Learning (ARL) Seminar, Online, Nov. 2020 (invited), [Discussion on "Statistically Efficient Offline Reinforcement Learning"](./slides/Discussion.pdf) Youtube video available [here](https://www.youtube.com/watch?v=n5ZoxT_WmHo) Bilibili link [here](https://www.bilibili.com/s/video/BV1f5411V77h)
+* Applied Reinforcement Learning (ARL) Seminar, Online, Nov. 2020 (invited), [Discussion on "Statistically Efficient Offline Reinforcement Learning"](./slides/Discussion.pdf) **Youtube video** [here](https://www.youtube.com/watch?v=n5ZoxT_WmHo) **Bilibili link** [here](https://www.bilibili.com/s/video/BV1f5411V77h)
 
 * Stat seminar at Fudan University, Shanghai, Aug. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
