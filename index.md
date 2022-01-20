@@ -18,7 +18,7 @@ layout: default
 
 I was honoured to receive the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/) in March 2021. 
 
-My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). <!---My [CV](./mycv-4.pdf).-->
+My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
 
 I am looking for PhD students interested in reinforcement learning. 
 
