@@ -13,6 +13,8 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), Deeply-Debiased Off-Policy Interval Estimation
 
+* Biostat Seminar at the University of California, Berkeley, CA, USA, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+
 * Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) 
 
 * Stat seminar at the University of Warwick, Coventry, UK, Nov. 2021 (invited),  [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) 
@@ -39,35 +41,35 @@ title: Talk
 
 * JMS, Philadelphia, PA, USA, Aug. 2020, [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
-* EEE seminar at Imperial College London, London, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
+* EEE seminar at Imperial College London, London, UK, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
-* Stat seminar at University of Cambridge, Cambridge, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
+* Stat seminar at University of Cambridge, Cambridge, UK, Feb. 2020 (invited), [On Statistical Learning for Individualized Decision Making with Complex Data](./slides/slides22.pdf)
 
-* Stat seminar at SHUFE, Shanghai, Jan. 2020 (invited), [On Statistical Learning for Individualized Decision
+* Stat seminar at SHUFE, Shanghai, China, Jan. 2020 (invited), [On Statistical Learning for Individualized Decision
 Making with Complex Data](./slides/slides22.pdf)
 
-* ICSA, Hangzhou, Zhejiang, Dec. 2019 (invited), [Statistical inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings](./slides/VIslides.pdf)
+* ICSA, Hangzhou, Zhejiang, China, Dec. 2019 (invited), [Statistical inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings](./slides/VIslides.pdf)
 
-* Biostat seminar at NCSU, Raleigh, NC, Nov. 2019 (invited), [On Testing Overall/Conditional Qualitative Treatment Effects](./slides/OCQTE.pdf)
+* Biostat seminar at NCSU, Raleigh, NC, USA, Nov. 2019 (invited), [On Testing Overall/Conditional Qualitative Treatment Effects](./slides/OCQTE.pdf)
 
-* Stat seminar at University of York, York, Oct. 2019 (invited), [On Statistical Learning for Individualized Decision
+* Stat seminar at University of York, York, UK, Oct. 2019 (invited), [On Statistical Learning for Individualized Decision
 Making with Complex Data](./slides/slides22.pdf)
 
-* Stat seminar at Shanghai University of International Business and Economics, Shanghai, Aug. 2019 (invited), [On Statistical Learning for Individualized Decision
+* Stat seminar at Shanghai University of International Business and Economics, Shanghai, China, Aug. 2019 (invited), [On Statistical Learning for Individualized Decision
 Making with Complex Data](./slides/slides22.pdf)
 
-* JSM, Denver, CO, Aug. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
+* JSM, Denver, CO, USA, Aug. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
 
-* ICSA, Raleigh, NC, June. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
+* ICSA, Raleigh, NC, USA, June. 2019 (invited), [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](./slides/OQTEv1.pdf).
 
-* Biostat seminar at NCSU, Raleigh, NC, Sep. 2018 (invited), On Statistical Learning for Individualized Treatment Regime. 
+* Biostat seminar at NCSU, Raleigh, NC, USA, Sep. 2018 (invited), On Statistical Learning for Individualized Treatment Regime. 
 
-* Poster presentation at NCSU Graduate Student Research Symposium, NC, 2018, [Maximin-Projection Learning for Optimal Treatment Decision with Heterogeneous
+* Poster presentation at NCSU Graduate Student Research Symposium, NC, USA, 2018, [Maximin-Projection Learning for Optimal Treatment Decision with Heterogeneous
 Individualized Treatment Effects](./slides/NCSU2018.pdf).
 
-* JSM, Baltimore, MD, 2017, [On Testing Conditional Qualitative Treatment Effects](./slides/JSM2017.pdf).
+* JSM, Baltimore, MD, USA, 2017, [On Testing Conditional Qualitative Treatment Effects](./slides/JSM2017.pdf).
 
-* JSM, Chicago, IL, 2016, [Minimax-Angle Learning for Optimal Treatment Decision with Heterogeneous Data](./slides/JSM2016.pdf).
+* JSM, Chicago, IL, USA, 2016, [Minimax-Angle Learning for Optimal Treatment Decision with Heterogeneous Data](./slides/JSM2016.pdf).
 
 * ENAR, Austin, TX, 2016, [High Dimensional A-learning for Optimal Treatment Regime](./slides/ENAR2016spring.pdf).
 
