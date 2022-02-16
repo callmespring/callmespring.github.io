@@ -16,11 +16,13 @@ layout: default
 
 (iv) Prior to (iii), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
 
+I have a postdoc position funded by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1&utm_source=BenchmarkEmail&utm_campaign=PhD_Newsletter_-_LT_Week_05_(2021%2f22)&utm_medium=email). More details will be given later. 
+
 I was honoured to receive the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/) in March 2021. 
 
-My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
-
 I am looking for PhD students interested in reinforcement learning. 
+
+My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
 
 ### Research Interests
 
