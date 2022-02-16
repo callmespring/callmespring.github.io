@@ -44,5 +44,7 @@ A summary of my phase one research: **Individualized Decision Making with Comple
 
 <img src="phase-I.jpg" width="700">
 
-
+### Editorial Service
+* Associate editor, [Journal of the Royal Statistical Society, Series B](https://rss.onlinelibrary.wiley.com/journal/14679868) (Jan 2022 -- present)
+* Associate editor, [Journal of the Nonparametric Statistics](https://www.tandfonline.com/journals/gnst20) (Jan 2022 -- present)
 
