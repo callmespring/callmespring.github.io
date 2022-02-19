@@ -15,7 +15,7 @@ title: Talk
 
 * Biostat Seminar at the University of California, Berkeley, CA, USA, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
-* Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) 
+* Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) **Bilibili link** [here](https://www.bilibili.com/video/BV1e341177Bd?from=search&seid=16864777094474281673&spm_id_from=333.337.0.0)
 
 * Stat seminar at the University of Warwick, Coventry, UK, Nov. 2021 (invited),  [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) 
 
