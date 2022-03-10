@@ -13,6 +13,10 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), Deeply-Debiased Off-Policy Interval Estimation
 
+* Seminar at Shandong University Institude for Financial Studies, Shandong, China, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+
+* Stat seminar at the Australian National University, Canberra, Australia, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+
 * Biostat Seminar at the University of California, Berkeley, CA, USA, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
 
 * Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) **Bilibili link** [here](https://www.bilibili.com/video/BV1e341177Bd?from=search&seid=16864777094474281673&spm_id_from=333.337.0.0)
