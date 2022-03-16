@@ -15,15 +15,15 @@ title: Talk
 
 * Online Causal Inference Seminar, Mar. 2022 (invited), [A Reinforcement Learning Framework for Dynamic Causal Effects Evaluation](./slides/CausalRL.pdf)
 
-* Seminar at Shandong University Institude for Financial Studies, Shandong, China, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+* Seminar at Shandong University Institude for Financial Studies, Shandong, China, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Stat seminar at the Australian National University, Canberra, Australia, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+* Stat seminar at the Australian National University, Canberra, Australia, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Biostat Seminar at the University of California, Berkeley, CA, USA, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+* Biostat Seminar at the University of California, Berkeley, CA, USA, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) **Bilibili link** [here](https://www.bilibili.com/video/BV1e341177Bd?from=search&seid=16864777094474281673&spm_id_from=333.337.0.0)
+* Applied Reinforcement Learning (ARL) Seminar, Online, Jan. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=-SW9PevZThs&t=5s) **Bilibili link** [here](https://www.bilibili.com/video/BV1e341177Bd?from=search&seid=16864777094474281673&spm_id_from=333.337.0.0)
 
-* Stat seminar at the University of Warwick, Coventry, UK, Nov. 2021 (invited),  [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf) 
+* Stat seminar at the University of Warwick, Coventry, UK, Nov. 2021 (invited),  [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf) 
 
 * INFORMS Annual Meeting, Online, Oct. 2021 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
 
@@ -35,9 +35,9 @@ title: Talk
 
 * Conference of "Statistical learning methods in modern AI" (invited), Xi'an, China, June. 2021 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
-* Stat seminar at the University of Hong Kong, Hong Kong, China, June. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+* Stat seminar at the University of Hong Kong, Hong Kong, China, June. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/slides_long.pdf)
+* Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
