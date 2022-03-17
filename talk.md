@@ -13,7 +13,7 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), Deeply-Debiased Off-Policy Interval Estimation
 
-* Online Causal Inference Seminar, Mar. 2022 (invited), [A Reinforcement Learning Framework for Dynamic Causal Effects Evaluation](./slides/CausalRL.pdf)
+* Online Causal Inference Seminar, Mar. 2022 (invited), [A Reinforcement Learning Framework for Dynamic Causal Effects Evaluation](./slides/CausalRL.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=Zor1CmRyycw)
 
 * Seminar at Shandong University Institude for Financial Studies, Shandong, China, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
