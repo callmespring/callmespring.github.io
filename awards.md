@@ -31,4 +31,4 @@ title: Grants and Awards
 
 * Meritorious Winner in 2013 Mathematical Contest in Modelling, 2013.
 
-* National scholarship, China, (2%), 2012.
+* National scholarship, China, (0.2%), 2012.
