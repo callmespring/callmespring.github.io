@@ -13,6 +13,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* Institute of Mathematical Statistics (IMS) New Researcher Travel Award, 2022.
+
 * Best Paper Award, IJCAI 2021 Reinforcement Learning for Intelligent Transportation Systems Workshop. 
 
 * [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/), 2021.
