@@ -12,7 +12,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 \* indicates equal contribution
 
 **Shi, C\*.**, Wang, X\*., Luo, S., Zhu, H., Ye, J. and Song, R. (2021+). [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://arxiv.org/pdf/2002.01711.pdf). _Journal of the American Statistical Association_, accepted. 
-**Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at [Online Causal Inference Seminar](https://sites.google.com/view/ocis/)</font>.
+**Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at Online Causal Inference Seminar.
 
 **Shi, C.**, Xu, T., Bergsma, W. and Li, L. (2021) [Double Generative Adversarial Networks for Conditional Independence Testing](https://jmlr.org/papers/volume22/21-0294/21-0294.pdf). _Journal of Machine Learning Research_, **22**, 1-32. 
 **Python module** [<span style="font-family:courier;">**dgcit**</span>](https://github.com/callmespring/dgcit)
