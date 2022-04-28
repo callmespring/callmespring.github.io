@@ -13,6 +13,8 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), Deeply-Debiased Off-Policy Interval Estimation
 
+* Seminar at the Duke Reinforcement Learning Group, Durham, NC, US, April 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUM-RL.pdf)
+
 * Stat Seminar at University of Massachusetts Amherst, MA, US, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Online Causal Inference Seminar, Mar. 2022 (invited), [A Reinforcement Learning Framework for Dynamic Causal Effects Evaluation](./slides/CausalRL.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=Zor1CmRyycw)
@@ -39,7 +41,7 @@ title: Talk
 
 * Stat seminar at the University of Hong Kong, Hong Kong, China, June. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Seminar at Purdue Reinforcement Learning group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+* Seminar at Purdue Reinforcement Learning Group, West Lafayette, USA, April. 2021 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * CMStatistics, London, UK, Dec. 2020 (invited), [Does the Markov Decision Process Fit the Data? Testing for the Markov Property in Sequential Decision Making](./slides/slides.pdf)
 
