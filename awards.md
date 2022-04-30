@@ -21,6 +21,8 @@ title: Grants and Awards
 
 * Finalist in Reinforcement Learning Competition Track (RL Track) in KDD Cup (2020) (Ranked 7 out of more than 1000 teams), 2020.
 
+* Nominated for the Outstanding TA Award, NCSU, 2019.
+
 * Institute of Mathematical Statistics (IMS) Hannan Graduate Student Travel Award, 2018.
 
 * Institute of Mathematical Statistics (IMS) Travel Award, 2017. [Photo](https://imstat.org/2017/11/16/ims-travel-awards-apply-now/)
