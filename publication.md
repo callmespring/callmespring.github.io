@@ -11,6 +11,11 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+**Shi, C\*.**, Uehara, M.\*, Huang, J. and Jiang, N. (2022). [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/pdf/2111.06784.pdf), _ICML_ (**long talk**, top 2% of submissions).
+
+Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433), _Stat_, **11**, e433. 
+**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
+
 **Shi, C\*.**, Wang, X\*., Luo, S., Zhu, H., Ye, J. and Song, R. (2021+). [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://arxiv.org/pdf/2002.01711.pdf). _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at Online Causal Inference Seminar.
 
@@ -21,9 +26,6 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 Cai, H\*. **Shi, C.\***, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
 **Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/HengruiCai/DJL)
-
-Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2021+). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](http://eprints.lse.ac.uk/111904/), _Stat_, accepted. 
-**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
 
 **Shi, C.**, Zhang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
 Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. 
