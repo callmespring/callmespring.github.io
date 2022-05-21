@@ -30,12 +30,7 @@ My research is concentrated on
 
 <!---* [statistical methods in precision medicine](research_pm)-->
 * **reinforcement learning** (RL)
-* analysis of **complex** data, including
-  * neuroimaging data
-  * DAG-structured data 
-  * multi-relational data
-  * massive data
-  * high-dimensional data 
+* analysis of **complex** data
 
 Some of my recent research talks on statistics, RL and causal inference [StatRL](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s), [CausalRL](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s).
 
