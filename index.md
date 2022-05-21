@@ -24,7 +24,7 @@ I am looking for PhD students interested in reinforcement learning.
 
 My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
 
-### Research Interests
+### Research
 
 My research is concentrated on
 
