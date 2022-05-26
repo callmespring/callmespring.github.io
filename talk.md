@@ -13,6 +13,8 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), A Reinforcement Learning Framework for A/B Testing
 
+* Seminar at coreAI Science Talk Series, Amazon, Online, May 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * Seminar at the Duke Reinforcement Learning Group, Durham, NC, US, April 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUM-RL.pdf)
 
 * Stat Seminar at University of Massachusetts Amherst, MA, US, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
