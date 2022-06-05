@@ -13,7 +13,7 @@ title: Talk
 
 * The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), A Reinforcement Learning Framework for A/B Testing
 
-* EcoSta 2022, Kyoto, Japan, June 2022 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=Zor1CmRyycw)
+* EcoSta 2022, Kyoto, Japan, June 2022 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
 
 * Seminar at coreAI Science Talk Series, Amazon, Online, May 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
