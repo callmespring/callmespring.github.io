@@ -11,7 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-**Shi, C\*.**, Uehara, M\*., Huang, J. and Jiang, N. (2022). [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/pdf/2111.06784.pdf), _ICML_ (**long talk**, top 2% of submissions).
+**Shi, C\*.**, Uehara, M\*., Huang, J. and Jiang, N. (2022). [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/pdf/2111.06784.pdf), _ICML_ (**long talk**, top 2% of submissions). **Python module** [<span style="font-family:courier;">**Confounded-POMDP-OPE**</span>](https://github.com/jiaweihhuang/Confounded-POMDP-Exp)
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433), _Stat_, **11**, e433. 
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
