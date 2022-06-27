@@ -11,7 +11,9 @@ title: Talk
 
 * ICSA Meeting, Xi'an, Shaanxi, China, July 2022, (invited) Double Generative Adversarial Networks for Conditional Independence Testing
 
-* The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), A Reinforcement Learning Framework for A/B Testing
+* The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
+
+* Stat seminar at Shanghai University of International Business and Economics, Shanghai, China, June 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * EcoSta 2022, Kyoto, Japan, June 2022 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
 
