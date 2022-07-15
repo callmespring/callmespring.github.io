@@ -39,7 +39,7 @@ high-dimensional covariates and are characterized by some degree of heterogeneit
 
 A summary of my phase one research: **Individualized Decision Making with Complex Data**
 
-<img src="phase-I.jpg" width="700">
+<img src="phase-I.png" width="700">
 
 ### Editorial Service
 * Associate editor, [Journal of the Royal Statistical Society, Series B](https://rss.onlinelibrary.wiley.com/journal/14679868) (Jan 2022 -- present)
