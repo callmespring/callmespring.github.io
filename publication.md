@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+**Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163), _Journal of the American Statistical Association_, accepted. 
+**Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/Statistically-Efficient-Advantage-Learning-for-Offline-Reinforcement-Learning-in-Infinite-Horizons)
+
 **Shi, C\*.**, Uehara, M\*., Huang, J. and Jiang, N. (2022). [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/pdf/2111.06784.pdf), _ICML_ (**long talk**, top 2% of submissions). **Python module** [<span style="font-family:courier;">**Confounded-POMDP-OPE**</span>](https://github.com/jiaweihhuang/Confounded-POMDP-Exp)
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433), _Stat_, **11**, e433. 
