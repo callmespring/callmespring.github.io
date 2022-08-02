@@ -18,6 +18,10 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 **Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163), _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
 
+**Shi, C.**, Zhang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
+Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, **84**, 765-793. 
+**Python module** [<span style="font-family:courier;">**SAVE**</span>](https://github.com/shengzhang37/SAVE) <br/> [<font size="3">slides</font>](./slides/VIslides.pdf) <font size="3">presented at ICSA 2019</font>.
+
 **Shi, C\*.**, Uehara, M\*., Huang, J. and Jiang, N. (2022). [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/pdf/2111.06784.pdf), _ICML_ (**long talk**, top 2% of submissions). **Python module** [<span style="font-family:courier;">**Confounded-POMDP-OPE**</span>](https://github.com/jiaweihhuang/Confounded-POMDP-Exp)
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433), _Stat_, **11**, e433. 
@@ -33,10 +37,6 @@ Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inferenc
 
 Cai, H\*. **Shi, C.\***, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
 **Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/HengruiCai/DJL)
-
-**Shi, C.**, Zhang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
-Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. 
-**Python module** [<span style="font-family:courier;">**SAVE**</span>](https://github.com/shengzhang37/SAVE) <br/> [<font size="3">slides</font>](./slides/VIslides.pdf) <font size="3">presented at ICSA 2019</font>.
 
 Wan, R., Zhang, S., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (**best paper**, **spotlight**).
 
