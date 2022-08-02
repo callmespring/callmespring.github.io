@@ -18,7 +18,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 **Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163), _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
 
-**Shi, C.**, Zhang, S., Song, R. and Lu, W. (2021+). [Statistical Inference of the Value Function for Reinforcement
+**Shi, C.**, Zhang, S., Song, R. and Lu, W. (2022). [Statistical Inference of the Value Function for Reinforcement
 Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, **84**, 765-793. 
 **Python module** [<span style="font-family:courier;">**SAVE**</span>](https://github.com/shengzhang37/SAVE) <br/> [<font size="3">slides</font>](./slides/VIslides.pdf) <font size="3">presented at ICSA 2019</font>.
 
