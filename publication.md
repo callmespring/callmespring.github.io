@@ -12,10 +12,10 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 \* indicates equal contribution
 
 **Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2022+). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
-](https://arxiv.org/abs/2202.10589), _Journal of the American Statistical Association_, accepted. 
+](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**COPE**</span>](https://github.com/Mamba413/cope)
 
-**Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163), _Journal of the American Statistical Association_, accepted. 
+**Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163) (**SEAL**), _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
 
 **Shi, C.**, Zhang, S., Song, R. and Lu, W. (2022). [Statistical Inference of the Value Function for Reinforcement
