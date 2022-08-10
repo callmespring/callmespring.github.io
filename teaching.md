@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-RL short course, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind \& UCL RL lecture series 
+RL short course, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series 
 
 [Lecture 1](./slides/lecture2.pdf), [Lecture 2](./slides/lecture3.pdf) 
 
