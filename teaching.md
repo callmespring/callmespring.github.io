@@ -5,7 +5,7 @@ title: Teaching
 
 RL short course, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind \& UCL RL lecture series 
 
-[Lecture 1](), [Lecture 2]() 
+[Lecture 1](https://github.com/callmespring/callmespring.github.io/blob/master/slides/lecture2.pdf), [Lecture 2](https://github.com/callmespring/callmespring.github.io/blob/master/slides/lecture3.pdf) 
 
 ### Teaching at London School of Economics and Political Science
 
