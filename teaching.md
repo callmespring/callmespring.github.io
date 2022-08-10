@@ -3,6 +3,8 @@ layout: default
 title: Teaching
 ---
 
+RL short course, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind \& UCL RL lecture series.  
+
 ### Teaching at London School of Economics and Political Science
 
 * MT 2019 -- MT 2021: [Managing and Visualising Data](https://lse-st445.github.io/) (ST445)
