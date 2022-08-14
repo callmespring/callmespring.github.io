@@ -7,9 +7,9 @@ title: Talk
 
 * ICSA Meeting, Hong Kong, China, Dec. 2022 (invited), Deeply-Debiased Off-Policy Interval Estimation
 
-* JSM Meeting, DC, US, Aug. 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUM-RL.pdf)
+* JSM Meeting, DC, US, Aug. 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
-* Seminar at the University of Hong Kong, HK, China, Aug 2022, (invited) [Reinforcement Learning in Nonstationary Environment](./slides/CUMSUM-RL.pdf)
+* Seminar at the University of Hong Kong, HK, China, Aug 2022, (invited) [Reinforcement Learning in Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
 * ICSA Meeting, Xi'an, Shaanxi, China, July 2022, (invited) Double Generative Adversarial Networks for Conditional Independence Testing
 
@@ -21,7 +21,7 @@ title: Talk
 
 * Seminar at coreAI Science Talk Series, Amazon, Online, May 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Seminar at the Duke Reinforcement Learning Group, Durham, NC, US, April 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUM-RL.pdf)
+* Seminar at the Duke Reinforcement Learning Group, Durham, NC, US, April 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
 * Stat Seminar at University of Massachusetts Amherst, MA, US, Mar. 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
