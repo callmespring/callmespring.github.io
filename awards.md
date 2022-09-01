@@ -13,6 +13,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* LSE Excellence in Education Awards, 2022.
+
 * Institute of Mathematical Statistics (IMS) New Researcher Travel Award, 2022.
 
 * Best Paper Award, IJCAI 2021 Reinforcement Learning for Intelligent Transportation Systems Workshop. 
