@@ -21,7 +21,7 @@ title: Talk
 
 * Stat seminar at Shanghai University of International Business and Economics, Shanghai, China, June 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* EcoSta 2022, Kyoto, Japan, June 2022 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
+* EcoSta 2022, Tokyo, Japan, June 2022 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
 
 * Seminar at coreAI Science Talk Series, Amazon, Online, May 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
