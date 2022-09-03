@@ -13,11 +13,11 @@ title: Talk
 
 * JSM Meeting, DC, US, Aug. 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
-* Seminar at the University of Hong Kong, HK, China, Aug 2022, (invited) [Reinforcement Learning in Nonstationary Environment](./slides/CUMSUMRL.pdf)
+* Seminar at the University of Hong Kong, HK, China, Aug 2022 (invited) [Reinforcement Learning in Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
-* ICSA Meeting, Xi'an, Shaanxi, China, July 2022, (invited) Double Generative Adversarial Networks for Conditional Independence Testing
+* ICSA Meeting, Xi'an, Shaanxi, China, July 2022 (invited) Double Generative Adversarial Networks for Conditional Independence Testing
 
-* The 2022 Annual Meeting of IMS, London, UK, June 2022, (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
+* The 2022 Annual Meeting of IMS, London, UK, June 2022 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
 
 * Stat seminar at Shanghai University of International Business and Economics, Shanghai, China, June 2022 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
