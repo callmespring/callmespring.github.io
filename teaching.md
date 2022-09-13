@@ -3,13 +3,14 @@ layout: default
 title: Teaching
 ---
 
-I'm teaching an RL short course @ HKU, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers.
+I'm teaching an RL short course @ HKU & ECNU, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers.
 
 * [Lecture 1](./slides/lecture2.pdf) Foundations of RL
 * [Lecture 2](./slides/lecture3.pdf) Planning & Learning
 * [Lecture 3](./slides/lecture5.pdf) Q-Learning and Beyond
 * [Lecture 4](./slides/lecture8.pdf) Policy- and Model-based Learning
 * [Lecture 5](./slides/lecture10.pdf) Offline RL
+* Lecture 6 Coding & Programming
 
 Teaching @ LSE
 
