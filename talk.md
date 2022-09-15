@@ -7,6 +7,8 @@ title: Talk
 
 * ICSA Meeting, Hong Kong, China, Dec. 2022 (invited), Deeply-Debiased Off-Policy Interval Estimation
 
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Sep 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * Seminar at Peking University, Center for Statistical Science, Beijing, China, Aug 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at Tsinghua University, Center for Statistical Science, Beijing, China, Aug 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
