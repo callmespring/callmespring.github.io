@@ -10,7 +10,8 @@ I'm teaching an RL short course @ HKU & ECNU, based on materials in Sutton and B
 * [Lecture 3](./slides/lecture5.pdf) Q-Learning and Beyond
 * [Lecture 4](./slides/lecture8.pdf) Policy- and Model-based Learning
 * [Lecture 5](./slides/lecture10.pdf) Offline RL
-* [Lecture 6](./code/seminar1.zip) Coding & Programming
+* Lecture 6 Coding & Programming
+- Code for [Lecture 1](./code/seminar1.zip)
 
 Teaching @ LSE
 
