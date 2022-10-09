@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+**Shi, C.**, Wan, R., Song, G., Luo, S., Song, R. and Zhu, H. (2022+). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, accepted. 
+**Python module** [<span style="font-family:courier;">**CausalMARL**</span>](https://github.com/RunzheStat/CausalMARL)
+
 **Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2022+). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
 ](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**COPE**</span>](https://github.com/Mamba413/cope)
