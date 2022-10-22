@@ -9,7 +9,7 @@ title: Talk
 
 * Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
-* Seminar at University of Science and Technology of China, School of Management, Beijing, China, Oct 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+* Seminar at University of Science and Technology of China, School of Management, Hefei, China, Oct 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
