@@ -7,6 +7,8 @@ title: Software
 
 * [CausalRL](https://github.com/callmespring/CausalRL). Dynamic **Causal** Effects Evaluation in A/B Testing with a **Reinforcement Learning** Framework
 
+* [Confounded-POMDP-OPE](https://github.com/jiaweihhuang/Confounded-POMDP-Exp). Off-Policy Evaluation in Confounded POMDP.
+
 * [dgcit](https://github.com/callmespring/dgcit). Double Generative Adversarial Networks for Conditional Independence Testing.
 
 * [DJL](https://github.com/callmespring/DJL). Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings.
