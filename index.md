@@ -20,7 +20,7 @@ layout: default
 
 I was honoured to receive the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/) in March 2021. 
 
-I am looking for PhD students interested in reinforcement learning (see my lecture [slides](https://callmespring.github.io/teaching) on RL). 
+I am looking for PhD students interested in reinforcement learning (see my lecture [slides](https://callmespring.github.io/teaching) on RL and my [slides](https://github.com/callmespring/callmespring.github.io/blob/master/slides/lecture11.pdf) on off-policy evaluation). 
 
 My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
 
