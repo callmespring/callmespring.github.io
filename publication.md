@@ -12,17 +12,24 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 \* indicates equal contribution
 
 Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL)
+
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments
 ](https://arxiv.org/pdf/2209.15448.pdf)
+
 Li, M\*., **Shi, C\*.**, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Change Point Detection in
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL)
+
 Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf)
+
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
 ](https://arxiv.org/pdf/2210.14420.pdf)
+
 Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
+
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf)
+
 Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf)
 
