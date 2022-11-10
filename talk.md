@@ -7,6 +7,8 @@ title: Talk
 
 * ICSA Meeting, Hong Kong, China, Dec. 2022 (invited), Deeply-Debiased Off-Policy Interval Estimation
 
+* Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Testing Mediation Effects using the Logic of Boolean Matrices](./slides/LOGAN.pdf)
+
 * Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
 
 * Seminar at University of Science and Technology of China, School of Management, Hefei, China, Oct 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
