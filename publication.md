@@ -11,9 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Hu, L.\*, Li, M.\*, **Shi, C.\***, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL)
+Hu, L\*., Li, M\*., **Shi, C.\***, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL)
 
-Li, M.\*, **Shi, C.\***, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Change Point Detection in
+Li, M\*., **Shi, C\*.**, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Change Point Detection in
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL)
 
