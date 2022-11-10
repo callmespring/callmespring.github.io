@@ -7,7 +7,7 @@ title: Publication
 
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
-### Some preprints
+### Preprints
 
 \* indicates equal contribution
 
@@ -19,6 +19,8 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 Li, M\*., **Shi, C\*.**, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Change Point Detection in
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL)
+
+Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf)
 
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
 ](https://arxiv.org/pdf/2210.14420.pdf)
