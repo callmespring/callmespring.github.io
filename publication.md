@@ -20,6 +20,9 @@ Li, M\*., **Shi, C\*.**, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Cha
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL)
 
+**Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
+Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf)
+
 Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
 
 ### Publications/accepted manuscripts
