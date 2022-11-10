@@ -23,6 +23,9 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf)
 
+Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
+](https://arxiv.org/pdf/2210.14420.pdf)
+
 Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
 
 ### Publications/accepted manuscripts
