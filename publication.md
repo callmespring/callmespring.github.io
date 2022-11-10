@@ -28,6 +28,9 @@ Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatm
 
 Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
 
+Cai. H., **Shi, C\*.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
+](https://arxiv.org/pdf/2111.08885.pdf)
+
 ### Publications/accepted manuscripts
 
 **Shi, C.**, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2022+). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, accepted. 
