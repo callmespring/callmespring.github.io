@@ -28,7 +28,7 @@ Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatm
 
 Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
 
-Cai. H., **Shi, C\*.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
+Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf)
 
 ### Publications/accepted manuscripts
