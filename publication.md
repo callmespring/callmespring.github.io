@@ -30,7 +30,7 @@ Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arx
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf)
 
-Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
+Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf)
 
 ### Publications/accepted manuscripts
