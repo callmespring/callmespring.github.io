@@ -22,7 +22,7 @@ I was honoured to receive the [Royal Statistical Society (RSS) Research Prize](h
 
 I am looking for PhD students interested in reinforcement learning (see my lecture [slides](https://callmespring.github.io/teaching) on RL and my [slides](./slides/lecture11.pdf) on off-policy evaluation). 
 
-My email address is: <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
+My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
 
 ### Research
 
