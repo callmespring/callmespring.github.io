@@ -7,6 +7,8 @@ title: Talk
 
 * ICSA Meeting, Hong Kong, China, Dec. 2022 (invited), Deeply-Debiased Off-Policy Interval Estimation
 
+* Seminar at Shandong University Institude for Financial Studies, Shandong, China, Mar. 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/NonstatRL.pdf)
+
 * Seminar at Prof. Kosorok's Lab, University of North Carolina, Chapel Hill, NC, Nov 2022 (invited) [Policy Evaluation in Reinforcement Learning](./slides/PE.pdf)
 
 * Seminar at SHUFE, School of Statistics, Shanghai, China, Nov 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
@@ -15,7 +17,7 @@ title: Talk
 
 * Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Testing Mediation Effects using the Logic of Boolean Matrices](./slides/LOGAN.pdf)
 
-* Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
+* Seminar at China East Normal University, School of Statistics, Shanghai, China, Oct 2022 (invited) [Reinforcement Learning in Possibly Nonstationary Environment](./slides/NonstatRL.pdf)
 
 * Seminar at University of Science and Technology of China, School of Management, Hefei, China, Oct 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
@@ -27,9 +29,9 @@ title: Talk
 
 * Seminar at Tsinghua University, Center for Statistical Science, Beijing, China, Aug 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* JSM Meeting, DC, US, Aug. 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUMSUMRL.pdf)
+* JSM Meeting, DC, US, Aug. 2022 (invited), [Reinforcement Learning in Possibly Nonstationary Environment](./slides/CUSUMRL.pdf)
 
-* Seminar at the University of Hong Kong, HK, China, Aug 2022 (invited) [Reinforcement Learning in Nonstationary Environment](./slides/CUMSUMRL.pdf)
+* Seminar at the University of Hong Kong, HK, China, Aug 2022 (invited) [Reinforcement Learning in Nonstationary Environment](./slides/NonstatRL.pdf)
 
 * ICSA Meeting, Xi'an, Shaanxi, China, July 2022 (invited) Double Generative Adversarial Networks for Conditional Independence Testing
 
