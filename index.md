@@ -32,7 +32,7 @@ My research is concentrated on
 * **reinforcement learning** (RL)
 * analysis of **complex** data
 
-and their applications in precision medicine, mobile health, ridesharing and neuroscience.
+and their applications to precision medicine, mobile health, ridesharing and neuroscience.
 
 Some of my recent **talks** on statistical inference, RL and causal inference [StatRL](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s), [CausalRL](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s).
 
