@@ -9,7 +9,7 @@ title: Talk
 
 * Seminar at Xiamen University, School of Economics and Management, Xiamen, China, Nov 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* Conference on "Statistical challenges and new solutions for large-scale complex data", Yunnan, China, Nov 2022 (invited) [Reinforcement Learning in (Doubly) Inhomogeneous Environment](./slides/NonstatRL.pdf)(./slides/StatRL.pdf)
+* Conference on "Statistical challenges and new solutions for large-scale complex data", Yunnan, China, Nov 2022 (invited) [Reinforcement Learning in (Doubly) Inhomogeneous Environment](./slides/NonstatRL.pdf)
 
 * Seminar at Shandong University Institude for Financial Studies, Shandong, China, Nov 2022 (invited) [Reinforcement Learning in Possibly Nonstationary Environment](./slides/NonstatRL.pdf)
 
