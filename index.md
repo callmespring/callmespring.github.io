@@ -36,9 +36,9 @@ and their applications to precision medicine, mobile health, ridesharing and neu
 
 Some of my recent **talks** on statistical inference, RL and causal inference [StatRL](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s), [CausalRL](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s).
 
-A summary of my phase one research: **Individualized Decision Making with Complex Data**
+A summary of my research: **Statistical Methods in Reinforcement Learning**
 
-<img src="phase-I.png" width="700">
+<img src="map.png" width="700">
 
 ### Editorial Service
 * Associate editor, [Journal of the Royal Statistical Society, Series B](https://rss.onlinelibrary.wiley.com/journal/14679868) (Jan 2022 -- present)
