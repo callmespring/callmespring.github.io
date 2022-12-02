@@ -26,17 +26,11 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [C
 
 ### Research
 
-My research is concentrated on
-
-<!---* [statistical methods in precision medicine](research_pm)-->
-* **reinforcement learning** (RL)
-* analysis of **complex** data
-
-and their applications to precision medicine, mobile health, ridesharing and neuroscience.
+My research are motivated from the applications in precision medicine, mobile health, ridesharing and neuroscience.
 
 Some of my recent **talks** on statistical inference, RL and causal inference [StatRL](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s), [CausalRL](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s).
 
-A summary of my research: **Statistical Methods in Reinforcement Learning**
+A summary of my past/current research: **Statistical Methods in Reinforcement Learning**
 
 <img src="map.png" width="700">
 
