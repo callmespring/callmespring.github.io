@@ -26,7 +26,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [C
 
 ### Research
 
-My research are motivated from the applications in precision medicine, mobile health (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP)), ridesharing and neuroscience.
+My research are motivated from the applications in precision medicine, mobile health (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl)), ridesharing and neuroscience.
 
 Some of my recent **talks** on statistical inference, RL and causal inference [StatRL](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s), [CausalRL](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s).
 
