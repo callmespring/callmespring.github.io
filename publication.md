@@ -29,6 +29,8 @@ Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatm
 
 Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
 
+Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
+
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf)
 
