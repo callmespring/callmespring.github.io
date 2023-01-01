@@ -32,7 +32,7 @@ Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arx
 Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
 
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
-Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf)
+Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
 Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf)
