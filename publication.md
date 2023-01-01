@@ -13,8 +13,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 Uehara, M., **Shi, C.** and Kallus, N. [A Reivew of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf)
 
-Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL)
-(./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
+Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments
 ](https://arxiv.org/pdf/2209.15448.pdf)
