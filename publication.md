@@ -75,7 +75,7 @@ Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transf
 **Python module** [<span style="font-family:courier;">**D2OPE**</span>](https://github.com/RunzheStat/D2OPE)
 
 **Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, accepted.
-**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
+**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
 
 **Shi, C.**, Song, R., Lu, W. and Li. R. (2021). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](./paper/HDCIv3un.pdf) (**ROSE**), _Journal of the American Statistical Association_, **116**, 1307-1318.
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
