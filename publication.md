@@ -36,7 +36,6 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 
 Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf)
-<br/> [<font size="3">video</font>](https://papertalk.org/papertalks/37049) <font size="3">presented at NeurIPS</font>.
 
 ### Publications/accepted manuscripts
 
@@ -68,7 +67,7 @@ Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inferenc
 **Shi, C.**, Luo, S., Zhu, H. and Song, R. (2021). [An Online Sequential Test for Qualitative Treatment Effects](https://jmlr.org/papers/volume22/21-0383/21-0383.pdf). _Journal of Machine Learning Research_, **22**, 1-51. 
 
 Cai, H\*. **Shi, C.\***, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
-**Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/HengruiCai/DJL)
+**Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/HengruiCai/DJL) <br/> [<font size="3">video</font>](https://papertalk.org/papertalks/37049) <font size="3">presented at NeurIPS</font>.
 
 Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (**best paper**, **spotlight**).
 
