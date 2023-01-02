@@ -56,7 +56,7 @@ Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _J
 **Shi, C\*.**, Uehara, M\*., Huang, J. and Jiang, N. (2022). [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/pdf/2111.06784.pdf), _ICML_ (**long talk**, top 2% of submissions). **Python module** [<span style="font-family:courier;">**Confounded-POMDP-OPE**</span>](https://github.com/jiaweihhuang/Confounded-POMDP-Exp)
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433), _Stat_, **11**, e433. 
-**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN)
+**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
 
 **Shi, C\*.**, Wang, X\*., Luo, S., Zhu, H., Ye, J. and Song, R. (2021+). [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://arxiv.org/pdf/2002.01711.pdf). _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at Online Causal Inference Seminar.
