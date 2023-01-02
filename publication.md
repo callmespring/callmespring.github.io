@@ -36,6 +36,7 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 
 Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf)
+<br/> [<font size="3">video</font>](https://papertalk.org/papertalks/37049) <font size="3">presented at NeurIPS</font>.
 
 ### Publications/accepted manuscripts
 
