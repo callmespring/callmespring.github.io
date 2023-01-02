@@ -72,7 +72,7 @@ Cai, H\*. **Shi, C.\***, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off
 Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (**best paper**, **spotlight**). <br/> [<font size="3">video</font>](https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s) <font size="3">presented at the workshop</font>.
 
 **Shi, C\*.**, Wan, R\*., Chernozhukov, V. and Song, R. (2021). [Deeply-Debiased Off-Policy Interval Estimation](https://arxiv.org/pdf/2105.04646.pdf), _ICML_ (**long talk**, top 3% of submissions).
-**Python module** [<span style="font-family:courier;">**D2OPE**</span>](https://github.com/RunzheStat/D2OPE)
+**Python module** [<span style="font-family:courier;">**D2OPE**</span>](https://github.com/RunzheStat/D2OPE) <br/> [<font size="3">video</font>](https://www.youtube.com/watch?v=uAEWmmm8aDM) <font size="3">presented at ICML</font>.
 
 **Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, accepted.
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
