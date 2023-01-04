@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* ICSA Meeting, Hong Kong, China, Dec. 2022 (invited), Deeply-Debiased Off-Policy Interval Estimation
+* Seminar at Stanford, Department of Statistics, Palo Alto, CA, USA, Jan 2023 (invited), Statistical Inference in Reinforcement Learning
 
 * Seminar at Yunnan University, School of Mathematics and Statistics, Yunnan, China, Dec 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
@@ -17,7 +17,7 @@ title: Talk
 
 * Seminar at Shandong University Institude for Financial Studies, Shandong, China, Nov 2022 (invited) [Reinforcement Learning in Possibly Nonstationary Environment](./slides/NonstatRL.pdf)
 
-* Seminar at Prof. Kosorok's Lab, University of North Carolina, Chapel Hill, NC, Nov 2022 (invited) [Policy Evaluation in Reinforcement Learning](./slides/PE.pdf)
+* Seminar at Prof. Kosorok's Lab, University of North Carolina, Chapel Hill, NC, USA, Nov 2022 (invited) [Policy Evaluation in Reinforcement Learning](./slides/PE.pdf)
 
 * Seminar at SHUFE, School of Statistics, Shanghai, China, Nov 2022 (invited) [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
