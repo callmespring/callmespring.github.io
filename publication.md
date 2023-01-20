@@ -24,11 +24,6 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf)
 
-Zhou, Y., Qi, Z., **Shi, C.** and Li, L. [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
-](https://arxiv.org/pdf/2210.14420.pdf)
-
-Zhang, Y., **Shi, C.** and Luo, S. [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf)
-
 Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
 
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
@@ -38,6 +33,11 @@ Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individual
 ](https://arxiv.org/pdf/2111.08885.pdf)
 
 ### Publications/accepted manuscripts
+
+Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
+](https://arxiv.org/pdf/2210.14420.pdf), _AISTAT_. 
+
+Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf), _AISTAT_. 
 
 **Shi, C.**, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2022+). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, accepted. 
 **Python module** [<span style="font-family:courier;">**CausalMARL**</span>](https://github.com/RunzheStat/CausalMARL)
