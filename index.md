@@ -26,7 +26,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [C
 
 ### Research
 
-My research is motivated from the applications in precision medicine (a simulated [STARD](https://cran.r-project.org/web/packages/ITRSelect/index.html) data example), mobile health (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl)), ridesharing (simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL)) and neuroscience.
+My research is motivated from the applications in precision medicine (a simulated [STARD](https://cran.r-project.org/web/packages/ITRSelect/index.html) data example), mobile health (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl)), ridesharing (simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL)), neuroscience and video-sharing platforms.
 
 Some of my recent **talks** on statistical inference, RL and causal inference StatRL ([Bilibili](https://www.bilibili.com/video/BV1ZP4y1r7DC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f), [Youtube](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s)), [CausalRL](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s).
 
