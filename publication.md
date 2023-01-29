@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Yang, X., Zhu, J., **Shi, C\*.**, Luo, S. and Song, R. [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf)
+
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf)
