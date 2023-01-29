@@ -32,7 +32,7 @@ Some of my recent **talks** on statistical inference, RL and causal inference St
 
 A summary of my past/current research: **Statistical Methods in Reinforcement Learning**
 
-<img src="map.png" width="700">
+<img src="map0.png" width="700">
 
 ### Editorial Service
 * Associate editor, [Journal of the Royal Statistical Society, Series B](https://rss.onlinelibrary.wiley.com/journal/14679868) (Jan 2022 -- present)
