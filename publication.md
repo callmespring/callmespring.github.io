@@ -42,6 +42,7 @@ Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individual
 
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
 ](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
+**Python module** [<span style="font-family:courier;">**PBL**</span>](https://github.com/yunzhe-zhou/PBL)
 
 Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf) (**COPP**), _AISTATS_. 
 
