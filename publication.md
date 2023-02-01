@@ -11,7 +11,10 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Yang, X., Zhu, J., **Shi, C\*.**, Luo, S. and Song, R. [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf)
+Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. [A Reinforcement Learning Framework for Dynamic
+Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf)
+
+Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf)
 
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
