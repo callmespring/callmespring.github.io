@@ -5,11 +5,11 @@ title: Software
 
 ### Software
 
-* [PBL](https://github.com/yunzhe-zhou/PBL). Pessimistic Bayesian Learning. 
+* [PBL](https://github.com/yunzhe-zhou/PBL). Pessimistic Bayesian Learning for Offline Reinforcement Learning. 
 
-* [COPE](https://github.com/Mamba413/cope). Confounded Off-Policy Evaluation.
+* [COPE](https://github.com/Mamba413/cope). Confounded Off-Policy Evaluation in Confounded Markov Decision Processes.
 
-* [SEAL](https://github.com/leyuanheart/SEAL). Statistically Efficient Advantage Learning.
+* [SEAL](https://github.com/leyuanheart/SEAL). Statistically Efficient Advantage Learning for Offline Reinforcement Learning.
 
 * [CausalRL](https://github.com/callmespring/CausalRL). Dynamic **Causal** Effects Evaluation in A/B Testing with a **Reinforcement Learning** Framework
 
