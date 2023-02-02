@@ -7,6 +7,10 @@ title: Software
 
 * [PBL](https://github.com/yunzhe-zhou/PBL). Pessimistic Bayesian Learning. 
 
+* [COPE](https://github.com/Mamba413/cope). Confounded Off-Policy Evaluation.
+
+* [SEAL](https://github.com/leyuanheart/SEAL). Statistically Efficient Advantage Learning.
+
 * [CausalRL](https://github.com/callmespring/CausalRL). Dynamic **Causal** Effects Evaluation in A/B Testing with a **Reinforcement Learning** Framework
 
 * [Confounded-POMDP-OPE](https://github.com/jiaweihhuang/Confounded-POMDP-Exp). Off-Policy Evaluation in Confounded POMDP.
