@@ -13,6 +13,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* Top Reviewer for AISTATS, 2023.
+
 * LSE Excellence in Education Awards, 2022.
 
 * Institute of Mathematical Statistics (IMS) New Researcher Travel Award, 2022.
