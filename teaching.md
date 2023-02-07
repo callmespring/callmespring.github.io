@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-I'm teaching an RL short course, based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers.
+I'm teaching an [RL short course](https://github.com/callmespring/RL-short-course), based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers.
 
 * [Lecture 1](./slides/lecture2.pdf) Foundations of RL [Code 1](./code/seminar1.zip)
 * [Lecture 2](./slides/lecture3.pdf) Planning & Learning [Code 2](./code/seminar2.zip)
