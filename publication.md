@@ -47,7 +47,7 @@ Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynami
 ](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
 **Python module** [<span style="font-family:courier;">**PBL**</span>](https://github.com/yunzhe-zhou/PBL)
 
-Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf) (**COPP**), _AISTATS_. 
+Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf) (**COPP**), _AISTATS_. **R code** [<span style="font-family:courier;">**COPP**</span>](https://github.com/yyzhangecnu/COPP)
 
 **Shi, C.**, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2022+). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, accepted. 
 **Python module** [<span style="font-family:courier;">**CausalMARL**</span>](https://github.com/RunzheStat/CausalMARL)
