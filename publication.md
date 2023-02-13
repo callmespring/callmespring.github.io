@@ -38,10 +38,10 @@ Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation f
 **Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
-Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
-](https://arxiv.org/pdf/2111.08885.pdf)
-
 ### Publications/accepted manuscripts
+
+Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
+](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted.
 
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
 ](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
