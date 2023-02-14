@@ -40,7 +40,7 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 
 ### Publications/accepted manuscripts
 
-Cai. H., **Shi, C.**, Song, R. and Lu, W. [Jump Interval-Learning for Individualized Decision Making
+Cai. H., **Shi, C.**, Song, R. and Lu, W. (2023+). [Jump Interval-Learning for Individualized Decision Making
 ](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted.
 
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
