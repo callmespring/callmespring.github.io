@@ -29,9 +29,9 @@ title: Software
 
 * arleGP. Approximated Restricted Likelihood Estimator for Gaussian Process. [poster](./slides/arleGP.pdf). [code](./code/arleGP.zip).
 
-* [BayesSAE](https://cran.r-project.org/web/packages/BayesSAE/index.html) (v1.0-2) Bayesian Analysis of Small Area Estimation. 
+* [BayesSAE](https://cran.r-project.org/web/packages/BayesSAE/index.html) (v1.0-2) Bayesian Analysis of Small Area Estimation <br><img src="https://cranlogs.r-pkg.org/badges/grand-total/BayesSAE"></br> 
 
-* [simplexreg](https://cran.r-project.org/web/packages/simplexreg/index.html) (v1.3) Regression Analysis of Proportional Data Using Simplex Distributions. [paper](https://www.jstatsoft.org/article/view/v071i11).
+* [simplexreg](https://cran.r-project.org/web/packages/simplexreg/index.html) (v1.3) Regression Analysis of Proportional Data Using Simplex Distributions. [paper](https://www.jstatsoft.org/article/view/v071i11) <br><img src="https://cranlogs.r-pkg.org/badges/grand-total/simplexreg"></br>
 
 * [ITRSelect](https://cran.r-project.org/web/packages/ITRSelect/index.html) (v1.0-1) Variable Selection for Optimal Individualized Dynamic Treatment Regime. 
 
