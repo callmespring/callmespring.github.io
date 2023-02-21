@@ -124,4 +124,4 @@ _Annals of Statistics_, **47**, 2671-2703. (2018 IMS travel award)
 **Shi, C.**, Song, R. and Lu, W. (2016). [Robust Learning for Optimal Treatment Decision with NP-Dimensionality](https://projecteuclid.org/euclid.ejs/1476368559), _Electronic Journal of Statistics_, **10**, 2894-2921.
 
 Zhang, P., Qiu, Z. and **Shi, C.** (2016). [simplexreg: An R Package for Regression Analysis of Proportional Data Using Simplex Distribution](https://www.jstatsoft.org/article/view/v071i11), _Journal of Statistical Software_, **71**, 1-21.
-**R package** [<span style="font-family:courier;">**simplexreg**<img src="https://cranlogs.r-pkg.org/badges/grand-total/simplexreg"></span>](https://cran.r-project.org/web/packages/simplexreg/index.html) <br><img src="https://cranlogs.r-pkg.org/badges/grand-total/simplexreg"></br>
+**R package** [<span style="font-family:courier;">**simplexreg**</span>](https://cran.r-project.org/web/packages/simplexreg/index.html) <br><img src="https://cranlogs.r-pkg.org/badges/grand-total/simplexreg"></br>
