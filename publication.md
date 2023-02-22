@@ -24,8 +24,7 @@ Uehara, M., **Shi, C.** and Kallus, N. [A Reivew of Off-Policy Evaluation in Rei
 
 Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
-Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments
-](https://arxiv.org/pdf/2209.15448.pdf)
+Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 Li, M\*., **Shi, C\*.**, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Change Point Detection in
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
@@ -42,8 +41,7 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 
 Cai. H., **Shi, C.**, Song, R. and Lu, W. (2023). [Jump Interval-Learning for Individualized Decision Making with Continuous Treatments](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted. **R Package** [<span style="font-family:courier;">**JQL**</span>](https://cran.r-project.org/web/packages/JQL/index.html)
 
-Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach
-](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
+Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
 **Python module** [<span style="font-family:courier;">**PBL**</span>](https://github.com/yunzhe-zhou/PBL)
 
 Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf) (**COPP**), _AISTATS_. **R code** [<span style="font-family:courier;">**COPP**</span>](https://github.com/yyzhangecnu/COPP)
