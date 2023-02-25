@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* OxCsML Seminar at Oxford, Department of Statistics, Oxford, UK, Feb 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+* Computational Statistics and Machine learning Seminar at Oxford, Department of Statistics, Oxford, UK, Feb 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at Stanford, Department of Statistics, Palo Alto, CA, USA, Jan 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
