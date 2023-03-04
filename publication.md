@@ -84,7 +84,7 @@ Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transf
 **Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, accepted.
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
 
-**Shi, C.**, Song, R., Lu, W. and Li. R. (2021). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](./paper/HDCIv3un.pdf) (**ROSE**), _Journal of the American Statistical Association_, **116**, 1307-1318.
+**Shi, C.**, Song, R., Lu, W. and Li. R. (2021). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154) (**ROSE**), _Journal of the American Statistical Association_, **116**, 1307-1318.
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
 
 **Shi, C.**, Song, R. and Lu, W. (2021). [Concordance and Value Information Criteria for Optimal Treatment Decision](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.short) (**CIVIC**), _Annals of Statistics_, **49**, 49-75.
