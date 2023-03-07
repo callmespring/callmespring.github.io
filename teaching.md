@@ -5,11 +5,11 @@ title: Teaching
 
 I'm teaching an [RL short course](https://github.com/callmespring/RL-short-course), based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers.
 
-* [Lecture 1](https://github.com/callmespring/RL-short-course/blob/main/Lecture%201/slides.pdf) Foundations of RL [Code 1](./code/seminar1.zip)
-* [Lecture 2](https://github.com/callmespring/RL-short-course/blob/main/Lecture%202/slides.pdf) Planning & Learning [Code 2](./code/seminar2.zip)
-* [Lecture 3](https://github.com/callmespring/RL-short-course/blob/main/Lecture%203/slides.pdf) Q-Learning and Beyond [Code 3](./code/seminar3.zip)
-* [Lecture 4](https://github.com/callmespring/RL-short-course/blob/main/Lecture%204/slides.pdf) Policy- and Model-based Learning [Code 4](./code/seminar4.zip)
-* [Lecture 5](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/slides.pdf) Offline RL [Code 5](./code/seminar5.zip)
+* [Lecture 1](https://github.com/callmespring/RL-short-course/blob/main/Lecture%201/slides.pdf) Foundations of RL
+* [Lecture 2](https://github.com/callmespring/RL-short-course/blob/main/Lecture%202/slides.pdf) Planning & Learning
+* [Lecture 3](https://github.com/callmespring/RL-short-course/blob/main/Lecture%203/slides.pdf) Q-Learning and Beyond
+* [Lecture 4](https://github.com/callmespring/RL-short-course/blob/main/Lecture%204/slides.pdf) Policy- and Model-based Learning 
+* [Lecture 5](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/slides.pdf) Offline RL
 
 Teaching @ LSE
 
