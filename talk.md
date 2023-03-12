@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* AI2Healthcare Weekly Online Meeting, Mar 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf) [Youtube](https://www.youtube.com/watch?v=7NWBLuok8nk&t=6s)
+* AI2Healthcare Weekly Online Meeting, Mar 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=7NWBLuok8nk&t=6s)
 
 * Computational Statistics and Machine learning Seminar at Oxford, Department of Statistics, Oxford, UK, Feb 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
