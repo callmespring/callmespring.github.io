@@ -56,6 +56,9 @@ Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](htt
 **Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163) (**SEAL**), _Journal of the American Statistical Association_, accepted. 
 **Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
 
+**Shi, C.** and Li, L. (2022). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, **117**, 2014-2027.
+**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
+
 **Shi, C.**, Zhang, S., Song, R. and Lu, W. (2022). [Statistical Inference of the Value Function for Reinforcement
 Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _Journal of the Royal Statistical Society, Series B_, **84**, 765-793. 
 **Python module** [<span style="font-family:courier;">**SAVE**</span>](https://github.com/shengzhang37/SAVE) <br/> [<font size="3">slides</font>](./slides/VIslides.pdf) <font size="3">presented at ICSA 2019</font>.
@@ -80,9 +83,6 @@ Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transf
 
 **Shi, C\*.**, Wan, R\*., Chernozhukov, V. and Song, R. (2021). [Deeply-Debiased Off-Policy Interval Estimation](https://arxiv.org/pdf/2105.04646.pdf), _ICML_ (**long talk**, top 3% of submissions).
 **Python module** [<span style="font-family:courier;">**D2OPE**</span>](https://github.com/RunzheStat/D2OPE) <br/> [<font size="3">video</font>](https://www.youtube.com/watch?v=uAEWmmm8aDM) <font size="3">presented at ICML</font>.
-
-**Shi, C.** and Li, L. (2021+). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, accepted.
-**Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
 
 **Shi, C.**, Song, R., Lu, W. and Li. R. (2021). [Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154) (**ROSE**), _Journal of the American Statistical Association_, **116**, 1307-1318.
 **R code** for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
