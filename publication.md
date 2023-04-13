@@ -39,6 +39,10 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 
 ### Publications/accepted manuscripts
 
+**Shi, C.** (2023). The Impact of David Cox’s Work and Leadership on My Research, _Harvard Data Science Review_. 
+
+Gao. Y., **Shi, C.** and Song, R. (2023+). [Deep Spectral Q-learning with Application to Mobile Health](https://arxiv.org/abs/2301.00927), _STAT_, accepted.
+ 
 Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. (2023). [Jump Interval-Learning for Individualized Decision Making with Continuous Treatments](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted. **R Package** [<span style="font-family:courier;">**JQL**</span>](https://cran.r-project.org/web/packages/JQL/index.html)
 
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
