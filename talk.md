@@ -5,9 +5,11 @@ title: Talk
 
 ### Talk
 
+* Seminar at Center for Data Science, Zhejiang University, Zhejiang, China, April 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * Seminar at Tengyao's Research Group, LSE, London, UK, April 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
-* RL+X Reading Seminar, Online, Mar 2023, [Reinforcement Learning for Ridesharing](https://github.com/callmespring/MDPOD/blob/main/RL%20for%20ridesharing.pdf) **Bilibili link** [here](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f)
+* RL+X Reading Seminar, Online, Mar 2023 (invited), [Reinforcement Learning for Ridesharing](https://github.com/callmespring/MDPOD/blob/main/RL%20for%20ridesharing.pdf) **Bilibili link** [here](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f)
 
 * AI2Healthcare Weekly Online Meeting, Mar 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf) **Youtube link** [here](https://www.youtube.com/watch?v=7NWBLuok8nk&t=6s)
 
