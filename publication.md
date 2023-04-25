@@ -11,11 +11,6 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. [A Reinforcement Learning Framework for Dynamic
-Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf)
-
-Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf)
-
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf)
@@ -38,6 +33,13 @@ Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation f
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
 ### Publications/accepted manuscripts
+
+Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
+Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_.
+
+Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_.
+
+Wang, J., **Shi, C.** and Wu, W. (2023). A Robust Test for the Stationarity Assumption in Reinforcement Learning, _ICML_. 
 
 **Shi, C.** (2023). The Impact of David Cox’s Work and Leadership on My Research, _Harvard Data Science Review_. 
 
