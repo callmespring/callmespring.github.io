@@ -41,7 +41,7 @@ Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Va
 
 Wang, J., **Shi, C.** and Wu, Z. (2023). A Robust Test for the Stationarity Assumption in Reinforcement Learning, _ICML_. 
 
-**Shi, C.** (2023). The Impact of David Cox’s Work and Leadership on My Research, _Harvard Data Science Review_. 
+**Shi, C.** (2023). [The Impact of David Cox’s Work and Leadership on My Research](https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9), _Harvard Data Science Review_. 
 
 Gao. Y., **Shi, C.** and Song, R. (2023). [Deep Spectral Q-learning with Application to Mobile Health](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564), _STAT_, **12**, e564. (2022 JSM Student Paper Competition Award, Section on Medical Devices and Diagnostics)
  
