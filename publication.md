@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Ma, T., Cai, H., Qi, Z., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
+Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf)
+
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf)
