@@ -39,7 +39,7 @@ Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_.
 
 Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_.
 
-Wang, J., **Shi, C.** and Wu, Z. (2023). A Robust Test for the Stationarity Assumption in Reinforcement Learning, _ICML_. 
+Wang, J., **Shi, C.** and Wu, Z. (2023). A Robust Test for the Stationarity Assumption in Markov Decision Processes, _ICML_. 
 
 **Shi, C.** (2023). [The Impact of David Cox’s Work and Leadership on My Research](https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9), _Harvard Data Science Review_. 
 
