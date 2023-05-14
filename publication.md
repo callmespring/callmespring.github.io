@@ -52,7 +52,7 @@ Decision-making, _CogSci_.
 
 **Shi, C.** (2023). [The Impact of David Cox’s Work and Leadership on My Research](https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9), _Harvard Data Science Review_. 
 
-Gao. Y., **Shi, C.** and Song, R. (2023). [Deep Spectral Q-learning with Application to Mobile Health](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564), _STAT_, **12**, e564. (2022 JSM Student Paper Competition Award, Section on Medical Devices and Diagnostics)
+Gao. Y., **Shi, C.** and Song, R. (2023). [Deep Spectral Q-learning with Application to Mobile Health](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564), _STAT_, **12**, e564. <br/>2022 **JSM Student Paper Award**, Section on Medical Devices and Diagnostics)
  
 Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. (2023). [Jump Interval-Learning for Individualized Decision Making with Continuous Treatments](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted. **R Package** [<span style="font-family:courier;">**JQL**</span>](https://cran.r-project.org/web/packages/JQL/index.html)
 
@@ -91,7 +91,7 @@ Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inferenc
 
 **Shi, C.**, Luo, S., Zhu, H. and Song, R. (2021). [An Online Sequential Test for Qualitative Treatment Effects](https://jmlr.org/papers/volume22/21-0383/21-0383.pdf). _Journal of Machine Learning Research_, **22**, 1-51. 
 
-Cai, H\*. **Shi, C.\***, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. (2021 ENAR Distinguished Student Paper Awards)
+Cai, H\*. **Shi, C.\***, Song, R. and Lu, W. (2021). [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/abs/2010.15963), _NeurIPS_. <br/>2021 **ENAR Distinguished Student Paper Awards**
 **Python module** [<span style="font-family:courier;">**DJL**</span>](https://github.com/HengruiCai/DJL) <br/> [<font size="3">video</font>](https://papertalk.org/papertalks/37049) <font size="3">presented at NeurIPS</font>.
 
 Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transfer Learning for Reinforcement Learning in Order Dispatching](https://arxiv.org/pdf/2105.13218.pdf),  _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (**best paper**, **spotlight**). <br/> [<font size="3">video</font>](https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s) <font size="3">presented at the workshop</font>.
@@ -112,11 +112,11 @@ Wan, R\*., Zhang, S\*., **Shi, C.**, Luo, S. and Song, R. (2021) [Pattern Transf
 **Shi, C.**, Lu, W. and Song, R. (2020). [A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects](https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1604368), _Journal of the American Statistical Association_, **115**, 1201-1213.
 
 **Shi, C.**, Song, R., Chen, Z. and Li, R. (2019). [Linear Hypothesis Testing for High Dimensional Generalized Linear Models](https://projecteuclid.org/euclid.aos/1564797860). 
-_Annals of Statistics_, **47**, 2671-2703. (2018 IMS travel award) 
+_Annals of Statistics_, **47**, 2671-2703. <br/>2018 **IMS travel award**  
 **R code** for [<font size="3">linear</font>](./code/lm_ADMM0.r)/[<font size="3">logistic</font>](./code/Logistic_ADMM0.r)/[<font size="3">Poisson</font>](./code/Poisson_ADMM0.r) <font size="3">regression</font>
 
 **Shi, C.**, Lu, W., and Song, R. (2019). [On Testing Conditional Qualitative Treatment Effects](https://projecteuclid.org/euclid.aos/1558425648). _Annals of Statistics_, **47**, 2348-2377. 
-(2017 IMS travel award) <br/> [<font size="3">slides</font>](./slides/JSM2017.pdf) <font size="3">presented at JSM 2017</font>.
+<br/>2017 **IMS travel award** <br/> [<font size="3">slides</font>](./slides/JSM2017.pdf) <font size="3">presented at JSM 2017</font>.
 
 **Shi, C.**, Lu, W. and Song, R. (2019). [Determining the Number of Latent Factors in Multirelational Learning](http://www.jmlr.org/papers/v20/18-037.html), _Journal of Machine Learning Research_, **20**, 1-38.
 
