@@ -19,7 +19,7 @@ Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf)
 
 Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
-](https://arxiv.org/abs/2212.14466) <br/>2022 **JSM Student Paper Award**
+](https://arxiv.org/abs/2212.14466) <br/>2023 **JSM Student Paper Award**
 
 Uehara, M., **Shi, C.** and Kallus, N. [A Reivew of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf)
 
