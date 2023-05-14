@@ -52,7 +52,7 @@ Decision-making, _CogSci_.
 
 **Shi, C.** (2023). [The Impact of David Cox’s Work and Leadership on My Research](https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9), _Harvard Data Science Review_. 
 
-Gao. Y., **Shi, C.** and Song, R. (2023). [Deep Spectral Q-learning with Application to Mobile Health](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564), _STAT_, **12**, e564. <br/>2022 **JSM Student Paper Award**, Section on Medical Devices and Diagnostics)
+Gao. Y., **Shi, C.** and Song, R. (2023). [Deep Spectral Q-learning with Application to Mobile Health](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564), _STAT_, **12**, e564. <br/>2022 **JSM Student Paper Award**, Section on Medical Devices and Diagnostics
  
 Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. (2023). [Jump Interval-Learning for Individualized Decision Making with Continuous Treatments](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted. **R Package** [<span style="font-family:courier;">**JQL**</span>](https://cran.r-project.org/web/packages/JQL/index.html)
 
