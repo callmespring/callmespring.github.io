@@ -41,7 +41,7 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 ### Publications/accepted manuscripts
 
 Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
-Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. <br/> [<font size="3">2023 ICSA Student Paper Award</font>]
+Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. <br/>2023 ICSA Student Paper Award
 
 Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_.
 
