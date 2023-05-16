@@ -40,7 +40,7 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 
 ### Publications/accepted manuscripts
 
-Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023) DNet: Distributional Network for Distributional Individualized Treatment Effects, _KDD_ (Applied Data Science track). 
+Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). DNet: Distributional Network for Distributional Individualized Treatment Effects, _KDD_. 
 
 Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
 Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. <br/>2023 **ICSA Student Paper Award**
