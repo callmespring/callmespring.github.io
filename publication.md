@@ -37,10 +37,10 @@ Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., 
 
 Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
 
-**Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
-Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
-
 ### Publications/accepted manuscripts
+
+**Shi, C.**, Zhou, Y. and Li, L. [Testing Directed Acyclic Graph via Structural,
+Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted.  <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
 Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). DNet: Distributional Network for Distributional Individualized Treatment Effects, _KDD_. 
 
