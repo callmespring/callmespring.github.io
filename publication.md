@@ -40,7 +40,7 @@ Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation f
 ### Publications/accepted manuscripts
 
 **Shi, C.**, Zhou, Y. and Li, L. (2023+). [Testing Directed Acyclic Graph via Structural,
-Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted.  <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
+Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
 Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). DNet: Distributional Network for Distributional Individualized Treatment Effects, _KDD_. 
 
