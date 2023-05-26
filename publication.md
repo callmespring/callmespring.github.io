@@ -58,7 +58,7 @@ Decision-making, _CogSci_.
 
 Gao. Y., **Shi, C.** and Song, R. (2023). [Deep Spectral Q-learning with Application to Mobile Health](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564), _STAT_, **12**, e564. <br/>2022 **JSM Student Paper Award**
  
-Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. (2023). [Jump Interval-Learning for Individualized Decision Making with Continuous Treatments](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, accepted. **R Package** [<span style="font-family:courier;">**JQL**</span>](https://cran.r-project.org/web/packages/JQL/index.html)
+Cai. H\*., **Shi, C\*.**, Song, R. and Lu, W. (2023). [Jump Interval-Learning for Individualized Decision Making with Continuous Treatments](https://arxiv.org/pdf/2111.08885.pdf), _Journal of Machine Learning Research_, **24**, 1--92. **R Package** [<span style="font-family:courier;">**JQL**</span>](https://cran.r-project.org/web/packages/JQL/index.html)
 
 Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach](https://arxiv.org/pdf/2210.14420.pdf), _AISTATS_. 
 **Python module** [<span style="font-family:courier;">**PBL**</span>](https://github.com/yunzhe-zhou/PBL)
