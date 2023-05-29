@@ -47,7 +47,7 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). DNet: Distributional Network for Distributional Individualized Treatment Effects, _KDD_. 
 
 Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
-Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. <br/>2023 **ICSA Student Paper Award**
+Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. **Python module** [<span style="font-family:courier;">**MediationRL**</span>](https://github.com/linlinlin97/MediationRL) <br/>2023 **ICSA Student Paper Award**
 
 Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_.
 
