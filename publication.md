@@ -11,7 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [https://arxiv.org/pdf/2306.08719.pdf](https://arxiv.org/pdf/2306.08719.pdf)
+Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [Off-policy Evaluation in Doubly
+Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf)
 
 Li, T., **Shi, C.**, Lu, Z., Li, Y. and Zhu, H. [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187)
 
