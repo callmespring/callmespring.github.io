@@ -10,7 +10,7 @@ layout: default
 (i) I am assistant professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
 
 (ii) Prior to (i), I was a Ph.D. student in [Statistics at North Carolina State University](https://www.stat.ncsu.edu/) (NCSU). I work with [Dr. Wenbin Lu](https://www4.stat.ncsu.edu/~lu/) and 
-[Dr. Rui Song](https://www4.stat.ncsu.edu/~song/). 
+[Dr. Rui Song](https://song-ray.github.io/). 
 
 (iii) Prior to (ii), I obtained a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in July 2014.
 
