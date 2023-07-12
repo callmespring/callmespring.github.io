@@ -19,10 +19,6 @@ Li, T., **Shi, C.**, Lu, Z., Li, Y. and Zhu, H. [Evaluating Dynamic Conditional 
 Ma, T., Cai, H., Qi, Z., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
 Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
 
-**Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
-Learning via Efficient and Robust Trust
-Region Optimization](https://arxiv.org/pdf/2301.02220.pdf)
-
 Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
 ](https://arxiv.org/abs/2212.14466) <br/>2023 **JSM Student Paper Award**
 
@@ -41,6 +37,10 @@ Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., 
 Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
 
 ### Publications/accepted manuscripts
+
+**Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
+Learning via Efficient and Robust Trust
+Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted.
 
 Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023+). [Testing for the Markov Property in Time Series via Deep Conditional Generative Learning](https://arxiv.org/abs/2305.19244), _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**markov_test**</span>](https://github.com/yunzhe-zhou/markov_test)
 
