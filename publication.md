@@ -38,7 +38,7 @@ Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation f
 
 ### Publications/accepted manuscripts
 
-**Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
+**Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. (2023+). [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
 
