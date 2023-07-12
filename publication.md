@@ -40,7 +40,7 @@ Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation f
 
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
-Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted.
+Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
 
 Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023+). [Testing for the Markov Property in Time Series via Deep Conditional Generative Learning](https://arxiv.org/abs/2305.19244), _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**markov_test**</span>](https://github.com/yunzhe-zhou/markov_test)
 
