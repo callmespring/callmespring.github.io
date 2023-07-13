@@ -13,8 +13,6 @@ title: Grants and Awards
 
 ### Awards and Honors
 
-* [ICSA Outstanding Young Research Award](https://www.icsa.org/2023-outstanding-young-research-award/), 2023.
-
 * Top Reviewer for AISTATS, 2023.
 
 * LSE Excellence in Education Awards, 2022.
