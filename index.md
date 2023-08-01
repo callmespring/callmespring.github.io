@@ -7,14 +7,16 @@ layout: default
 
 ### About
 
-(i) I am assistant professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
+(i), I am an associate professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
 
-(ii) Prior to (i), I was a Ph.D. student in [Statistics at North Carolina State University](https://www.stat.ncsu.edu/) (NCSU). I work with [Dr. Wenbin Lu](https://www4.stat.ncsu.edu/~lu/) and 
+(ii) Pior to (i), I was an assistant professor of the department of statistics at [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE). 
+
+(iii) Prior to (ii), I was a Ph.D. student in [Statistics at North Carolina State University](https://www.stat.ncsu.edu/) (NCSU). I work with [Dr. Wenbin Lu](https://www4.stat.ncsu.edu/~lu/) and 
 [Dr. Rui Song](https://song-ray.github.io/). 
 
-(iii) Prior to (ii), I obtained a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in July 2014.
+(iv) Prior to (iii), I obtained a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in July 2014.
 
-(iv) Prior to (iii), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
+(v) Prior to (iv), I graduated from [Ningbo Xiaoshi High School](https://en.wikipedia.org/wiki/Xiaoshi_Middle_School) in July 2010.
 
 <!---I have a postdoc position funded by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1&utm_source=BenchmarkEmail&utm_campaign=PhD_Newsletter_-_LT_Week_05_(2021%2f22)&utm_medium=email). See the post [here](https://jobs.lse.ac.uk/Vacancies/W/3537/0/335760/15539/research-officer-in-statistics).-->
 
