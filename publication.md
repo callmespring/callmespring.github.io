@@ -47,7 +47,7 @@ Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023+). [Testing for the Markov Prope
 **Shi, C.**, Zhou, Y. and Li, L. (2023+). [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
-Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). DNet: Distributional Network for Distributional Individualized Treatment Effects, _KDD_. 
+Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). [DNet: Distributional Network for Distributional Individualized Treatment Effects](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809), _KDD_. 
 
 Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
 Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. **Python module** [<span style="font-family:courier;">**MediationRL**</span>](https://github.com/linlinlin97/MediationRL) <br/>2023 **ICSA Student Paper Award**
