@@ -54,7 +54,7 @@ Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. **Python modu
 
 Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_.
 
-<!---Wang, J., **Shi, C.** and Wu, Z. (2023). A Robust Test for the Stationarity Assumption in Sequential Decision Making, _ICML_.-->
+Wang, J., **Shi, C.** and Wu, Z. (2023). [A Robust Test for the Stationarity Assumption in Sequential Decision Making](https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf), _ICML_.
 
 Li, J., **Shi, C.**, Li, L. and Collins, A. (2023). [A Generalized Method for Dynamic Noise Inference in Modeling Sequential
 Decision-making](https://www.biorxiv.org/content/biorxiv/early/2023/06/22/2023.06.19.545524.full.pdf), _CogSci_. 
