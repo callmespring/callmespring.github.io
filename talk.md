@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* JSM Meeting, Toronto, Canada, Aug. 2023 (invited but did not present due to visa issues), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+
 * Seminar at Center for Data Science, Zhejiang University, Zhejiang, China, April 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at Tengyao's Research Group, LSE, London, UK, April 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
