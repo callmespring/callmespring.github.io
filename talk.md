@@ -5,7 +5,23 @@ title: Talk
 
 ### Talk
 
-* JSM Meeting, Toronto, Canada, Aug. 2023 (invited but did not present), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+* Markov Decision Process and Reinforcement Learning Workshop, Cambridge, UK, Sep. 2023 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
+
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Sep. 2023 (invited), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+
+* Seminar at University of International Business and Economics, School of Statistics, Beijing, China, Sep. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at Beijing Normal University, School of Statistics, Beijing, China, Aug. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at SHUFE, School of Statistics, Shanghai, China, Aug. 2023 (invited), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+
+* Stat seminar at Fudan University, Shanghai, China, Aug. 2023 (invited), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+
+* Chinese Society of Probability and Statistics Annual Meeting, Fuzhou, China, Aug. 2023 (invited), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+
+* Hangzhou International Conference on Frontiers of Data Science, Hangzhou, China, Aug. 2023 (invited), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
+
+* JSM Meeting, Toronto, Canada, Aug. 2023 (invited but did not present due to visa issues), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
 
 * Seminar at Center for Data Science, Zhejiang University, Zhejiang, China, April 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
