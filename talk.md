@@ -7,6 +7,10 @@ title: Talk
 
 * Markov Decision Process and Reinforcement Learning Workshop, Cambridge, UK, Sep. 2023 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
 
+* Seminar at Jiangsu Univeristy, School of Mathematical Science, Zhenjiang, China, Sep. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at Shanghai Lixin University of Accounting and Finance, School of Statistics and Mathematics, Shanghai, China, Sep. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Sep. 2023 (invited), [Doubly Inhomogeneous Reinforcement Learning](./slides/DIRL.pdf)
 
 * Seminar at University of International Business and Economics, School of Statistics, Beijing, China, Sep. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
