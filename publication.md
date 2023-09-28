@@ -51,6 +51,9 @@ Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023+). [Testing for the Markov Prope
 **Shi, C.**, Zhou, Y. and Li, L. (2023+). [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
+**Shi, C\*.**, Wang, X\*., Luo, S., Zhu, H., Ye, J. and Song, R. (2023). [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://arxiv.org/pdf/2002.01711.pdf). _Journal of the American Statistical Association_, **108**, 2059-2071. 
+**Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at Online Causal Inference Seminar.
+
 Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). [DNet: Distributional Network for Distributional Individualized Treatment Effects](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809), _KDD_. 
 
 Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
@@ -95,9 +98,6 @@ Learning in Infinite Horizon Settings](https://arxiv.org/pdf/2001.04515.pdf), _J
 
 Li, L., **Shi, C.**, Guo, T. and Jagust, W. (2022). [Sequential Pathway Inference for Multimodal Neuroimaging Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433), _Stat_, **11**, e433. 
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
-
-**Shi, C\*.**, Wang, X\*., Luo, S., Zhu, H., Ye, J. and Song, R. (2021+). [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://arxiv.org/pdf/2002.01711.pdf). _Journal of the American Statistical Association_, accepted. 
-**Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at Online Causal Inference Seminar.
 
 **Shi, C.**, Xu, T., Bergsma, W. and Li, L. (2021) [Double Generative Adversarial Networks for Conditional Independence Testing](https://jmlr.org/papers/volume22/21-0294/21-0294.pdf). _Journal of Machine Learning Research_, **22**, 1-32. 
 **Python module** [<span style="font-family:courier;">**dgcit**</span>](https://github.com/tianlinxu312/dgcit)
