@@ -57,9 +57,9 @@ Wu, G., Song, G., Lv, X., Luo, S., **Shi, C.** and Zhu, H. (2023). [DNet: Distri
 Ge, L., Wang, J., **Shi, C.**, Wu, Z. and Song, R. (2023). [A Reinforcement Learning Framework for Dynamic
 Mediation Analysis](https://arxiv.org/pdf/2301.13348.pdf), _ICML_. **Python module** [<span style="font-family:courier;">**MediationRL**</span>](https://github.com/linlinlin97/MediationRL) <br/>2023 **ICSA Student Paper Award**
 
-Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_.
+Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Variable Approach to Confounded Off-Policy Evaluation](https://arxiv.org/pdf/2212.14468.pdf), _ICML_. **Python module** [<span style="font-family:courier;">**IVMDP**</span>](https://github.com/YangXU63/IVMDP)
 
-Wang, J., **Shi, C.** and Wu, Z. (2023). [A Robust Test for the Stationarity Assumption in Sequential Decision Making](https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf), _ICML_.
+Wang, J., **Shi, C.** and Wu, Z. (2023). [A Robust Test for the Stationarity Assumption in Sequential Decision Making](https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf), _ICML_. **Python module**  [<span style="font-family:courier;">**Double-CUSUM-RL**</span>](https://github.com/jtwang95/Double_CUSUM_RL)
 
 Li, J., **Shi, C.**, Li, L. and Collins, A. (2023). [A Generalized Method for Dynamic Noise Inference in Modeling Sequential
 Decision-making](https://www.biorxiv.org/content/biorxiv/early/2023/06/22/2023.06.19.545524.full.pdf), _CogSci_. 
