@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. [Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
+](https://arxiv.org/pdf/2310.16203.pdf)
+
 Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [Off-policy Evaluation in Doubly
 Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf)
 
