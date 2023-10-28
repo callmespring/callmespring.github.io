@@ -5,6 +5,14 @@ title: Talk
 
 ### Talk
 
+* Statistics seminar at University of Bristol, School of Mathematics, Bristol, UK, Nov. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at University of California Irvine, Department of Statistics, California, US, Nov. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+	
+* Seminar at University of Texas at Dallas, Department of Mathematical Science, Texas, US, Oct. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+	
+	\item AMCS seminar at University of Pennsylvania, Philadelphia, US, Oct. 2023 (invited), Statistical Inference in Reinforcement Learning
+
 * Markov Decision Process and Reinforcement Learning Workshop, Cambridge, UK, Sep. 2023 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
 
 * Seminar at Jiangsu Univeristy, School of Mathematical Science, Zhenjiang, China, Sep. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
