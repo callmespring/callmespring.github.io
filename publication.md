@@ -52,6 +52,9 @@ Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023+). [Testing for the Markov Prope
 **Shi, C.**, Zhou, Y. and Li, L. (2023+). [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
+**Shi, C.**, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, **17**, 2701-2722. 
+**Python module** [<span style="font-family:courier;">**CausalMARL**</span>](https://github.com/RunzheStat/CausalMARL)
+
 **Shi, C\*.**, Wang, X\*., Luo, S., Zhu, H., Ye, J. and Song, R. (2023). [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://arxiv.org/pdf/2002.01711.pdf). _Journal of the American Statistical Association_, **108**, 2059-2071. 
 **Python module** [<span style="font-family:courier;">**CausalRL**</span>](https://github.com/callmespring/CausalRL) <br/> [<font size="3">slides</font>](./slides/CausalRL.pdf) [<font size="3">video</font>](https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s) <font size="3">presented at Online Causal Inference Seminar.
 
@@ -77,9 +80,6 @@ Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynami
 **Python module** [<span style="font-family:courier;">**PBL**</span>](https://github.com/yunzhe-zhou/PBL)
 
 Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf) (**COPP**), _AISTATS_. **R code** [<span style="font-family:courier;">**COPP**</span>](https://github.com/yyzhangecnu/COPP)
-
-**Shi, C.**, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2022+). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, accepted. 
-**Python module** [<span style="font-family:courier;">**CausalMARL**</span>](https://github.com/RunzheStat/CausalMARL)
 
 **Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2022+). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
 ](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, accepted. 
