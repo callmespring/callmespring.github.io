@@ -35,9 +35,9 @@ Li, M\*., **Shi, C\*.**, Wu, Z. and Fryzlewicz, P. [Testing Stationarity and Cha
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL) <br/> [<font size="3">slides</font>](./slides/CUSUMRL.pdf) [<font size="3">video</font>](https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0) <font size="3">presented at JSM 2022</font>.
 
-Luo, S., Yang, Y., **Shi, C.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
-
 ### Publications/accepted manuscripts
+
+Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. [Policy Evaluation for Temporal and/or Spatial Dependent Experiments in Ride-sourcing Platforms](https://arxiv.org/pdf/2202.10887.pdf)
 
 Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. (2023) [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf), _NeurIPS_ (**spotlight**). 
 
