@@ -37,7 +37,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
-Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2023+). [Policy Evaluation for Temporal and/or Spatial Dependent Experiments](https://arxiv.org/pdf/2202.10887.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**STVCM**</span>](https://github.com/anneyang0060/STVCM).
+Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2023+). Policy Evaluation for Temporal and/or Spatial Dependent Experiments, _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**STVCM**</span>](https://github.com/anneyang0060/STVCM).
 
 Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. (2023) [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf), _NeurIPS_ (**spotlight**). 
 
