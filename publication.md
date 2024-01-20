@@ -37,7 +37,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
-Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and Shi, C\*. (2024) [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards
+Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and Shi, C\*. (2024). [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards
 ](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. 
 
 Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2023+). [Policy Evaluation for Temporal and/or Spatial Dependent Experiments](https://arxiv.org/pdf/2202.10887.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**STVCM**</span>](https://github.com/anneyang0060/STVCM).
