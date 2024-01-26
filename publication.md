@@ -17,8 +17,6 @@ Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. [Multivariate Dynamic Med
 Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [Off-policy Evaluation in Doubly
 Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf)
 
-Li, T., **Shi, C.**, Lu, Z., Li, Y. and Zhu, H. [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187)
-
 Ma, T., Cai, H., Qi, Z., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
 Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
 
@@ -36,6 +34,8 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL) <br/> [<font size="3">slides</font>](./slides/CUSUMRL.pdf) [<font size="3">video</font>](https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0) <font size="3">presented at JSM 2022</font>.
 
 ### Publications/accepted manuscripts
+
+Li, T., **Shi, C.**, Lu, Z., Li, Y. and Zhu, H. (2024+) [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted.
 
 Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. 
 
