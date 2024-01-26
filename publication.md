@@ -35,7 +35,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
-Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+) [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted.
+Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted.
 
 Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. 
 
