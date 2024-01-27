@@ -43,7 +43,7 @@ Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2023+). [Poli
 
 Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. (2023) [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf), _NeurIPS_ (**spotlight**). 
 
-Li, T\*., **Shi, C\*.**, Wang, J., Zhou, F. and Zhu, H. (2023). [Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making](https://arxiv.org/pdf/2311.02532.pdf), _NeurIPS_. **Python module** [<span style="font-family:courier;">**MDPdesign**</span>](https://github.com/tingstat/MDP_design). 
+Li, T\*., **Shi, C\*.**, Wang, J., Zhou, F. and Zhu, H. (2023). [Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making](https://openreview.net/pdf?id=EcReRm7q9p), _NeurIPS_. **Python module** [<span style="font-family:courier;">**MDPdesign**</span>](https://github.com/tingstat/MDP_design). 
 
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. (2023+). [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
