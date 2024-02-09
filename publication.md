@@ -35,6 +35,8 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
+Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, accepted. 
+
 Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted.
 
 Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. 
@@ -70,7 +72,7 @@ Yang, X., Zhu, J., **Shi, C.**, Luo, S. and Song, R. (2023). [An Instrumental Va
 Wang, J., **Shi, C.** and Wu, Z. (2023). [A Robust Test for the Stationarity Assumption in Sequential Decision Making](https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf), _ICML_. **Python module**  [<span style="font-family:courier;">**Double-CUSUM-RL**</span>](https://github.com/jtwang95/Double_CUSUM_RL)
 
 Li, J., **Shi, C.**, Li, L. and Collins, A. (2023). [A Generalized Method for Dynamic Noise Inference in Modeling Sequential
-Decision-making](https://www.biorxiv.org/content/biorxiv/early/2023/06/22/2023.06.19.545524.full.pdf), _CogSci_. 
+Decision-making](https://escholarship.org/content/qt7p00v6c5/qt7p00v6c5_noSplash_c8894c31a36bfc9e82ef2e67f80623ec.pdf?t=rxy9wr), _CogSci_. 
 
 **Shi, C.** (2023). [The Impact of David Cox’s Work and Leadership on My Research](https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9), _Harvard Data Science Review_. 
 
