@@ -13,6 +13,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* IMS Tweedie New Researcher Award, 2024.
+
 * ICSA Outstanding Young Research Award, 2023. 
 
 * Top Reviewer for AISTATS, 2023.
