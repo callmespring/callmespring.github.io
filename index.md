@@ -20,7 +20,7 @@ layout: default
 
 <!---I have a postdoc position funded by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1&utm_source=BenchmarkEmail&utm_campaign=PhD_Newsletter_-_LT_Week_05_(2021%2f22)&utm_medium=email). See the post [here](https://jobs.lse.ac.uk/Vacancies/W/3537/0/335760/15539/research-officer-in-statistics).-->
 
-I was honoured to [receive the IMS Tweedie Award](https://imstat.org/2024/03/05/chengchun-shi-receives-2024-ims-tweedie-new-researcher-award/) and the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/). 
+I was honoured to receive the [IMS Tweedie Award](https://imstat.org/2024/03/05/chengchun-shi-receives-2024-ims-tweedie-new-researcher-award/) and the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/). 
 
 I am looking for PhD students interested in reinforcement learning (see my lecture [slides](https://github.com/callmespring/RL-short-course) on RL, my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) on off-policy evaluation and our review [paper](https://arxiv.org/pdf/2212.06355.pdf)). 
 
