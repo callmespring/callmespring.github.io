@@ -11,6 +11,12 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Yang, Y., **Shi, C.**, Yao, F., Wang, S. and Zhu, H. [Spatially Randomized Designs Can Enhance Policy Evaluation
+](https://arxiv.org/pdf/2403.11400.pdf)
+
+Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
+Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
+
 Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. [Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
 ](https://arxiv.org/pdf/2310.16203.pdf)
 
