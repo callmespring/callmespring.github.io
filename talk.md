@@ -5,7 +5,9 @@ title: Talk
 
 ### Talk
 
-* Statistics seminar at University of Bristol, School of Mathematics, Bristol, UK, Nov. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+* International Conference on Data Science and Brain-InspiredIntelligence, Fudan University, Shanghai, China, Dec. 2023 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
+
+* Stat seminar at University of Bristol, School of Mathematics, Bristol, UK, Nov. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at University of California Irvine, Department of Statistics, California, US, Nov. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 	
