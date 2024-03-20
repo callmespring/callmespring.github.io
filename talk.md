@@ -5,6 +5,14 @@ title: Talk
 
 ### Talk
 
+* Seminar at Department of Biostatistics, University of North Carolina at Chapel Hill, Chapel Hill, US, Feb. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at Department of Statistics, University of Illinois Urbana-Champaign Champaign, Champaign, US, Feb. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+ 
+* Seminar at Department of Statistics, University of Wisconsin, Madison, US, Feb. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at Department of Management Science, Miami Herbert Business School, Miami, US, Feb. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * International Conference on Data Science and Brain-Inspired Intelligence, Fudan University, Shanghai, China, Dec. 2023 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL_short.pdf)
 
 * Stat seminar at University of Bristol, School of Mathematics, Bristol, UK, Nov. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
