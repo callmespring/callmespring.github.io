@@ -41,7 +41,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
-Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, accepted. 
+Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, accepted.  **Python module** [<span style="font-family:courier;">**dynamic_noise_estimation**</span>](https://github.com/jl3676/dynamic_noise_estimation)
 
 Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**CQSTVCM**</span>](https://github.com/BIG-S2/CQSTVCM)
 
