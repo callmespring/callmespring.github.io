@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N. and Zhu, H. [An Analysis of Switchback Designs in Reinforcement Learning
+](https://arxiv.org/pdf/2403.17285.pdf)
+
 Yang, Y., **Shi, C.**, Yao, F., Wang, S. and Zhu, H. [Spatially Randomized Designs Can Enhance Policy Evaluation
 ](https://arxiv.org/pdf/2403.11400.pdf)
 
