@@ -5,6 +5,10 @@ title: Talk
 
 ### Talk
 
+* Seminar at Prof. Jian Kang's lab, University of Michigan, MI, US, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
+* Seminar at Department of Mathematics, University of York, York, UK, Mar. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * Seminar at Department of Biostatistics, University of North Carolina at Chapel Hill, Chapel Hill, US, Feb. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at Department of Statistics, University of Illinois Urbana-Champaign Champaign, Champaign, US, Feb. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
