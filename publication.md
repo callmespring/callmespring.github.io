@@ -50,7 +50,7 @@ Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: 
 
 Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**CQSTVCM**</span>](https://github.com/BIG-S2/CQSTVCM)
 
-Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. 
+Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Policy Evaluation and Optimization with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. **Python module** [<span style="font-family:courier;">**ROOM**</span>](https://github.com/Mamba413/ROOM).
 
 Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2023+). [Policy Evaluation for Temporal and/or Spatial Dependent Experiments](https://arxiv.org/pdf/2202.10887.pdf), _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**STVCM**</span>](https://github.com/anneyang0060/STVCM).
 
