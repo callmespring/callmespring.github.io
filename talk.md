@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at School of Management Science, Fudan University, Shanghai, China, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * Seminar at Prof. Jian Kang's lab, University of Michigan, MI, US, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at Department of Mathematics, University of York, York, UK, Mar. 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
@@ -25,7 +27,7 @@ title: Talk
 	
 * Seminar at University of Texas at Dallas, Department of Mathematical Science, Texas, US, Oct. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 	
-	\item AMCS seminar at University of Pennsylvania, Philadelphia, US, Oct. 2023 (invited), Statistical Inference in Reinforcement Learning
+* AMCS seminar at University of Pennsylvania, Philadelphia, US, Oct. 2023 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Markov Decision Process and Reinforcement Learning Workshop, Cambridge, UK, Sep. 2023 (invited), [Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making](./slides/slides_middle.pdf)
 
