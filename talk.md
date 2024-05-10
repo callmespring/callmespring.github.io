@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at School of Statistics, East China Normal University, Shanghai, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
 * Seminar at School of Management Science, Fudan University, Shanghai, China, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
 * Seminar at Prof. Jian Kang's lab, University of Michigan, MI, US, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
