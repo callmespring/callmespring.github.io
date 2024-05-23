@@ -5,6 +5,12 @@ title: Talk
 
 ### Talk
 
+* Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
+* Seminar at Peking University, Center for Statistical Science, Beijing, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
 * Seminar at School of Statistics, East China Normal University, Shanghai, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
 
 * Seminar at School of Management Science, Fudan University, Shanghai, China, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
