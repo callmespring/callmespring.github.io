@@ -12,7 +12,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 \* indicates equal contribution
 
 Hao, M\*., Su, P\*., Hu, L., Szabó, Z., Zhao, Q. and **Shi, C**. [Forward and Backward State Abstractions for Off-policy
-Evaluation](https://arxiv.org/pdf/2406.19531)
+Evaluation](https://arxiv.org/pdf/2406.19531) **Python module** [<span style="font-family:courier;">**state-abstraction**</span>](https://github.com/pufffs/state-abstraction)
 
 Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N. and Zhu, H. [An Analysis of Switchback Designs in Reinforcement Learning
 ](https://arxiv.org/pdf/2403.17285.pdf)
