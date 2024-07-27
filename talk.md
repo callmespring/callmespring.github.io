@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Workshop on Causal Machine Learning in Economics, Statistics, and Computer Science, University of Southampton, Southampton, UK, July 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
 * Seminar at SHUFE, School of Statistics, Shanghai , Shanghai, China, July 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
 * Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
