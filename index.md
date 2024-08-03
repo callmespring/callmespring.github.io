@@ -24,7 +24,7 @@ I was honoured to receive the [Institute of Mathematical Statistics (IMS) Tweedi
 
 I am looking for PhD students interested in reinforcement learning (see my lecture [slides](https://github.com/callmespring/RL-short-course) on RL, my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) on off-policy evaluation and our review [paper](https://arxiv.org/pdf/2212.06355.pdf)). 
 
-My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). My [CV](./mycv-4.pdf).
+My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### Research
 
