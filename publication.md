@@ -14,7 +14,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 Sun, K., Kong, L., Zhu, H. and **Shi, C**. [Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments](./paper/ARMADesign.pdf)
 
 Hao, M\*., Su, P\*., Hu, L., Szabó, Z., Zhao, Q. and **Shi, C**. [Forward and Backward State Abstractions for Off-policy
-Evaluation](https://arxiv.org/pdf/2406.19531) **Python module** [<span style="font-family:courier;">**state-abstraction**</span>](https://github.com/pufffs/state-abstraction)
+Evaluation](https://arxiv.org/pdf/2406.19531). **Python module** [<span style="font-family:courier;">**state-abstraction**</span>](https://github.com/pufffs/state-abstraction)
 
 Dai, R\*., Wang, J\*., Zhou, F\*., Luo, S., Qin, Q., **Shi, C**., and Zhu, H. [Causal Deepsets for Off-policy Evaluation under Spatial or
 Spatio-temporal Interferences](https://arxiv.org/pdf/2407.17910)
@@ -44,7 +44,7 @@ Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evalu
 
 Uehara, M., **Shi, C.** and Kallus, N. [A Reivew of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf)
 
-Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf) **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
+Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf). **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
