@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Sun, K., Kong, L., Zhu, H. and **Shi, C**. [Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments](./paper/ARMADesign.pdf)
+
 Hao, M\*., Su, P\*., Hu, L., Szabó, Z., Zhao, Q. and **Shi, C**. [Forward and Backward State Abstractions for Off-policy
 Evaluation](https://arxiv.org/pdf/2406.19531) **Python module** [<span style="font-family:courier;">**state-abstraction**</span>](https://github.com/pufffs/state-abstraction)
 
