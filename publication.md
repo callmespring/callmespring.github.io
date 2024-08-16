@@ -56,6 +56,13 @@ Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of t
 
 Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. 
 
+**Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
+](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, **119**, 273-284. 
+**Python module** [<span style="font-family:courier;">**COPE**</span>](https://github.com/Mamba413/cope)
+
+**Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163) (**SEAL**), _Journal of the American Statistical Association_, **119**, 232-245. 
+**Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
+
 Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, accepted.  **Python module** [<span style="font-family:courier;">**dynamic_noise_estimation**</span>](https://github.com/jl3676/dynamic_noise_estimation)
 
 Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**CQSTVCM**</span>](https://github.com/BIG-S2/CQSTVCM)
@@ -105,13 +112,6 @@ Zhou, Y., Qi, Z., **Shi, C.** and Li, L. (2023). [Optimizing Pessimism in Dynami
 **Python module** [<span style="font-family:courier;">**PBL**</span>](https://github.com/yunzhe-zhou/PBL)
 
 Zhang, Y., **Shi, C.** and Luo, S. (2023). [Conformal Off-Policy Prediction](https://arxiv.org/pdf/2206.06711.pdf) (**COPP**), _AISTATS_. **R code** [<span style="font-family:courier;">**COPP**</span>](https://github.com/yyzhangecnu/COPP)
-
-**Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2022+). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
-](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, accepted. 
-**Python module** [<span style="font-family:courier;">**COPE**</span>](https://github.com/Mamba413/cope)
-
-**Shi, C.**, Luo, S., Le, Y., Zhu, H. and Song, R. (2022+). [Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons](https://arxiv.org/abs/2202.13163) (**SEAL**), _Journal of the American Statistical Association_, accepted. 
-**Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
 
 **Shi, C.** and Li, L. (2022). [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/abs/2005.04584) (**LOGAN**), _Journal of the American Statistical Association_, **117**, 2014-2027.
 **Python module** [<span style="font-family:courier;">**LOGAN**</span>](https://github.com/callmespring/LOGAN) <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
