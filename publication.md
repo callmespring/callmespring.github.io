@@ -79,7 +79,7 @@ Li, T\*., **Shi, C\*.**, Wang, J., Zhou, F. and Zhu, H. (2023). [Optimal Treatme
 Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
 
-Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023+). [Testing for the Markov Property in Time Series via Deep Conditional Generative Learning](https://arxiv.org/abs/2305.19244), _Journal of the Royal Statistical Society, Series B_, accepted. **Python module** [<span style="font-family:courier;">**markov_test**</span>](https://github.com/yunzhe-zhou/markov_test)
+Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023). [Testing for the Markov Property in Time Series via Deep Conditional Generative Learning](https://arxiv.org/abs/2305.19244), _Journal of the Royal Statistical Society, Series B_, **85**, 1204–1222. **Python module** [<span style="font-family:courier;">**markov_test**</span>](https://github.com/yunzhe-zhou/markov_test)
 
 **Shi, C.**, Zhou, Y. and Li, L. (2023+). [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
