@@ -51,7 +51,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
-Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [Off-policy Evaluation in Doubly
+Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. (2024+). [Off-policy Evaluation in Doubly
 Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of the American Statistical Association_, accepted.
 
 Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. 
