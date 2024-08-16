@@ -54,7 +54,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. (2024+). [Off-policy Evaluation in Doubly
 Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of the American Statistical Association_, accepted.
 
-Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. 
+Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. **Python module** [<span style="font-family:courier;">**Data_Combination**</span>](https://github.com/tingstat/Data_Combination)
 
 **Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
 ](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, **119**, 273-284. 
