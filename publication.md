@@ -33,9 +33,6 @@ Aminian, G\*., Behnamnia, A\*., Vega, R., Toni, L., **Shi, C.** Rabiee, H., Riva
 Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
 Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 
-Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [Off-policy Evaluation in Doubly
-Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf)
-
 Ma, T., Cai, H., Qi, Z., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
 Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
 
@@ -53,6 +50,9 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL) <br/> [<font size="3">slides</font>](./slides/CUSUMRL.pdf) [<font size="3">video</font>](https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0) <font size="3">presented at JSM 2022</font>.
 
 ### Publications/accepted manuscripts
+
+Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. [Off-policy Evaluation in Doubly
+Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of the American Statistical Association_, accepted.
 
 Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. 
 
