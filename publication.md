@@ -33,7 +33,7 @@ Aminian, G\*., Behnamnia, A\*., Vega, R., Toni, L., **Shi, C.** Rabiee, H., Riva
 Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
 Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 
-Ma, T., Cai, H., Qi, Z., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
+Ma, T\*., Zhu, J\*., Cai, H., Qi, Z., Chen, Y., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
 Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
 
 Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
