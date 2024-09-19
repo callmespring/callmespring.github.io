@@ -5,11 +5,15 @@ title: Talk
 
 ### Talk
 
+* Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
+* Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
 * 24th Meeting of New Researchers in Statistics and Probability, Oregon, USA, Aug 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
 
 * Workshop on Causal Machine Learning in Economics, Statistics, and Computer Science, University of Southampton, Southampton, UK, July 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
 
-* Seminar at SHUFE, School of Statistics, Shanghai , Shanghai, China, July 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
+* Seminar at SHUFE, School of Statistics, Shanghai, China, July 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
 * Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
 
