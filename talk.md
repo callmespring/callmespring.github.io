@@ -9,6 +9,8 @@ title: Talk
 
 * Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
 
+* Royal Statistical Society (RSS) 2024 Conference, Brighton, UK, Sep 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
+
 * 24th Meeting of New Researchers in Statistics and Probability, Oregon, USA, Aug 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
 
 * Workshop on Causal Machine Learning in Economics, Statistics, and Computer Science, University of Southampton, Southampton, UK, July 2024 (invited), [Optimal Design for Efficient A/B Testing](./slides/design.pdf)
