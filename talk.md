@@ -7,6 +7,8 @@ title: Talk
 
 * Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
 
+* Mathematical Foundations in AI at Tianyuan Mathematical Research Center, Kunming, Yunan, China, Sep 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
+
 * Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
 
 * Royal Statistical Society (RSS) 2024 Conference, Brighton, UK, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
