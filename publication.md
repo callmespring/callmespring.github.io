@@ -51,6 +51,8 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
+Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and **Shi, C.** (2024). Two-way Deconfounder for Off-policy Evaluation under Unmeasured Confounding, _NeurIPS_.  
+
 Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. (2024+). [Off-policy Evaluation in Doubly
 Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**2FEOPE**</span>](https://github.com/ZeyuBian/2FEOPE)
 
