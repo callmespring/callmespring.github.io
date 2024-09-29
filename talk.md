@@ -5,27 +5,27 @@ title: Talk
 
 ### Talk
 
-* Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Mathematical Foundations in AI at Tianyuan Mathematical Research Center, Kunming, Yunan, China, Sep 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
-* Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Royal Statistical Society (RSS) 2024 Conference, Brighton, UK, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Royal Statistical Society (RSS) 2024 Conference, Brighton, UK, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* 24th Meeting of New Researchers in Statistics and Probability, Oregon, USA, Aug 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* 24th Meeting of New Researchers in Statistics and Probability, Oregon, USA, Aug 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Workshop on Causal Machine Learning in Economics, Statistics, and Computer Science, University of Southampton, Southampton, UK, July 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Workshop on Causal Machine Learning in Economics, Statistics, and Computer Science, University of Southampton, Southampton, UK, July 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at SHUFE, School of Statistics, Shanghai, China, July 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
-* Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at Peking University, Center for Statistical Science, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Seminar at Peking University, Center for Statistical Science, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at School of Statistics, East China Normal University, Shanghai, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/design.pdf)
+* Seminar at School of Statistics, East China Normal University, Shanghai, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at School of Management Science, Fudan University, Shanghai, China, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
