@@ -32,7 +32,7 @@ My research is motivated from the applications in precision medicine (a simulate
 
 Some of my recent **talks** and **slides** on statistical inference, RL, causal inference, time series and experimental design: 
 * **StatRL** ([Bilibili](https://www.bilibili.com/video/BV1ZP4y1r7DC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f), [Youtube](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s); Chinese versions: [Bilibili](https://www.bilibili.com/video/BV1kP411f7dA/?spm_id_from=333.337.search-card.all.click), [Youtube](https://www.youtube.com/watch?v=7NWBLuok8nk&t=3048s); [slides](https://callmespring.github.io/slides/StatRL.pdf));
-* **CausalRL** ([Youtube](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s));
+* **CausalRL** ([Youtube](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s), [slides](https://callmespring.github.io/slides/CausalRL.pdf));
 * **ARMAdesign** [2-hour slides](https://callmespring.github.io/slides/ABtesting.pdf), [1-hour slides](https://callmespring.github.io/slides/ARMAdesign.pdf); 
 * **Doubly Inhomogeneous RL** [slides](https://callmespring.github.io/slides/DIRL.pdf). 
 
