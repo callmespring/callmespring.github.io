@@ -5,7 +5,11 @@ title: Talk
 
 ### Talk
 
+* Seminar at School of Statistics, East China Normal University, Shanghai, China, Oct 2024 (invited), [Combining Experimental and Historical Data for Policy Evaluation](./slides/DataIntegration.pdf)
+
 * Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
+* Seminar at Yunnan University, School of Mathematics and Statistics, Yunnan, China, Dec 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Mathematical Foundations in AI at Tianyuan Mathematical Research Center, Kunming, Yunan, China, Sep 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
