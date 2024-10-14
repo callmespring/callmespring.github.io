@@ -30,10 +30,11 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 My research is motivated from the applications in precision medicine (a simulated [STARD](https://cran.r-project.org/web/packages/ITRSelect/index.html) data example), mobile health (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl)), ridesharing (simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL); see also my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f)), neuroscience and video-sharing platforms (see our KDD [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809) for details about our proposal successfully deployed in a widely used mobile app with millions of daily active users).
 
-Some of my recent **talks** and **slides** on statistical inference, RL, causal inference, time series and experimental design: 
+Some of my recent **talks** and **slides** on statistical inference, RL, causal inference, data integration, time series and experimental design: 
 * **StatRL** ([Bilibili](https://www.bilibili.com/video/BV1ZP4y1r7DC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f), [Youtube](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s); Chinese versions: [Bilibili](https://www.bilibili.com/video/BV1kP411f7dA/?spm_id_from=333.337.search-card.all.click), [Youtube](https://www.youtube.com/watch?v=7NWBLuok8nk&t=3048s); [slides](https://callmespring.github.io/slides/StatRL.pdf));
 * **CausalRL** ([Youtube](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s), [slides](https://callmespring.github.io/slides/CausalRL.pdf));
-* **ARMAdesign** [2-hour slides](https://callmespring.github.io/slides/ABtesting.pdf), [1-hour slides](https://callmespring.github.io/slides/ARMAdesign.pdf); 
+* **ARMAdesign** [2-hour slides](https://callmespring.github.io/slides/ABtesting.pdf), [1-hour slides](https://callmespring.github.io/slides/ARMAdesign.pdf);
+* **Pessimistic Data Integration** [slides](https://callmespring.github.io/slides/DataIntegration.pdf);
 * **Doubly Inhomogeneous RL** [slides](https://callmespring.github.io/slides/DIRL.pdf). 
 
 A summary of my past/current research: **Statistical Methods in Reinforcement Learning**
