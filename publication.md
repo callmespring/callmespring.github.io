@@ -68,6 +68,8 @@ Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the Amer
 **Shi, C.**, Zhou, Y. and Li, L. (2024). [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, **119**, 1833-1846. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
+Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, **119**, 1736-1750. **Python module** [<span style="font-family:courier;">**CQSTVCM**</span>](https://github.com/BIG-S2/CQSTVCM)
+
 **Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
 ](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, **119**, 273-284. 
 **Python module** [<span style="font-family:courier;">**COPE**</span>](https://github.com/Mamba413/cope)
@@ -78,8 +80,6 @@ Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474
 Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2024). [Policy Evaluation for Temporal and/or Spatial Dependent Experiments](https://arxiv.org/pdf/2202.10887.pdf), _Journal of the Royal Statistical Society, Series B_, **86**, 623–649. **Python module** [<span style="font-family:courier;">**STVCM**</span>](https://github.com/anneyang0060/STVCM).
 
 Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, accepted.  **Python module** [<span style="font-family:courier;">**dynamic_noise_estimation**</span>](https://github.com/jl3676/dynamic_noise_estimation)
-
-Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024+). [Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing](https://arxiv.org/abs/2305.10187),  _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**CQSTVCM**</span>](https://github.com/BIG-S2/CQSTVCM)
 
 Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Reinforcement Learning with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. **Python module** [<span style="font-family:courier;">**ROOM**</span>](https://github.com/Mamba413/ROOM).
 
