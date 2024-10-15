@@ -61,6 +61,10 @@ Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of t
 
 Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. **Python module** [<span style="font-family:courier;">**Data_Combination**</span>](https://github.com/tingstat/Data_Combination)
 
+**Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. (2024). [Value Enhancement of Reinforcement
+Learning via Efficient and Robust Trust
+Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, **119**, 2011-2025. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
+
 **Shi, C.**, Zhou, Y. and Li, L. (2024). [Testing Directed Acyclic Graph via Structural,
 Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, **119**, 1833-1846. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
@@ -82,10 +86,6 @@ Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Re
 Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., **Shi, C.** and Sun, W. (2023) [Future-Dependent Value-Based Off-Policy Evaluation in POMDPs](https://arxiv.org/pdf/2207.13081.pdf), _NeurIPS_ (**spotlight**). 
 
 Li, T\*., **Shi, C\*.**, Wang, J., Zhou, F. and Zhu, H. (2023). [Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making](https://openreview.net/pdf?id=EcReRm7q9p), _NeurIPS_. **Python module** [<span style="font-family:courier;">**MDPdesign**</span>](https://github.com/tingstat/MDP_design). 
-
-**Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. (2023+). [Value Enhancement of Reinforcement
-Learning via Efficient and Robust Trust
-Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
 
 Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023). [Testing for the Markov Property in Time Series via Deep Conditional Generative Learning](https://arxiv.org/abs/2305.19244), _Journal of the Royal Statistical Society, Series B_, **85**, 1204–1222. **Python module** [<span style="font-family:courier;">**markov_test**</span>](https://github.com/yunzhe-zhou/markov_test)
 
