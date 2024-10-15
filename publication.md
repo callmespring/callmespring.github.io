@@ -61,6 +61,8 @@ Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of t
 
 Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. **Python module** [<span style="font-family:courier;">**Data_Combination**</span>](https://github.com/tingstat/Data_Combination)
 
+Li, J., **Shi, C.**, Li, L. and Collins, A. (2024). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, **119**, 102842.  **Python module** [<span style="font-family:courier;">**dynamic_noise_estimation**</span>](https://github.com/jl3676/dynamic_noise_estimation)
+
 **Shi, C\*.**, Qi, Z\*., Wang, J. and Zhou, F. (2024). [Value Enhancement of Reinforcement
 Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, **119**, 2011-2025. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
@@ -78,8 +80,6 @@ Li, T\*., **Shi, C\*.**, Lu, Z., Li, Y. and Zhu, H. (2024). [Evaluating Dynamic 
 **Python module** [<span style="font-family:courier;">**SEAL**</span>](https://github.com/leyuanheart/SEAL)
 
 Luo, S\*., Yang, Y\*., **Shi, C\*.**, Yao, F., Ye, J. and Zhu, H. (2024). [Policy Evaluation for Temporal and/or Spatial Dependent Experiments](https://arxiv.org/pdf/2202.10887.pdf), _Journal of the Royal Statistical Society, Series B_, **86**, 623–649. **Python module** [<span style="font-family:courier;">**STVCM**</span>](https://github.com/anneyang0060/STVCM).
-
-Li, J., **Shi, C.**, Li, L. and Collins, A. (2024+). [Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf), _Journal of Mathematical Psychology_, accepted.  **Python module** [<span style="font-family:courier;">**dynamic_noise_estimation**</span>](https://github.com/jl3676/dynamic_noise_estimation)
 
 Zhu, J\*., Wan, R\*., Qi, Z., Luo, S. and **Shi, C**. (2024). [Robust Offline Reinforcement Learning with Heavy-Tailed Rewards](https://arxiv.org/pdf/2310.18715.pdf), _AISTATS_. **Python module** [<span style="font-family:courier;">**ROOM**</span>](https://github.com/Mamba413/ROOM).
 
