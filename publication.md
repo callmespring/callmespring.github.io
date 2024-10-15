@@ -61,6 +61,9 @@ Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of t
 
 Li, T\*., **Shi, C\*.**, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). [Combining Experimental and Historical Data for Policy Evaluation](https://arxiv.org/pdf/2406.00317), _ICML_. **Python module** [<span style="font-family:courier;">**Data_Combination**</span>](https://github.com/tingstat/Data_Combination)
 
+**Shi, C.**, Zhou, Y. and Li, L. (2024). [Testing Directed Acyclic Graph via Structural,
+Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, **119**, 1833-1846. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
+
 **Shi, C.**, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process
 ](https://arxiv.org/abs/2202.10589) (**COPE**), _Journal of the American Statistical Association_, **119**, 273-284. 
 **Python module** [<span style="font-family:courier;">**COPE**</span>](https://github.com/Mamba413/cope)
@@ -85,9 +88,6 @@ Learning via Efficient and Robust Trust
 Region Optimization](https://arxiv.org/pdf/2301.02220.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**VEPO**</span>](https://github.com/dc-wangjn/VEPO)
 
 Zhou, Y., **Shi, C.**, Li, L. and Yao, Q. (2023). [Testing for the Markov Property in Time Series via Deep Conditional Generative Learning](https://arxiv.org/abs/2305.19244), _Journal of the Royal Statistical Society, Series B_, **85**, 1204–1222. **Python module** [<span style="font-family:courier;">**markov_test**</span>](https://github.com/yunzhe-zhou/markov_test)
-
-**Shi, C.**, Zhou, Y. and Li, L. (2023+). [Testing Directed Acyclic Graph via Structural,
-Supervised and Generative Adversarial Learning](https://arxiv.org/pdf/2106.01474.pdf) (**SUGAR**), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**SUGAR**</span>](https://github.com/yunzhe-zhou/SUGAR) <br/> [<font size="3">slides</font>](./slides/SUGAR.pdf) <font size="3">presented at JSM 2021</font>.
 
 **Shi, C.**, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). [A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets](https://arxiv.org/abs/2202.10574), _Annals of Applied Statistics_, **17**, 2701-2722. 
 **Python module** [<span style="font-family:courier;">**CausalMARL**</span>](https://github.com/RunzheStat/CausalMARL)
