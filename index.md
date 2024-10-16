@@ -37,9 +37,9 @@ Some of my recent **talks** and **slides** on statistical inference, RL, causal 
 * **Pessimistic Data Integration** [slides](https://callmespring.github.io/slides/DataIntegration.pdf);
 * **Doubly Inhomogeneous RL** [slides](https://callmespring.github.io/slides/DIRL.pdf). 
 
-A summary of my past/current research: **Statistical Methods in Reinforcement Learning**
+A summary of my past/current research: **Statistical Methods in Reinforcement Learning** (partly supported by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1))
 
-<img src="map.png" width="700">
+<img src="Map2024.png" width="700">
 
 ### Editorial Service
 * Associate editor, [Journal of the American Statistical Association, C&S](https://www.tandfonline.com/journals/uasa20) (from Sep 2024)
