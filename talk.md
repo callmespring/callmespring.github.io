@@ -5,6 +5,12 @@ title: Talk
 
 ### Talk
 
+* First Interdisciplinary Conference on Statistics and Management Science, Hefei, China, Nov 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
+* Seminar at Xiamen University, School of Economics and Management, Xiamen, China, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
+* Statistics Seminar at Shanghai University of International Business and Economics, Shanghai, China, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
 * Seminar at School of Statistics, East China Normal University, Shanghai, China, Oct 2024 (invited), [Combining Experimental and Historical Data for Policy Evaluation](./slides/DataIntegration.pdf)
 
 * Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
