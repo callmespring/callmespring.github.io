@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at Antai College, Shanghai Jiaotong University, Shanghai, China, Nov 2024 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL.pdf)
+
 * First Interdisciplinary Conference on Statistics and Management Science, Hefei, China, Nov 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at Xiamen University, School of Economics and Management, Xiamen, China, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
