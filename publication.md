@@ -51,8 +51,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf).
 
 ### Publications/accepted manuscripts
 
-Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. (2024+). [Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
-](https://arxiv.org/pdf/2310.16203.pdf), _Annals of Statistics_, accepted. 
+Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. (2024+). [Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework](https://arxiv.org/pdf/2310.16203.pdf), _Annals of Statistics_, accepted. 
 
 Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and **Shi, C.** (2024). [Two-way Deconfounder for Off-policy Evaluation under Unmeasured Confounding](https://openreview.net/pdf?id=Lu9Rasfmjj), _NeurIPS_.  **Python module** [<span style="font-family:courier;">**Two-way-deconfounder**</span>](https://github.com/tingstat/Data_Combination)
 
