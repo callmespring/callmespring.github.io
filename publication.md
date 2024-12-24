@@ -14,7 +14,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 Liu, P., **Shi, C**. and Sun, W. [Dual Active Learning for Reinforcement Learning from
 Human Feedback](https://arxiv.org/pdf/2410.02504)
 
-Sun, K., Kong, L., Zhu, H. and **Shi, C**. [Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments](https://arxiv.org/pdf/2408.05342) **Python module** [<span style="font-family:courier;">**ARMAdesign**</span>](https://github.com/datake/ARMADesign) <br/> [<font size="3">slides</font>](./slides/design.pdf)
+Sun, K., Kong, L., Zhu, H. and **Shi, C**. [ARMA-Design: Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments](https://arxiv.org/pdf/2408.05342) **Python module** [<span style="font-family:courier;">**ARMAdesign**</span>](https://github.com/datake/ARMADesign) <br/> [<font size="3">slides</font>](./slides/design.pdf)
 
 Hao, M\*., Su, P\*., Hu, L., Szabó, Z., Zhao, Q. and **Shi, C**. [Off-policy Evaluation with Deeply-abstracted States
 ](https://arxiv.org/pdf/2406.19531). **Python module** [<span style="font-family:courier;">**state-abstraction**</span>](https://github.com/pufffs/state-abstraction)
