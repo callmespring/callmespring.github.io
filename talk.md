@@ -5,43 +5,47 @@ title: Talk
 
 ### Talk
 
+* Seminar at School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China, Dec 2024 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL.pdf)
+
+* Seminar at School of Economics and Management, Beihang University, Beijing, China, Dec 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
+
 * CMStatistics, London, UK, Dec. 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* 2024 First Macau International Conference on Business Intelligence and Analytics, Macau, China, Dec 2024 (invited) [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* 2024 First Macau International Conference on Business Intelligence and Analytics, Macau, China, Dec 2024 (invited) [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at Antai College, Shanghai Jiaotong University, Shanghai, China, Nov 2024 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL.pdf)
 
-* First Interdisciplinary Conference on Statistics and Management Science, Hefei, China, Nov 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* First Interdisciplinary Conference on Statistics and Management Science, Hefei, China, Nov 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at Xiamen University, School of Economics and Management, Xiamen, China, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at Xiamen University, School of Economics and Management, Xiamen, China, Oct 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Statistics Seminar at Shanghai University of International Business and Economics, Shanghai, China, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Statistics Seminar at Shanghai University of International Business and Economics, Shanghai, China, Oct 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at School of Statistics, East China Normal University, Shanghai, China, Oct 2024 (invited), [Combining Experimental and Historical Data for Policy Evaluation](./slides/DataIntegration.pdf)
 
-* Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at National University of Singapore, Department of Statistics and Data Science, Singapore, Oct 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at Yunnan University, School of Mathematics and Statistics, Yunnan, China, Dec 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at Yunnan University, School of Mathematics and Statistics, Yunnan, China, Dec 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Mathematical Foundations in AI at Tianyuan Mathematical Research Center, Kunming, Yunan, China, Sep 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
-* Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at Tsinghua University, Department of Mathematics, Beijing, China, Sep 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Royal Statistical Society (RSS) 2024 Conference, Brighton, UK, Sep 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Royal Statistical Society (RSS) 2024 Conference, Brighton, UK, Sep 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* 24th Meeting of New Researchers in Statistics and Probability, Oregon, USA, Aug 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* 24th Meeting of New Researchers in Statistics and Probability, Oregon, USA, Aug 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Workshop on Causal Machine Learning in Economics, Statistics, and Computer Science, University of Southampton, Southampton, UK, July 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at SHUFE, School of Statistics, Shanghai, China, July 2024 (invited), [A/B Testing in Two-Sided Marketplaces: Data Integration, Designs and Reinforcement Learning](./slides/ABtesting.pdf)
 
-* Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at Renmin University of China, Institute of Statistics and Big Data, Beijing, China, May 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, May 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at Peking University, Center for Statistical Science, Beijing, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at Peking University, Center for Statistical Science, Beijing, China, May 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
-* Seminar at School of Statistics, East China Normal University, Shanghai, China, May 2024 (invited), [Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at School of Statistics, East China Normal University, Shanghai, China, May 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at School of Management Science, Fudan University, Shanghai, China, April 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
 
