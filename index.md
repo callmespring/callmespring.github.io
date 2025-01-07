@@ -35,7 +35,7 @@ Some of my recent **talks** and **slides** on statistical inference, RL, causal 
 * **CausalRL** ([Youtube](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s), [slides](https://callmespring.github.io/slides/CausalRL.pdf));
 * **ARMAdesign** [2-hour slides](https://callmespring.github.io/slides/ABtesting.pdf), [1-hour slides](https://callmespring.github.io/slides/ARMAdesign.pdf), [30-minute slides](https://callmespring.github.io/slides/design30m.pdf);
 * **Pessimistic Data Integration** [slides](https://callmespring.github.io/slides/DataIntegration.pdf);
-* **Doubly Inhomogeneous RL** [policy learning](https://callmespring.github.io/slides/DIRL.pdf), [policy evaluation](https://callmespring.github.io/slides/DIOPE.pdf). 
+* **Doubly Inhomogeneous** [policy learning](https://callmespring.github.io/slides/DIRL.pdf), [policy evaluation](https://callmespring.github.io/slides/DIOPE.pdf). 
 
 A summary of my past/current research: **Statistical Methods in Reinforcement Learning** (partly supported by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1))
 
