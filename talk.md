@@ -5,6 +5,14 @@ title: Talk
 
 ### Talk
 
+* AI Keynote Talk at LMU Munich, Munich, Germany, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Jan 2025 (invited), [Combining Experimental and Historical Data for Policy Evaluation](./slides/DataIntegration.pdf)
+
+* Seminar at Shanghai Jiao Tong University, Department of Mathematics, Shanghai, China, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
+* Seminar at Zhejiang Gongshang University, School of Statistics and Mathematics, Hangzhou, China, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
 * Seminar at School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China, Dec 2024 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL.pdf)
 
 * Seminar at School of Economics and Management, Beihang University, Beijing, China, Dec 2024 (invited), [Statistical Inference in Reinforcement Learning](./slides/StatRL.pdf)
