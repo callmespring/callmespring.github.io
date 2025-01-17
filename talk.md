@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at Nankai University, School of Statistics and Data Science, Tianjin China, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
 * AI Keynote Talk at LMU Munich, Munich, Germany, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Jan 2025 (invited), [Combining Experimental and Historical Data for Policy Evaluation](./slides/DataIntegration.pdf)
