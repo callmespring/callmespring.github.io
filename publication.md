@@ -48,7 +48,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 ### Publications/accepted manuscripts
 
 Li, M., **Shi, C.**, Wu, Z. and Fryzlewicz, P. (2025+). [Testing Stationarity and Change Point Detection in
-Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf), , _Annals of Statistics_, accepted. 
+Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf) (**CUSUM-RL**) , _Annals of Statistics_, accepted. 
 **Python module** [<span style="font-family:courier;">**CUSUM-RL**</span>](https://github.com/limengbinggz/CUSUM-RL) <br/> [<font size="3">slides</font>](./slides/CUSUMRL.pdf) [<font size="3">video</font>](https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0) <font size="3">presented at JSM 2022</font>.
 
 Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. (2024+). [Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework](https://arxiv.org/pdf/2310.16203.pdf), _Annals of Statistics_, accepted. **Python module** [<span style="font-family:courier;">**MedtimeRL**</span>](https://github.com/jtwang95/MedtimeRL)
