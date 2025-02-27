@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+**Shi, C**. [Statistical Inference in Reinforcement Learning: A Selective Survey
+](https://arxiv.org/abs/2502.16195)
+
 Liu, P., **Shi, C**. and Sun, W. [Dual Active Learning for Reinforcement Learning from
 Human Feedback](https://arxiv.org/pdf/2410.02504)
 
