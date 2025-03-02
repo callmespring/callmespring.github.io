@@ -22,8 +22,8 @@ layout: default
 
 I was honoured to receive the [Institute of Mathematical Statistics (IMS) Tweedie Award](https://imstat.org/2024/03/05/chengchun-shi-receives-2024-ims-tweedie-new-researcher-award/) and the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/). 
 
-I am looking for PhD students interested in reinforcement learning; see my lecture [slides](https://github.com/callmespring/RL-short-course) on RL, my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) on off-policy evaluation, our review [paper](https://arxiv.org/pdf/2212.06355.pdf) and our tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
-)) on RL for two-sided marketplaces. 
+I am looking for PhD students interested in reinforcement learning; see my lecture [slides](https://github.com/callmespring/RL-short-course) on RL, our tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
+)) on RL for two-sided marketplaces, my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) on off-policy evaluation and our review [paper](https://arxiv.org/pdf/2212.06355.pdf). 
 
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
