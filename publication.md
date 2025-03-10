@@ -56,7 +56,7 @@ Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf) (**CUSUM-RL**) , _
 
 Luo, L\*., **Shi, C\*.**, Wang, J\*, Wu, Z. and Li, L. (2024+). [Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework](https://arxiv.org/pdf/2310.16203.pdf), _Annals of Statistics_, accepted. **Python module** [<span style="font-family:courier;">**MedtimeRL**</span>](https://github.com/jtwang95/MedtimeRL)
 
-Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and **Shi, C.** (2024). [Two-way Deconfounder for Off-policy Evaluation under Unmeasured Confounding](https://openreview.net/pdf?id=Lu9Rasfmjj), _NeurIPS_.  **Python module** [<span style="font-family:courier;">**Two-way-deconfounder**</span>](https://github.com/fsmiu/Two-way-Deconfounder)
+Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and **Shi, C.** (2024). [Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning](https://openreview.net/pdf?id=Lu9Rasfmjj), _NeurIPS_.  **Python module** [<span style="font-family:courier;">**Two-way-deconfounder**</span>](https://github.com/fsmiu/Two-way-Deconfounder)
 
 Bian, Z., **Shi, C.**, Qi, Z. and Wang, L. (2024+). [Off-policy Evaluation in Doubly
 Inhomogeneous Environments](https://arxiv.org/pdf/2306.08719.pdf), _Journal of the American Statistical Association_, accepted. **Python module** [<span style="font-family:courier;">**2FEOPE**</span>](https://github.com/ZeyuBian/2FEOPE)
