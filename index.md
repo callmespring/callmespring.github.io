@@ -43,7 +43,7 @@ A summary of my past/current research: **Statistical Methods in Reinforcement Le
 <img src="map.png" width="700">
 
 ### Editorial Service
-* Associate editor, [Journal of the Annals of Applied Statistics](https://imstat.org/overview/#) (from Feb 2025)
+* Associate editor, [Journal of Annals of Applied Statistics](https://imstat.org/overview/#) (from Feb 2025)
 * Associate editor, [Journal of the American Statistical Association, A&CS](https://www.tandfonline.com/journals/uasa20) (from Sep 2024)
 * Associate editor, [Journal of the American Statistical Association, T&M](https://www.tandfonline.com/journals/uasa20) (Aug 2023 -- present)
 * Associate editor, [Journal of the Royal Statistical Society, Series B](https://rss.onlinelibrary.wiley.com/journal/14679868) (Jan 2022 -- present)
