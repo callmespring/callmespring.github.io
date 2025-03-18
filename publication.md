@@ -42,13 +42,13 @@ Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
 Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
 ](https://arxiv.org/abs/2212.14466) <br/>2023 **JSM Student Paper Award**
 
-Uehara, M., **Shi, C.** and Kallus, N. [A Reivew of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf)
-
 Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf). **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
+
+Uehara, M., **Shi, C.** and Kallus, N. (2025+) [A Reivew of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf), _Statistical Science_, accepted. 
 
 Li, M., **Shi, C.**, Wu, Z. and Fryzlewicz, P. (2025+). [Testing Stationarity and Change Point Detection in
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf) (**CUSUM-RL**) , _Annals of Statistics_, accepted. 
