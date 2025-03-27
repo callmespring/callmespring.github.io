@@ -27,8 +27,8 @@ Hao, M\*., Su, P\*., Hu, L., Szabó, Z., Zhao, Q. and **Shi, C**. [Off-policy Ev
 Dai, R\*., Wang, J\*., Zhou, F\*., Luo, S., Qin, Q., **Shi, C**., and Zhu, H. [Causal Deepsets for Off-policy Evaluation under Spatial or
 Spatio-temporal Interferences](https://arxiv.org/pdf/2407.17910)
 
-<!---### Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N. and Zhu, H. [An Analysis of Switchback Designs in Reinforcement Learning
-](https://arxiv.org/pdf/2403.17285.pdf)-->
+Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N. and Zhu, H. [An Analysis of Switchback Designs in Reinforcement Learning
+](https://arxiv.org/pdf/2403.17285.pdf)
 
 Yang, Y., **Shi, C.**, Yao, F., Wang, S. and Zhu, H. [Spatially Randomized Designs Can Enhance Policy Evaluation
 ](https://arxiv.org/pdf/2403.11400.pdf)
