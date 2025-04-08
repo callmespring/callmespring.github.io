@@ -11,7 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784)  
+Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) **Python module**  [<span style="font-family:courier;">**VRPO**</span>](https://github.com/VRPO/VRPO)
 
 **Shi, C**. [Statistical Inference in Reinforcement Learning: A Selective Survey
 ](https://arxiv.org/abs/2502.16195)
