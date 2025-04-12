@@ -45,7 +45,7 @@ Some of my recent **talks** and **slides** on statistical inference, RL, causal 
 * **Pessimistic Data Integration** [slides](https://callmespring.github.io/slides/DataIntegration.pdf); the accompanying [paper](https://arxiv.org/pdf/2406.00317)
 * **Doubly Inhomogeneous** [policy learning](https://callmespring.github.io/slides/DIRL.pdf), [policy evaluation](https://callmespring.github.io/slides/DIOPE.pdf). 
 
-A summary of my past/current research: **Statistical Methods in Reinforcement Learning** (partly supported by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1))
+A summary of my past research: **Statistical Methods in Reinforcement Learning** (partly supported by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1))
 
 <img src="map.png" width="700">
 
