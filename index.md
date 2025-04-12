@@ -31,7 +31,8 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 My research is motivated from the following applications: 
 * **LLMs** (see our recent [paper](https://arxiv.org/pdf/2504.03784) on fine-tuning);
-* **Ridesharing** (simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL); see also my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f));
+* **Ridesharing** (simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL); see also our tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
+)) and my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f)); 
 * **Video-sharing** (see our KDD [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809) for details about our proposal successfully deployed in a widely used mobile app with millions of daily active users)
 * **Mobile health** (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl));
 * **Neuroscience** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making)
