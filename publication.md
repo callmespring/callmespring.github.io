@@ -52,7 +52,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 
 ### Publications/accepted manuscripts
 
-Uehara, M., **Shi, C.** and Kallus, N. (2025+) [A Reivew of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf), _Statistical Science_, accepted. 
+Uehara, M., **Shi, C.** and Kallus, N. (2025+) [A Review of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf), _Statistical Science_, accepted. 
 
 Li, M., **Shi, C.**, Wu, Z. and Fryzlewicz, P. (2025+). [Testing Stationarity and Change Point Detection in
 Reinforcement Learning](https://arxiv.org/pdf/2203.01707.pdf) (**CUSUM-RL**) , _Annals of Statistics_, accepted. 
