@@ -52,6 +52,8 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 
 ### Publications/accepted manuscripts
 
+StatsUpAI Interest Group (2025) [Statistics and AI: A Fireside Conversation](https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2), _Harvard Data Science Review_. 
+
 Uehara, M., **Shi, C.** and Kallus, N. (2025+) [A Review of Off-Policy Evaluation in Reinforcement Learning](https://arxiv.org/pdf/2212.06355.pdf), _Statistical Science_, accepted. 
 
 Li, M., **Shi, C.**, Wu, Z. and Fryzlewicz, P. (2025+). [Testing Stationarity and Change Point Detection in
