@@ -51,6 +51,13 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
+Zhu, J., Li, J., Zhou, H., Lin, Y., **Shi, C.**, Lin, Z. (2025). Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach, _ICML_.
+	
+Wen, Q., **Shi, C.**, Yang, Y., Tang, N., Zhu, H. (2025). Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments, _ICML_. 
+
+Zhou, H., Hanna, J., Zhu, J., Yang, Y., **Shi, C.** (2025). Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation, _ICML_. 
+
+Behnamnia, A., Aminian, G., Aghaei, A., **Shi, C.**, Tan, V.Y., Rabiee, H. (2025). Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning, _ICML_. 
 
 StatsUpAI Interest Group (2025). [Statistics and AI: A Fireside Conversation](https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2), _Harvard Data Science Review_. 
 
