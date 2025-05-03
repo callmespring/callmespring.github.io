@@ -50,7 +50,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 ### Publications/accepted manuscripts
 Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., **Shi, C.**, Lin, Z. (2025). Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach, _ICML_.
 	
-Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N., Zhu, H. (2025). Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments, _ICML_. 
+Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N., Zhu, H. (2025). [Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments](https://arxiv.org/pdf/2403.17285v1), _ICML_. 
 
 Zhou, H., Hanna, J., Zhu, J., Yang, Y., **Shi, C.** (2025). Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation, _ICML_. 
 
