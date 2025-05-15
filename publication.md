@@ -34,8 +34,6 @@ Spatio-temporal Interferences](https://arxiv.org/pdf/2407.17910)
 Yang, Y., **Shi, C.**, Yao, F., Wang, S. and Zhu, H. [Spatially Randomized Designs Can Enhance Policy Evaluation
 ](https://arxiv.org/pdf/2403.11400.pdf)
 
-Aminian, G\*., Behnamnia, A\*., Vega, R., Toni, L., **Shi, C.** Rabiee, H., Rivasplata, O. and Rodrigues, M. [Semi-supervised Batch Learning From Logged Data](https://arxiv.org/pdf/2209.07148.pdf)
-
 Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
 Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 
