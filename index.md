@@ -47,7 +47,7 @@ Some of my recent **talks** and **slides** on statistical inference, RL, causal 
 
 A summary of my past research: **Statistical Methods in Reinforcement Learning** (partly supported by [EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W014971/1))
 
-<img src="map.png" width="700">
+<img src="map0.png" width="700">
 
 ### Editorial Service
 * Associate editor, [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (from Feb 2025)
