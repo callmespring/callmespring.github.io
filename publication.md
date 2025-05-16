@@ -54,7 +54,7 @@ Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N., Zhu, H. (2025). [Unraveling the In
 
 Zhou, H., Hanna, J., Zhu, J., Yang, Y., **Shi, C.** (2025). Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation, _ICML_. 
 
-Behnamnia, A., Aminian, G., Aghaei, A., **Shi, C.**, Tan, V.Y., Rabiee, H. (2025). Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning, _ICML_ (**splotlight**, top 2.6% of submissions).
+Behnamnia, A., Aminian, G., Aghaei, A., **Shi, C.**, Tan, V.Y., Rabiee, H. (2025). Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning, _ICML_ (**spotlight**, top 2.6% of submissions).
 
 StatsUpAI Interest Group (2025). [Statistics and AI: A Fireside Conversation](https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2), _Harvard Data Science Review_. 
 
