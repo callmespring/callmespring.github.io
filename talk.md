@@ -5,7 +5,11 @@ title: Talk
 
 ### Talk
 
-* Seminar at Nankai University, School of Statistics and Data Science, Tianjin China, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+* Seminar at Warwick, Department of Computer Science, Coventry, UK, Feb 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Seminar at Warwick, Department of Statistics, Coventry, UK, Feb 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
+* Seminar at Nankai University, School of Statistics and Data Science, Tianjin, China, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
 * AI Keynote Talk at LMU Munich, Munich, Germany, Jan 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
