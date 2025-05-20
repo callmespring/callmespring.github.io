@@ -5,7 +5,7 @@ title: Talk
 
 ### Talk
 
-* Seminar at Warwick, Department of Computer Science, Coventry, UK, Feb 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+* Seminar at Warwick, Department of Computer Science, Coventry, UK, May 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
 
 * Seminar at Warwick, Department of Statistics, Coventry, UK, Feb 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
