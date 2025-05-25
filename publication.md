@@ -48,7 +48,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
-Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., **Shi, C.**, Lin, Z. (2025). Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach, _ICML_.
+Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., **Shi, C.**, Lin, Z. (2025). Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach, _ICML_. **Python module**  [<span style="font-family:courier;">**CausalGraphCut**</span>](https://github.com/Mamba413/CausalGraphCut)
 	
 Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N., Zhu, H. (2025). [Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments](https://arxiv.org/pdf/2403.17285v1), _ICML_. 
 
