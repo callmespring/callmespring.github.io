@@ -13,6 +13,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) **Python module**  [<span style="font-family:courier;">**VRPO**</span>](https://github.com/VRPO/VRPO)
 
+Zhu, J., Zhou, X., Yao, J., Aminian, G., Rivasplata, O., Little, S., Li, L. and **Shi, C**. [Semi-pessimistic Reinforcement Learning](https://arxiv.org/pdf/2505.19002).
+
 Shen, G., Dai, R., Wu, G., Luo, S., **Shi, C.** and Zhu, H. [Deep Distributional Learning with Non-crossing Quantile Network](https://arxiv.org/pdf/2504.08215)
 
 **Shi, C**. [Statistical Inference in Reinforcement Learning: A Selective Survey
