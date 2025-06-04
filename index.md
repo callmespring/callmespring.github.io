@@ -25,7 +25,7 @@ I was honoured to receive the [Peter Gavin Hall Institute of Mathematical Statis
 I am looking for PhD students interested in reinforcement learning and large language models (LLMs); see 
 
 * my recent [paper](https://arxiv.org/pdf/2506.01183) and [slides](https://callmespring.github.io/slides/DRPO.pdf) on LLMs;
-* my lecture [slides](https://github.com/callmespring/RL-short-course) on RL, my survey [paper](https://arxiv.org/abs/2502.16195) on statistical inference in RL and its Chinese [version](https://mp.weixin.qq.com/s/_uPxaxhYuG0D4AiillMJug);
+* my lecture [slides](https://github.com/callmespring/RL-short-course) on RL and my survey [paper](https://arxiv.org/abs/2502.16195) on statistical inference in RL (its Chinese [version](https://mp.weixin.qq.com/s/_uPxaxhYuG0D4AiillMJug));
 * our AAAI tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
 )) on RL for two-sided marketplaces; 
 * my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) on off-policy evaluation and our review [paper](https://arxiv.org/pdf/2212.06355.pdf). 
