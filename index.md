@@ -26,7 +26,7 @@ I am looking for PhD students interested in reinforcement learning (see my lectu
 
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
-### News
+### Some News
 
 - **August 2025**: Talk @ *JSM* on **Doubly Robust LLM Fine-Tuning**.
 - **July 2025**: RL short course at Renmin University, Shandong University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
