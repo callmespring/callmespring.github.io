@@ -32,6 +32,10 @@ I am looking for PhD students interested in reinforcement learning and large lan
 
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
+### News
+
+* (May, 2025) Four papers on RL have been accepted to ICML 2025. 
+
 ### Research
 
 My research is motivated from the following applications: 
