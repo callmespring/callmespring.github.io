@@ -22,13 +22,7 @@ layout: default
 
 I was honoured to receive the [Peter Gavin Hall Institute of Mathematical Statistics (IMS) Early Career Prize](https://imstat.org/ims-awards/peter-gavin-hall-ims-early-career-prize/), [IMS Tweedie Award](https://imstat.org/2024/03/05/chengchun-shi-receives-2024-ims-tweedie-new-researcher-award/) and the [Royal Statistical Society (RSS) Research Prize](https://rss.org.uk/news-publication/news-publications/2021/general-news/announcing-our-honours-recipients-for-2021/). 
 
-I am looking for PhD students interested in reinforcement learning and LLMs; see 
-
-* my recent [paper](https://arxiv.org/pdf/2506.01183) and [slides](https://callmespring.github.io/slides/DRPO.pdf) on LLMs;
-* my lecture [slides](https://github.com/callmespring/RL-short-course) on RL and my survey [paper](https://arxiv.org/abs/2502.16195) on statistical inference in RL (its Chinese [version](https://mp.weixin.qq.com/s/_uPxaxhYuG0D4AiillMJug));
-* our AAAI tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
-)) on RL for two-sided marketplaces; 
-* my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) on off-policy evaluation and our review [paper](https://arxiv.org/pdf/2212.06355.pdf). 
+I am looking for PhD students interested in reinforcement learning (see my lecture [slides](https://github.com/callmespring/RL-short-course)) and LLMs.  
 
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
@@ -49,8 +43,8 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 My research is motivated from the following applications: 
 * **LLMs** (see our recent papers [DRPO](https://arxiv.org/pdf/2506.01183), [VRPO](https://arxiv.org/pdf/2504.03784),  [slides](https://callmespring.github.io/slides/DRPO.pdf) on fine-tuning);
-* **Ridesharing** (simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL); see also our tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
-)) and my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f)); 
+* **Ridesharing** (see our AAAI tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
+)) and my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f); see also some simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL)); 
 * **Video-sharing** (see our KDD [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809) for details about our proposal successfully deployed in a widely used mobile app with millions of daily active users)
 * **Mobile health** (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl));
 * **Neuroscience** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making)
@@ -60,6 +54,7 @@ Some of my recent **talks** and **slides** on statistical inference, RL, causal 
 * **StatRL** [Bilibili](https://www.bilibili.com/video/BV1ZP4y1r7DC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f), [Youtube](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s); Chinese versions: [Bilibili](https://www.bilibili.com/video/BV1kP411f7dA/?spm_id_from=333.337.search-card.all.click), [Youtube](https://www.youtube.com/watch?v=7NWBLuok8nk&t=3048s); [slides](https://callmespring.github.io/slides/StatRL.pdf); the accompanying [paper](https://arxiv.org/abs/2502.16195) and its Chinese [version](https://mp.weixin.qq.com/s/_uPxaxhYuG0D4AiillMJug)
 * **CausalRL** [Youtube](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s), [slides](https://callmespring.github.io/slides/CausalRL.pdf); the accompanying [paper](https://arxiv.org/pdf/2002.01711)
 * **ARMAdesign** [2-hour slides](https://callmespring.github.io/slides/ABtesting.pdf), [1-hour slides](https://callmespring.github.io/slides/ARMAdesign.pdf), [30-minute slides](https://callmespring.github.io/slides/design30m.pdf); the accompanying [paper](https://arxiv.org/pdf/2408.05342v3)
+* **OPE** my [slides](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/OPEslides.pdf) and our review [paper](https://arxiv.org/pdf/2212.06355.pdf);
 * **Pessimistic Data Integration** [slides](https://callmespring.github.io/slides/DataIntegration.pdf); the accompanying [paper](https://arxiv.org/pdf/2406.00317)
 * **Doubly Inhomogeneous** [policy learning](https://callmespring.github.io/slides/DIRL.pdf), [policy evaluation](https://callmespring.github.io/slides/DIOPE.pdf). 
 
