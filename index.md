@@ -29,13 +29,16 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 ### News
 
 - **August 2025**: Talk @ *JSM* on **Doubly Robust LLM Fine-Tuning**.
-- **July 2025**: RL short course at Renmin University, Shandong University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
-- **July 2025**: Talk @ Tsinghua Statistics + AI Frontier Summit, JCSDS, SUFE. 
+- **July 2025**:
+  * RL short course at Renmin University, Shandong University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
+  * Talk @ Tsinghua Statistics + AI Frontier Summit, JCSDS, SUFE. 
 - **June 29, 2025**: Talk @ ICSA, Zhuhai, China.
   * Erhan will present our [paper](https://arxiv.org/pdf/2506.01183) on **Doubly Robust LLM Fine-Tuning** on my behalf ([Slides](https://callmespring.github.io/slides/DRPO.pdf))
   * Jin will present our work on LLM detection
 - **June 21, 2025**: Hongyi will present our work on LLM detection @ 狗熊会
-- **May 2025**: *Four* papers accepted to *ICML 2025*. Congratulations to all co-authors!
+- **May 2025**:
+  * Talk @ Warwick
+  * *Four* papers accepted to *ICML 2025*. Congratulations to all co-authors!
 - **April 2025**: Honored to receive the [Peter Gavin Hall IMS Early Career Prize](https://imstat.org/2025/05/05/chengchun-shi-wins-peter-gavin-hall-ims-early-career-prize/).
 
 
