@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Wang, J., Wen, Q., Zhang, Y., Yan, X. and **Shi, C**. [A Two-armed Bandit Framework for A/B Testing
+](https://arxiv.org/abs/2507.18118). 
+
 Xu, E\*., Ye, K\*., Zhou, H\*., Zhu, L.,  Quinzan, F. and **Shi, C**. [Doubly Robust Alignment for Large Language Models](https://arxiv.org/pdf/2506.01183) **Python module**  [<span style="font-family:courier;">**DRPO4LLM**</span>](https://github.com/DRPO4LLM/DRPO4LLM) <br/> [<font size="3">slides</font>](./slides/DRPO.pdf) [<font size="3">video</font>](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>. 
 
 Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) **Python module**  [<span style="font-family:courier;">**VRPO**</span>](https://github.com/VRPO/VRPO)
