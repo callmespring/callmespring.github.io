@@ -52,7 +52,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
-Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
+Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. (2025). [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
 ](https://arxiv.org/abs/2212.14466), _TMLR_. <br/>2023 **JSM Student Paper Award**
 
 Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., Lin, Z., **Shi, C.** (2025). [Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach](https://arxiv.org/pdf/2505.20130), _ICML_. **Python module**  [<span style="font-family:courier;">**CausalGraphCut**</span>](https://github.com/Mamba413/CausalGraphCut)
