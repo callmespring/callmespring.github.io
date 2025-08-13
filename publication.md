@@ -47,14 +47,14 @@ Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 Ma, T\*., Zhu, J\*., Cai, H., Qi, Z., Chen, Y., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
 Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
 
-Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
-](https://arxiv.org/abs/2212.14466) <br/>2023 **JSM Student Paper Award**
-
 Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf). **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
+Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
+](https://arxiv.org/abs/2212.14466), _TMLR_. <br/>2023 **JSM Student Paper Award**
+
 Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., Lin, Z., **Shi, C.** (2025). [Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach](https://arxiv.org/pdf/2505.20130), _ICML_. **Python module**  [<span style="font-family:courier;">**CausalGraphCut**</span>](https://github.com/Mamba413/CausalGraphCut)
 	
 Wen, Q\*., **Shi, C\*.**, Yang, Y., Tang, N., Zhu, H. (2025). [Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments](https://arxiv.org/pdf/2403.17285v1), _ICML_. **Python module**  [<span style="font-family:courier;">**SwitchMDP**</span>](https://github.com/QianglinSIMON/SwitchMDP).
