@@ -45,6 +45,8 @@ title: Talk
 
 * 2024 First Macau International Conference on Business Intelligence and Analytics, Macau, China, Dec 2024 (invited) [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
 
+* Keynote Talk at the 10th Young Statisticians Workshop, Shanghai, China, Nov 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
+
 * Seminar at Antai College, Shanghai Jiaotong University, Shanghai, China, Nov 2024 (invited), [A Reinforcement Learning Framework for A/B Testing](./slides/CausalRL.pdf)
 
 * First Interdisciplinary Conference on Statistics and Management Science, Hefei, China, Nov 2024 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
