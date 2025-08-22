@@ -15,6 +15,8 @@ title: Talk
 
 * Seminar at SHUFE, School of Statistics, Shanghai, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
 
+* Big Data Statistics Workshop at School of Statistics, ECNU, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
 * Joint Conference on Statistics and Data Science, Hangzhou, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
 
 * Tsinghua Statistics + AI Frontier Summit, Beijing, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
