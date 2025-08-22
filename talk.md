@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Workshop on Foundation Models and their Biomedical Applications, Banff, Canada, Aug 2025 (invited), [From Theory to Practice: Challenges in Real-World Reinforcement Learning](./slides/RLchanllenge.pdf)
+
 * Joint Statistical Meeting, Nashville, USA, Aug 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
 
 * Seminar at Nankai University, School of Statistics, Shanghai, China, Aug 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
