@@ -5,6 +5,20 @@ title: Talk
 
 ### Talk
 
+* Joint Statistical Meeting, Nashville, USA, Aug 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Seminar at Nankai University, School of Statistics, Shanghai, China, Aug 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Seminar at Shangdong University of Finance and Statistics, School of Statistics, Shanghai, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Seminar at SHUFE, Key Laboratory of Mathematical Economics, Shanghai, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Seminar at SHUFE, School of Statistics, Shanghai, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Joint Conference on Statistics and Data Science, Hangzhou, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Tsinghua Statistics + AI Frontier Summit, Beijing, China, July 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
 * Seminar at Warwick, Department of Computer Science, Coventry, UK, May 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
 
 * Seminar at Warwick, Department of Statistics, Coventry, UK, Feb 2025 (invited), [ARMA-Design: Optimal Design for A/B Testing in Two-sided Marketplaces](./slides/ARMAdesign.pdf)
