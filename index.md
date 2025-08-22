@@ -28,9 +28,10 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 ### News
 
-- **August 2025**: Talk @ *JSM* on **Doubly Robust LLM Fine-Tuning**.
+- **August 2025**: Talk @ *BIRS* on **RL**. 
+- **August 2025**: Talk @ *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**. 
 - **July 2025**: RL short course at Renmin University, Soochow University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
-- **July 2025**: Talk @ Tsinghua Statistics + AI Frontier Summit, JCSDS, SHUFE, ECNU, SUFE. 
+- **July 2025**: Talk @ Tsinghua Statistics + AI Frontier Summit, JCSDS, SHUFE, ECNU, SDUFE. 
 - **June 29, 2025**: Talk @ ICSA, Zhuhai, China.
   * Erhan will present our [paper](https://arxiv.org/pdf/2506.01183) on **Doubly Robust LLM Fine-Tuning** on my behalf ([Slides](https://callmespring.github.io/slides/DRPO.pdf))
   * Jin will present our work on LLM detection
