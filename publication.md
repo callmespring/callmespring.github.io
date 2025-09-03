@@ -11,8 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Wang, J., Wen, Q., Zhang, Y., Yan, X. and **Shi, C**. [A Two-armed Bandit Framework for A/B Testing
-](https://arxiv.org/abs/2507.18118). 
+Wang, J., Wen, Q., Zhang, Y., Yan, X. and **Shi, C**. [A Two-armed Bandit Framework for A/B Testing](https://arxiv.org/abs/2507.18118). 
 
 Xu, E\*., Ye, K\*., Zhou, H\*., Zhu, L.,  Quinzan, F. and **Shi, C**. [Doubly Robust Alignment for Large Language Models](https://arxiv.org/pdf/2506.01183) **Python module**  [<span style="font-family:courier;">**DRPO4LLM**</span>](https://github.com/DRPO4LLM/DRPO4LLM) <br/> [<font size="3">slides</font>](./slides/DRPO.pdf) [<font size="3">video</font>](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>. 
 
@@ -52,8 +51,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
-Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. (2025). [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning
-](https://arxiv.org/abs/2212.14466), _TMLR_. <br/>2023 **JSM Student Paper Award**
+Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. (2025). [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning](https://arxiv.org/abs/2212.14466), _TMLR_. <br/>2023 **JSM Student Paper Award**
 
 Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., Lin, Z., **Shi, C.** (2025). [Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach](https://arxiv.org/pdf/2505.20130), _ICML_. **Python module**  [<span style="font-family:courier;">**CausalGraphCut**</span>](https://github.com/Mamba413/CausalGraphCut)
 	
