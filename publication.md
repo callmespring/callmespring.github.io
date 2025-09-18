@@ -13,8 +13,6 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 Wang, J., Wen, Q., Zhang, Y., Yan, X. and **Shi, C**. [A Two-armed Bandit Framework for A/B Testing](https://arxiv.org/abs/2507.18118). 
 
-Xu, E\*., Ye, K\*., Zhou, H\*., Zhu, L.,  Quinzan, F. and **Shi, C**. [Doubly Robust Alignment for Large Language Models](https://arxiv.org/pdf/2506.01183) **Python module**  [<span style="font-family:courier;">**DRPO4LLM**</span>](https://github.com/DRPO4LLM/DRPO4LLM) <br/> [<font size="3">slides</font>](./slides/DRPO.pdf) [<font size="3">video</font>](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>. 
-
 Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) **Python module**  [<span style="font-family:courier;">**VRPO**</span>](https://github.com/VRPO/VRPO)
 
 Zhu, J., Zhou, X., Yao, J., Aminian, G., Rivasplata, O., Little, S., Li, L. and **Shi, C**. [Semi-pessimistic Reinforcement Learning](https://arxiv.org/pdf/2505.19002).
@@ -51,6 +49,14 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
+Xu, E\*., Ye, K\*., Zhou, H\*., Zhu, L.,  Quinzan, F. and **Shi, C**. (2025). [Doubly Robust Alignment for Large Language Models](https://arxiv.org/pdf/2506.01183), _NeurIPS_. **Python module**  [<span style="font-family:courier;">**DRPO4LLM**</span>](https://github.com/DRPO4LLM/DRPO4LLM) <br/> [<font size="3">slides</font>](./slides/DRPO.pdf) [<font size="3">video</font>](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>. 
+
+Zhou, H\*., Zhu, J\*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and **Shi, C**. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees, _NeurIPS_.
+
+Wu, X\*., Li, T\*., Aminian, G., Behnamnia, A., Rabiee, H. and **Shi, C**. (2025). Pessimistic Data Integration for Policy Evaluation, _NeurIPS_.
+
+Feng, J., Zhao, W., Wu, Z., **Shi, C**. and Yan, X. (2025). Beyond Average Value Function in Precision Medicine: Maximum Probability-Driven Reinforcement Learning for Survival Analysis, _NeurIPS_.
+
 Yang, X., **Shi, C.**, Luo, S., Wang, L. and Song, R. (2025). [Quantile Off-Policy Evaluation via Deep Conditional Generative Learning](https://arxiv.org/abs/2212.14466), _TMLR_. <br/>2023 **JSM Student Paper Award**
 
 Zhu, J\*., Li, J\*., Zhou, H., Lin, Y., Lin, Z., **Shi, C.** (2025). [Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach](https://arxiv.org/pdf/2505.20130), _ICML_. **Python module**  [<span style="font-family:courier;">**CausalGraphCut**</span>](https://github.com/Mamba413/CausalGraphCut)
