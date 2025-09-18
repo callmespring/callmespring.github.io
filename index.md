@@ -28,6 +28,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 ### News
 
+- **Sep 2025**: *Four* papers on LLM and RL accepted to *NeurIPS 2025*. Congratulations to all co-authors!
 - **August 2025**: Talk @ *BIRS* on **RL**. 
 - **August 2025**: Talk @ *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**. 
 - **July 2025**: RL short course at Renmin University, Soochow University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
