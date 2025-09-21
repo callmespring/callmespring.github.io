@@ -6,4 +6,15 @@ permalink: /test/
 
 ### Publications/accepted manuscripts
 
-<span class="publication-logo-badge badge-neurips">NeurIPS</span> Xu, E\*., Ye, K\*., Zhou, H\*., Zhu, L.,  Quinzan, F. and **Shi, C**. (2025). [Doubly Robust Alignment for Large Language Models](https://arxiv.org/pdf/2506.01183). **Python module**  [<span style="font-family:courier;">**DRPO4LLM**</span>](https://github.com/DRPO4LLM/DRPO4LLM) <br/> [<font size="3">slides</font>](./slides/DRPO.pdf) [<font size="3">video</font>](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>.
+<li>
+  <span class="publication-logo-badge badge-neurips">NeurIPS</span>
+  <span class="ref-text">
+    Xu, E*., Ye, K*., Zhou, H*., Zhu, L., Quinzan, F. and <strong>Shi, C</strong>. (2025). 
+    <a href="https://arxiv.org/pdf/2506.01183">Doubly Robust Alignment for Large Language Models</a>. 
+    <strong>Python module</strong>  
+    <a href="https://github.com/DRPO4LLM/DRPO4LLM" style="font-family:courier;"><strong>DRPO4LLM</strong></a> <br/> 
+    <a href="./slides/DRPO.pdf"><font size="3">slides</font></a> 
+    <a href="https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3"><font size="3">video</font></a> 
+    <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>.
+  </span>
+</li>
