@@ -1,0 +1,23 @@
+.publication-entry {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 0.75rem;
+}
+.publication-logo-badge {
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  min-width: 64px;
+  text-align: center;
+  display: inline-block;
+}
+.badge-neurips { background: #0047AB; }
+.badge-icml   { background: #2E8B57; }
+.publication-details { line-height: 1.25; }
+
+@media (max-width: 640px) {
+  .publication-entry { flex-direction: column; align-items: flex-start; }
+}
