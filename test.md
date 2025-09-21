@@ -1,3 +1,9 @@
+---
+layout: page
+title: Test Publications
+permalink: /test/
+---
+
 ### Publications/accepted manuscripts
 
 <span style="
