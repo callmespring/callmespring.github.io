@@ -51,11 +51,10 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 ### Publications/accepted manuscripts
 
 <div class="publication-entry">
-  <img src="/logo/neurips.png" alt="NeurIPS logo">
+  <img src="/logo/nips.png" alt="NeurIPS logo">
   <div>
-    <strong>Deep Learning Breakthrough</strong><br>
-    Alice, Bob (2024) <br>
-    [Paper](https://arxiv.org/abs/xxxx.xxxxx)
+    <strong>Deep Learning Breakthrough</strong>
+    Alice, Bob (2024) [Paper](https://arxiv.org/abs/xxxx.xxxxx)
   </div>
 </div>
 
