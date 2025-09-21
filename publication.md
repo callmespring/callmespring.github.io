@@ -49,6 +49,16 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Learning in Confounded Environments](https://arxiv.org/pdf/2209.15448.pdf)
 
 ### Publications/accepted manuscripts
+
+<div class="publication-entry">
+  <img src="/logo/neurips.png" alt="NeurIPS logo">
+  <div>
+    <strong>Deep Learning Breakthrough</strong><br>
+    Alice, Bob (2024) <br>
+    [Paper](https://arxiv.org/abs/xxxx.xxxxx)
+  </div>
+</div>
+
 Xu, E\*., Ye, K\*., Zhou, H\*., Zhu, L.,  Quinzan, F. and **Shi, C**. (2025). [Doubly Robust Alignment for Large Language Models](https://arxiv.org/pdf/2506.01183), _NeurIPS_. **Python module**  [<span style="font-family:courier;">**DRPO4LLM**</span>](https://github.com/DRPO4LLM/DRPO4LLM) <br/> [<font size="3">slides</font>](./slides/DRPO.pdf) [<font size="3">video</font>](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>. 
 
 Zhou, H\*., Zhu, J\*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and **Shi, C**. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees, _NeurIPS_.
