@@ -1,9 +1,10 @@
 .publication-entry {
   display: flex;
-  align-items: center;
+  align-items: flex-start; /* change from center to flex-start for multi-line alignment */
   gap: 12px;
   margin-bottom: 0.75rem;
 }
+
 .publication-logo-badge {
   color: #fff;
   padding: 6px 10px;
@@ -14,10 +15,24 @@
   text-align: center;
   display: inline-block;
 }
+
 .badge-neurips { background: #0047AB; }
 .badge-icml   { background: #2E8B57; }
-.publication-details { line-height: 1.25; }
 
+.publication-details { 
+  line-height: 1.25; 
+}
+
+/* New hanging-indent for NeurIPS entries */
+.publication-entry .badge-neurips + .ref-text {
+  display: block;
+  margin-left: 0;   /* handled by flex */
+}
+
+/* Optional: responsive fix */
 @media (max-width: 640px) {
-  .publication-entry { flex-direction: column; align-items: flex-start; }
+  .publication-entry { 
+    flex-direction: column; 
+    align-items: flex-start; 
+  }
 }
