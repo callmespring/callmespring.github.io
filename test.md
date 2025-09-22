@@ -293,3 +293,58 @@ permalink: /test/
     Wang, J., <strong>Shi, C.</strong> and Wu, Z. (2023). <a href="https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf">A Robust Test for the Stationarity Assumption in Sequential Decision Making</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/Double_CUSUM_RL" style="font-family:courier;"><strong>Double-CUSUM-RL</strong></a>
   </div>
 </div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-cog">CogSci</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2023). <a href="https://escholarship.org/content/qt7p00v6c5/qt7p00v6c5_noSplash_c8894c31a36bfc9e82ef2e67f80623ec.pdf?t=rxy9wr">A Generalized Method for Dynamic Noise Inference in Modeling Sequential Decision-making</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">HDSR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong> (2023). <a href="https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9">The Impact of David Cox’s Work and Leadership on My Research</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">STAT</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Gao, Y., <strong>Shi, C.</strong> and Song, R. (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564">Deep Spectral Q-learning with Application to Mobile Health</a>. 2022 <strong>JSM Student Paper Award</strong>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="pub-venue-badge badge-jmlr">JMLR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. <strong>R Package</strong> <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="font-family:courier;"><strong>JQL</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-aistats">AISTATS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Zhou, Y., Qi, Z., <strong>Shi, C.</strong> and Li, L. (2023). <a href="https://arxiv.org/pdf/2210.14420.pdf">Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/PBL" style="font-family:courier;"><strong>PBL</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="pub-venue-badge badge-aistats">AISTATS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Zhang, Y., <strong>Shi, C.</strong> and Luo, S. (2023). <a href="https://arxiv.org/pdf/2206.06711.pdf">Conformal Off-Policy Prediction</a> (COPP). <strong>R code</strong> <a href="https://github.com/yyzhangecnu/COPP" style="font-family:courier;"><strong>COPP</strong></a>
+  </div>
+</div>
+
