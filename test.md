@@ -141,3 +141,29 @@ permalink: /test/
   </div>
 </div>
 
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, T*., <strong>Shi, C*.</strong>, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2406.00317">Combining Experimental and Historical Data for Policy Evaluation</a>. <strong>Python module</strong> <a href="https://github.com/tingstat/Data_Combination" style="font-family:courier;"><strong>Data_Combination</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-psych">J Math Psychol</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2024). <a href="https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf">Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making</a>, Journal of Mathematical Psychology, <strong>119</strong>, 102842. <strong>Python module</strong> <a href="https://github.com/jl3676/dynamic_noise_estimation" style="font-family:courier;"><strong>dynamic_noise_estimation</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C*.</strong>, Qi, Z*., Wang, J. and Zhou, F. (2024). <a href="https://arxiv.org/pdf/2301.02220.pdf">Value Enhancement of Reinforcement Learning via Efficient and Robust Trust Region Optimization</a>. <strong>Python module</strong> <a href="https://github.com/dc-wangjn/VEPO" style="font-family:courier;"><strong>VEPO</strong></a>
+  </div>
+</div>
