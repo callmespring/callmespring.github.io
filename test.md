@@ -44,7 +44,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-tmlr">TMLR</span>
+    <span class="publication-logo-badge badge-ml">TMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Yang, X., <strong>Shi, C</strong>., Luo, S., Wang, L. and Song, R. (2025). <a href="https://arxiv.org/abs/2212.14466">Quantile Off-Policy Evaluation via Deep Conditional Generative Learning</a>. 2023 <strong>JSM Student Paper Award</strong>
@@ -53,7 +53,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-icml">ICML</span>
+    <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhu, J*., Li, J*., Zhou, H., Lin, Y., Lin, Z., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.20130">Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/CausalGraphCut" style="font-family:courier;"><strong>CausalGraphCut</strong></a>
@@ -62,7 +62,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-icml">ICML</span>
+    <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Wen, Q*., <strong>Shi, C*.</strong>, Yang, Y., Tang, N., Zhu, H. (2025). <a href="https://arxiv.org/pdf/2403.17285v1">Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments</a>. <strong>Python module</strong> <a href="https://github.com/QianglinSIMON/SwitchMDP" style="font-family:courier;"><strong>SwitchMDP</strong></a>
@@ -71,7 +71,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-icml">ICML</span>
+    <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhou, H., Hanna, J., Zhu, J., Yang, Y., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.22492">Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation</a>
@@ -80,7 +80,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-icml">ICML</span>
+    <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Behnamnia, A., Aminian, G., Aghaei, A., <strong>Shi, C.</strong>, Tan, V.Y., Rabiee, H. (2025). <a href="https://www.arxiv.org/pdf/2506.06873">Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning</a> (**spotlight**, top 2.6% of submissions).
@@ -89,7 +89,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">Harvard DSR</span>
+    <span class="publication-logo-badge badge-stats">HDSR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     StatsUpAI Interest Group (2025). <a href="https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2">Statistics and AI: A Fireside Conversation</a>.
@@ -98,7 +98,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">StatSci</span>
+    <span class="publication-logo-badge badge-stats">Stat Sci</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Uehara, M., <strong>Shi, C.</strong> and Kallus, N. (2025+). <a href="https://arxiv.org/pdf/2212.06355.pdf">A Review of Off-Policy Evaluation in Reinforcement Learning</a>, accepted.
