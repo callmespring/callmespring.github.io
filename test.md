@@ -227,6 +227,6 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., <strong>Shi, C.</strong> and Sun, W. (2023) <a href="https://arxiv.org/pdf/2207.13081.pdf">Future-Dependent Value-Based Off-Policy Evaluation in POMDPs</a> (**spotlight**)
+    Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., <strong>Shi, C.</strong> and Sun, W. (2023) <a href="https://arxiv.org/pdf/2207.13081.pdf">Future-Dependent Value-Based Off-Policy Evaluation in POMDPs</a> (<strong>spotlight</strong>)
   </div>
 </div>
