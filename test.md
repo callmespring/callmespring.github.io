@@ -89,7 +89,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">HDSR</span>
+    <span class="publication-logo-badge badge-stat">HDSR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     StatsUpAI Interest Group (2025). <a href="https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2">Statistics and AI: A Fireside Conversation</a>.
@@ -98,7 +98,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">Stat Sci</span>
+    <span class="publication-logo-badge badge-stat">Stat Sci</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Uehara, M., <strong>Shi, C.</strong> and Kallus, N. (2025+). <a href="https://arxiv.org/pdf/2212.06355.pdf">A Review of Off-Policy Evaluation in Reinforcement Learning</a>, accepted.
@@ -107,7 +107,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">AOS</span>
+    <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025+). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning (CUSUM-RL)</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
@@ -116,7 +116,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">AOS</span>
+    <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Luo, L*., <strong>Shi, C*.</strong>, Wang, J*, Wu, Z. and Li, L. (2024+). <a href="https://arxiv.org/pdf/2310.16203.pdf">Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/MedtimeRL" style="font-family:courier;"><strong>MedtimeRL</strong></a>
@@ -134,7 +134,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stats">JASA</span>
+    <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Bian, Z., <strong>Shi, C.</strong>, Qi, Z. and Wang, L. (2024+). <a href="https://arxiv.org/pdf/2306.08719.pdf">Off-policy Evaluation in Doubly Inhomogeneous Environments</a>. <strong>Python module</strong> <a href="https://github.com/ZeyuBian/2FEOPE" style="font-family:courier;"><strong>2FEOPE</strong></a>
