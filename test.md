@@ -167,3 +167,66 @@ permalink: /test/
     <strong>Shi, C*.</strong>, Qi, Z*., Wang, J. and Zhou, F. (2024). <a href="https://arxiv.org/pdf/2301.02220.pdf">Value Enhancement of Reinforcement Learning via Efficient and Robust Trust Region Optimization</a>. <strong>Python module</strong> <a href="https://github.com/dc-wangjn/VEPO" style="font-family:courier;"><strong>VEPO</strong></a>
   </div>
 </div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Zhou, Y. and Li, L. (2024). <a href="https://arxiv.org/pdf/2106.01474.pdf">Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning</a> (<strong>SUGAR</strong>). <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/SUGAR" style="font-family:courier;"><strong>SUGAR</strong></a><br/> <a href="./slides/SUGAR.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, T*., <strong>Shi, C*.</strong>, Lu, Z., Li, Y. and Zhu, H. (2024). <a href="https://arxiv.org/abs/2305.10187">Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing</a>. <strong>Python module</strong> <a href="https://github.com/BIG-S2/CQSTVCM" style="font-family:courier;"><strong>CQSTVCM</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.10589">Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</a> (<strong>COPE</strong>). <strong>Python module</strong> <a href="https://github.com/Mamba413/cope" style="font-family:courier;"><strong>COPE</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.13163">Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons</a> (<strong>SEAL</strong>). <strong>Python module</strong> <a href="https://github.com/leyuanheart/SEAL" style="font-family:courier;"><strong>SEAL</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JRSSB</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Luo, S*., Yang, Y*., <strong>Shi, C*.</strong>, Yao, F., Ye, J. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2202.10887.pdf">Policy Evaluation for Temporal and/or Spatial Dependent Experiments</a>. <strong>Python module</strong> <a href="https://github.com/anneyang0060/STVCM" style="font-family:courier;"><strong>STVCM</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">AISTATS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Zhu, J*., Wan, R*., Qi, Z., Luo, S. and <strong>Shi, C</strong>. (2024). <a href="https://arxiv.org/pdf/2310.18715.pdf">Robust Offline Reinforcement Learning with Heavy-Tailed Rewards</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/ROOM" style="font-family:courier;"><strong>ROOM</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., <strong>Shi, C.</strong> and Sun, W. (2023) <a href="https://arxiv.org/pdf/2207.13081.pdf">Future-Dependent Value-Based Off-Policy Evaluation in POMDPs</a> (**spotlight**)
+  </div>
+</div>
