@@ -332,7 +332,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-aistats">AISTATS</span>
+    <span class="publication-logo-badge badge-ml">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhou, Y., Qi, Z., <strong>Shi, C.</strong> and Li, L. (2023). <a href="https://arxiv.org/pdf/2210.14420.pdf">Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/PBL" style="font-family:courier;"><strong>PBL</strong></a>
@@ -341,7 +341,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="pub-venue-badge badge-aistats">AISTATS</span>
+    <span class="pub-venue-badge badge-ml">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhang, Y., <strong>Shi, C.</strong> and Luo, S. (2023). <a href="https://arxiv.org/pdf/2206.06711.pdf">Conformal Off-Policy Prediction</a> (COPP). <strong>R code</strong> <a href="https://github.com/yyzhangecnu/COPP" style="font-family:courier;"><strong>COPP</strong></a>
