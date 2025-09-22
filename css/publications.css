@@ -1,20 +1,6 @@
-/* Remove bullets and padding from list */
-.references, .references li {
-    list-style: none;   /* no bullets */
-    margin: 0;
-    padding: 0;
-}
-
-/* Flex layout for all publication entries */
-.publication-entry {
-    display: flex;
-    align-items: flex-start;
-    gap: 12px;
-    margin-bottom: 0.75rem;
-}
-
+/* Shared badge style stays the same */
 .publication-logo-badge {
-    color: #fff;
+    color: #fff; /* white text */
     padding: 6px 10px;
     border-radius: 6px;
     font-weight: 700;
@@ -24,25 +10,7 @@
     display: inline-block;
 }
 
-/* Hanging indent for NeurIPS entries */
-.publication-entry .badge-neurips + .publication-details {
-    display: inline-block;
-    text-indent: -4ch;   /* first line starts after logo */
-    padding-left: 4ch;   /* subsequent lines align with author */
-    line-height: 1.4;
-}
-
-.badge-neurips { background: #0047AB; }
-.badge-icml   { background: #2E8B57; }
-
-.publication-details { 
-    line-height: 1.25; 
-}
-
-@media (max-width: 640px) {
-    .publication-entry { 
-        flex-direction: column; 
-        align-items: flex-start; 
-    }
-}
-
+/* Category-based background colors (swapped) */
+.badge-ml { background: #0047AB; }      /* ML venues (deep blue) */
+.badge-stat { background: #8B0000; }   /* Statistical venues (dark red) */
+.badge-psych { background: #2E8B57; }  /* Psychological venues (sea green) */
