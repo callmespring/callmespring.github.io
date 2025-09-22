@@ -230,3 +230,66 @@ permalink: /test/
     Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., <strong>Shi, C.</strong> and Sun, W. (2023) <a href="https://arxiv.org/pdf/2207.13081.pdf">Future-Dependent Value-Based Off-Policy Evaluation in POMDPs</a> (<strong>spotlight</strong>)
   </div>
 </div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, T*., <strong>Shi, C*.</strong>, Wang, J., Zhou, F. and Zhu, H. (2023). <a href="https://openreview.net/pdf?id=EcReRm7q9p">Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making</a>. <strong>Python module</strong> <a href="https://github.com/tingstat/MDP_design" style="font-family:courier;"><strong>MDPdesign</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JRSSB</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Zhou, Y., <strong>Shi, C.</strong>, Li, L. and Yao, Q. (2023). <a href="https://arxiv.org/abs/2305.19244">Testing for the Markov Property in Time Series via Deep Conditional Generative Learning</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/markov_test" style="font-family:courier;"><strong>markov_test</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">AOS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). <a href="https://arxiv.org/abs/2202.10574">A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets</a>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/CausalMARL" style="font-family:courier;"><strong>CausalMARL</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C*.</strong>, Wang, X*., Luo, S., Zhu, H., Ye, J. and Song, R. (2023). <a href="https://arxiv.org/pdf/2002.01711.pdf">Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/callmespring/CausalRL" style="font-family:courier;"><strong>CausalRL</strong></a><br/> <a href="./slides/CausalRL.pdf"><font size="3">slides</font></a> <a href="https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s"><font size="3">video</font></a> <font size="3">presented at Online Causal Inference Seminar</font>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Ge, L., Wang, J., <strong>Shi, C.</strong>, Wu, Z. and Song, R. (2023). <a href="https://arxiv.org/pdf/2301.13348.pdf">A Reinforcement Learning Framework for Dynamic Mediation Analysis</a>. <strong>Python module</strong> <a href="https://github.com/linlinlin97/MediationRL" style="font-family:courier;"><strong>MediationRL</strong></a><br/>2023 <strong>ICSA Student Paper Award</strong>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Yang, X., Zhu, J., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2023). <a href="https://arxiv.org/pdf/2212.14468.pdf">An Instrumental Variable Approach to Confounded Off-Policy Evaluation</a>. <strong>Python module</strong> <a href="https://github.com/YangXU63/IVMDP" style="font-family:courier;"><strong>IVMDP</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Wang, J., <strong>Shi, C.</strong> and Wu, Z. (2023). <a href="https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf">A Robust Test for the Stationarity Assumption in Sequential Decision Making</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/Double_CUSUM_RL" style="font-family:courier;"><strong>Double-CUSUM-RL</strong></a>
+  </div>
+</div>
