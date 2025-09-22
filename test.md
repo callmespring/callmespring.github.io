@@ -83,7 +83,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Behnamnia, A., Aminian, G., Aghaei, A., <strong>Shi, C.</strong>, Tan, V.Y., Rabiee, H. (2025). <a href="https://www.arxiv.org/pdf/2506.06873">Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning</a> (**spotlight**, top 2.6% of submissions).
+    Behnamnia, A., Aminian, G., Aghaei, A., <strong>Shi, C.</strong>, Tan, V.Y., Rabiee, H. (2025). <a href="https://www.arxiv.org/pdf/2506.06873">Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning</a> (<strong>spotlight</strong>, top 2.6% of submissions).
   </div>
 </div>
 
