@@ -536,7 +536,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-rssc">JRSS-C</span>
+    <span class="publication-logo-badge badge-stat">JRSS-C</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R. and Lu, W. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12266">Discussion of “Optimal Treatment Allocations in Space and Time for On-Line Control of an Emerging Infectious Disease”</a>.
