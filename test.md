@@ -323,7 +323,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="pub-venue-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-ml">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. <strong>R Package</strong> <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="font-family:courier;"><strong>JQL</strong></a>
