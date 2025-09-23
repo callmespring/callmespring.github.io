@@ -435,7 +435,7 @@ permalink: /test/
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Lu, W. and Li. R. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154">Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation</a> (<strong>ROSE</strong>). <br/>
-    <strong>R code</strong> for [<font size="3">linear</font>](./code/sample_linear.r)/[<font size="3">logistic</font>](./code/sample_logistic.r) regression
+    <strong>R code</strong> for <a href="./code/sample_linear.r"><font size="3">linear</font></a>/<a href="./code/sample_logistic.r"><font size="3">logistic</font></a> regression
   </div>
 </div>
 
@@ -454,7 +454,7 @@ permalink: /test/
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="./paper/SASv2cs.pdf">Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes</a>. <br/>
-    <strong>R and C sample code</strong> [<font size="3">subagging2.cpp</font>](./code/subagging2.cpp) [<font size="3">sb.r</font>](./code/sb.r)
+    <strong>R and C sample code</strong> <a href="./code/subagging2.cpp"><font size="3">subagging2.cpp</font></a> <a href="./code/sb.r"><font size="3">sb.r</font></a>
   </div>
 </div>
 
@@ -464,7 +464,7 @@ permalink: /test/
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Wan, R., Song, R., Lu, W. and Leng, L. (2020). <a href="http://proceedings.mlr.press/v119/shi20c/shi20c.pdf">Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making</a>, <em>ICML</em>. <br/>
-    <strong>Python module</strong> [<span style="font-family:courier;"><strong>TestMDP</strong></span>](https://github.com/RunzheStat/TestMDP) <br/> [<font size="3">slides</font>](./slides/slides.pdf) [<font size="3">video</font>](https://icml.cc/virtual/2020/poster/5961) <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
+    <strong>Python module</strong> <a href="https://github.com/RunzheStat/TestMDP"><span style="font-family:courier;"><strong>TestMDP</strong></span></a> <br/> [<font size="3">slides</font>](./slides/slides.pdf) <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
   </div>
 </div>
 
@@ -484,7 +484,7 @@ permalink: /test/
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Chen, Z. and Li, R. (2019). <a href="https://projecteuclid.org/euclid.aos/1564797860">Linear Hypothesis Testing for High Dimensional Generalized Linear Models</a>. <br/>
     2018 <strong>IMS travel award</strong> <br/>
-    <strong>R code</strong> for [<font size="3">linear</font>](./code/lm_ADMM0.r)/[<font size="3">logistic</font>](./code/Logistic_ADMM0.r)/[<font size="3">Poisson</font>](./code/Poisson_ADMM0.r) <font size="3">regression</font>
+    <strong>R code</strong> for <a href="./code/lm_ADMM0.r"><font size="3">linear</font></a>/<a href="./code/Logistic_ADMM0.r"><font size="3">logistic</font></a>/<a href="./code/Poisson_ADMM0.r"><font size="3">Poisson</font></a> <font size="3">regression</font>
   </div>
 </div>
 
@@ -522,7 +522,7 @@ permalink: /test/
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Lu, W., and Fu, B. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12273">Maximin Projection Learning for Optimal Treatment Decision with Heterogeneous Individualized Treatment Effects</a>. <br/>
-    <strong>R package</strong> [<span style="font-family:courier;"><strong>ITRLearn</strong></span>](https://cran.r-project.org/web/packages/ITRLearn/index.html) <br/> [<font size="3">slides</font>](./slides/JSM2016.pdf) <font size="3">presented at JSM 2016</font>, [<font size="3">poster</font>](./slides/NCSU2018.pdf) <font size="3">presented at 2018 NCSU research symposium</font>.
+    <strong>R package</strong> <a href="https://cran.r-project.org/web/packages/ITRLearn/index.html"><span style="font-family:courier;"><strong>ITRLearn</strong></span></a> <br/> <a href="./slides/JSM2016.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2016</font>, <a href="./slides/NCSU2018.pdf"><font size="3">poster</font></a> <font size="3">presented at 2018 NCSU research symposium</font>.
   </div>
 </div>
 
@@ -532,7 +532,7 @@ permalink: /test/
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Fan, A., Song, R., and Lu, W. (2018). <a href="https://projecteuclid.org/euclid.aos/1525313071">High-Dimensional A-Learning for Optimal Dynamic Treatment Regimes</a>. <br/>
-    <strong>R package</strong> [<span style="font-family:courier;">**ITRSelect**</span>](https://cran.r-project.org/web/packages/ITRSelect/index.html) <br/> [<font size="3">slides</font>](./slides/ENAR2016spring.pdf) <font size="3">presented at ENAR 2016</font>
+    <strong>R package</strong> <a href="https://cran.r-project.org/web/packages/ITRSelect/index.html"><span style="font-family:courier;"><strong>ITRSelect</strong></span></a> <br/> <a href="./slides/ENAR2016spring.pdf"><font size="3">slides</font></a> <font size="3">presented at ENAR 2016</font>
   </div>
 </div>
 
