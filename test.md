@@ -453,8 +453,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="./paper/SASv2cs.pdf">Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes</a>. <br/>
-    <strong>R and C sample code</strong> <a href="./code/subagging2.cpp"><font size="3">subagging2.cpp</font></a> <a href="./code/sb.r"><font size="3">sb.r</font></a>
+    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="./paper/SASv2cs.pdf">Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes</a>. <strong>R and C sample code</strong> <a href="./code/subagging2.cpp"><font size="3">subagging2.cpp</font></a> <a href="./code/sb.r"><font size="3">sb.r</font></a>
   </div>
 </div>
 
@@ -463,8 +462,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Wan, R., Song, R., Lu, W. and Leng, L. (2020). <a href="http://proceedings.mlr.press/v119/shi20c/shi20c.pdf">Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making</a>, <em>ICML</em>. <br/>
-    <strong>Python module</strong> <a href="https://github.com/RunzheStat/TestMDP"><span style="font-family:courier;"><strong>TestMDP</strong></span></a> <br/> [<font size="3">slides</font>](./slides/slides.pdf) <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
+    <strong>Shi, C.</strong>, Wan, R., Song, R., Lu, W. and Leng, L. (2020). <a href="http://proceedings.mlr.press/v119/shi20c/shi20c.pdf">Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making</a>, <em>ICML</em>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/TestMDP"><span style="font-family:courier;"><strong>TestMDP</strong></span></a> <br/> <a href="./slides/slides.pdf"><font size="3">slides</font></a> <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
   </div>
 </div>
 
@@ -521,7 +519,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R., Lu, W., and Fu, B. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12273">Maximin Projection Learning for Optimal Treatment Decision with Heterogeneous Individualized Treatment Effects</a>. <br/>
+    <strong>Shi, C.</strong>, Song, R., Lu, W., and Fu, B. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12273">Maximin Projection Learning for Optimal Treatment Decision with Heterogeneous Individualized Treatment Effects</a>. 
     <strong>R package</strong> <a href="https://cran.r-project.org/web/packages/ITRLearn/index.html"><span style="font-family:courier;"><strong>ITRLearn</strong></span></a> <br/> <a href="./slides/JSM2016.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2016</font>, <a href="./slides/NCSU2018.pdf"><font size="3">poster</font></a> <font size="3">presented at 2018 NCSU research symposium</font>.
   </div>
 </div>
@@ -531,7 +529,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Fan, A., Song, R., and Lu, W. (2018). <a href="https://projecteuclid.org/euclid.aos/1525313071">High-Dimensional A-Learning for Optimal Dynamic Treatment Regimes</a>. <br/>
+    <strong>Shi, C.</strong>, Fan, A., Song, R., and Lu, W. (2018). <a href="https://projecteuclid.org/euclid.aos/1525313071">High-Dimensional A-Learning for Optimal Dynamic Treatment Regimes</a>. 
     <strong>R package</strong> <a href="https://cran.r-project.org/web/packages/ITRSelect/index.html"><span style="font-family:courier;"><strong>ITRSelect</strong></span></a> <br/> <a href="./slides/ENAR2016spring.pdf"><font size="3">slides</font></a> <font size="3">presented at ENAR 2016</font>
   </div>
 </div>
