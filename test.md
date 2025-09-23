@@ -344,7 +344,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhang, Y., <strong>Shi, C.</strong> and Luo, S. (2023). <a href="https://arxiv.org/pdf/2206.06711.pdf">Conformal Off-Policy Prediction</a> (COPP). <strong>R code</strong> <a href="https://github.com/yyzhangecnu/COPP" style="font-family:courier;"><strong>COPP</strong></a>
+    Zhang, Y., <strong>Shi, C.</strong> and Luo, S. (2023). <a href="https://arxiv.org/pdf/2206.06711.pdf">Conformal Off-Policy Prediction</a>. <strong>R code</strong> <a href="https://github.com/yyzhangecnu/COPP" style="font-family:courier;"><strong>COPP</strong></a>
   </div>
 </div>
 
@@ -353,7 +353,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a> (LOGAN), <strong>117</strong>, 2014-2027. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
+    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a>.  <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
   </div>
 </div>
 
@@ -416,7 +416,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">IJCAI workshop</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a>. (best paper). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
+    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a> (<strong>best paper</strong>). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
   </div>
 </div>
 
@@ -425,7 +425,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a>. (long talk, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a> (<strong>long talk</strong>strong>, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
