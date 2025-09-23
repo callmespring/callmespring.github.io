@@ -543,3 +543,30 @@ permalink: /test/
   </div>
 </div>
 
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JRSS-B</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2017). <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228">Discussion of “Random Projection Ensemble Classification”</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">EJS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2016). <a href="https://projecteuclid.org/euclid.ejs/1476368559">Robust Learning for Optimal Treatment Decision with NP-Dimensionality</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">J Stat Soft</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Zhang, P., Qiu, Z. and <strong>Shi, C.</strong> (2016). <a href="https://www.jstatsoft.org/article/view/v071i11">simplexreg: An R Package for Regression Analysis of Proportional Data Using Simplex Distribution</a>. <strong>R package</strong> <a href="https://cran.r-project.org/web/packages/simplexreg/index.html" style="font-family:courier;"><strong>simplexreg</strong></a>
+  </div>
+</div>
+
