@@ -434,7 +434,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R., Lu, W. and Li. R. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154">Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation</a> (<strong>ROSE</strong>). <br/>
+    <strong>Shi, C.</strong>, Song, R., Lu, W. and Li. R. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154">Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation</a> (<strong>ROSE</strong>). 
     <strong>R code</strong> for <a href="./code/sample_linear.r"><font size="3">linear</font></a>/<a href="./code/sample_logistic.r"><font size="3">logistic</font></a> regression
   </div>
 </div>
