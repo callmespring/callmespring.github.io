@@ -110,7 +110,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025+). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning (CUSUM-RL)</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
+    Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025+). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
   </div>
 </div>
 
@@ -191,7 +191,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.10589">Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</a> (<strong>COPE</strong>). <strong>Python module</strong> <a href="https://github.com/Mamba413/cope" style="font-family:courier;"><strong>COPE</strong></a>
+    <strong>Shi, C.</strong>, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.10589">Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/cope" style="font-family:courier;"><strong>COPE</strong></a>
   </div>
 </div>
 
@@ -200,7 +200,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.13163">Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons</a> (<strong>SEAL</strong>). <strong>Python module</strong> <a href="https://github.com/leyuanheart/SEAL" style="font-family:courier;"><strong>SEAL</strong></a>
+    <strong>Shi, C.</strong>, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.13163">Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons</a>. <strong>Python module</strong> <a href="https://github.com/leyuanheart/SEAL" style="font-family:courier;"><strong>SEAL</strong></a>
   </div>
 </div>
 
