@@ -296,7 +296,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-cog">CogSci</span>
+    <span class="publication-logo-badge badge-psych">CogSci</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2023). <a href="https://escholarship.org/content/qt7p00v6c5/qt7p00v6c5_noSplash_c8894c31a36bfc9e82ef2e67f80623ec.pdf?t=rxy9wr">A Generalized Method for Dynamic Noise Inference in Modeling Sequential Decision-making</a>.
@@ -350,7 +350,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-jasa">JASA</span>
+    <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a> (LOGAN), _Journal of the American Statistical Association_, <strong>117</strong>, 2014-2027. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
@@ -359,7 +359,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-rssb">RSSB</span>
+    <span class="publication-logo-badge badge-stat">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Zhang, S., Song, R. and Lu, W. (2022). <a href="https://arxiv.org/pdf/2001.04515.pdf">Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings</a>. <strong>Python module</strong> <a href="https://github.com/shengzhang37/SAVE" style="font-family:courier;"><strong>SAVE</strong></a> <br/> <a href="./slides/VIslides.pdf"><font size="3">slides</font></a> <font size="3">presented at ICSA 2019</font>.
@@ -368,10 +368,10 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-icml">ICML</span>
+    <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. _ICML_ (long talk, top 2%). <strong>Python module</strong> <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" style="font-family:courier;"><strong>Confounded-POMDP-OPE</strong></a> <br/> <a href="https://icml.cc/virtual/2022/oral/16360"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. (long talk, top 2%). <strong>Python module</strong> <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" style="font-family:courier;"><strong>Confounded-POMDP-OPE</strong></a> <br/> <a href="https://icml.cc/virtual/2022/oral/16360"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
