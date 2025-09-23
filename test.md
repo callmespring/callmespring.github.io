@@ -425,7 +425,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a> (<strong>long talk</strong>strong>, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a> (<strong>long talk</strong>, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
