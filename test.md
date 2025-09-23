@@ -353,7 +353,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-jasa">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a> (LOGAN), _Journal of the American Statistical Association_, <strong>117</strong>, 2014-2027. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
+    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a> (LOGAN), _Journal of the American Statistical Association_, <strong>117</strong>, 2014-2027. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
   </div>
 </div>
 
@@ -362,7 +362,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-rssb">RSSB</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Zhang, S., Song, R. and Lu, W. (2022). <a href="https://arxiv.org/pdf/2001.04515.pdf">Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings</a>. <strong>Python module</strong> <a href="https://github.com/shengzhang37/SAVE" style="font-family:courier;"><strong>SAVE</strong></a> <br/> [<font size="3">slides</font>](./slides/VIslides.pdf) <font size="3">presented at ICSA 2019</font>.
+    <strong>Shi, C.</strong>, Zhang, S., Song, R. and Lu, W. (2022). <a href="https://arxiv.org/pdf/2001.04515.pdf">Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings</a>. <strong>Python module</strong> <a href="https://github.com/shengzhang37/SAVE" style="font-family:courier;"><strong>SAVE</strong></a> <br/> <a href="./slides/VIslides.pdf"><font size="3">slides</font></a> <font size="3">presented at ICSA 2019</font>.
   </div>
 </div>
 
@@ -371,7 +371,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-icml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. _ICML_ (long talk, top 2%). <strong>Python module</strong> <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" style="font-family:courier;"><strong>Confounded-POMDP-OPE</strong></a> <br/> [<font size="3">video</font>](https://icml.cc/virtual/2022/oral/16360) <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. _ICML_ (long talk, top 2%). <strong>Python module</strong> <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" style="font-family:courier;"><strong>Confounded-POMDP-OPE</strong></a> <br/> <a href="https://icml.cc/virtual/2022/oral/16360"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
@@ -380,7 +380,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">Stat</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, L., <strong>Shi, C.</strong>, Guo, T. and Jagust, W. (2022). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433">Sequential Pathway Inference for Multimodal Neuroimaging Analysis</a>. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> [<font size="3">slides</font>](./slides/jsm.pdf) <font size="3">presented at JSM 2021</font>.
+    Li, L., <strong>Shi, C.</strong>, Guo, T. and Jagust, W. (2022). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433">Sequential Pathway Inference for Multimodal Neuroimaging Analysis</a>. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
   </div>
 </div>
 
@@ -407,7 +407,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Cai, H*. <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2021). <a href="https://arxiv.org/abs/2010.15963">Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings</a>. 2021 <strong>ENAR Distinguished Student Paper Awards</strong> <br/> <strong>Python module</strong> <a href="https://github.com/HengruiCai/DJL" style="font-family:courier;"><strong>DJL</strong></a> <br/> [<font size="3">video</font>](https://papertalk.org/papertalks/37049) <font size="3">presented at NeurIPS</font>.
+    Cai, H*. <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2021). <a href="https://arxiv.org/abs/2010.15963">Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings</a>. 2021 <strong>ENAR Distinguished Student Paper Awards</strong> <br/> <strong>Python module</strong> <a href="https://github.com/HengruiCai/DJL" style="font-family:courier;"><strong>DJL</strong></a> <br/> <a href="https://papertalk.org/papertalks/37049"><font size="3">video</font></a> <font size="3">presented at NeurIPS</font>.
   </div>
 </div>
 
@@ -416,7 +416,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">IJCAI</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a>. _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (best paper, spotlight). <br/> [<font size="3">video</font>](https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s) <font size="3">presented at the workshop</font>.
+    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a>. _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (best paper, spotlight). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
   </div>
 </div>
 
@@ -425,7 +425,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a>. _ICML_ (long talk, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> [<font size="3">video</font>](https://www.youtube.com/watch?v=uAEWmmm8aDM) <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a>. _ICML_ (long talk, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
