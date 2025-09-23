@@ -353,7 +353,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a> (LOGAN), _Journal of the American Statistical Association_, <strong>117</strong>, 2014-2027. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
+    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a> (LOGAN), <strong>117</strong>, 2014-2027. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
   </div>
 </div>
 
