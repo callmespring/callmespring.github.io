@@ -217,7 +217,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Zhou, Y. and Li, L. (2024). <a href="https://arxiv.org/pdf/2106.01474.pdf">Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning</a> (<strong>SUGAR</strong>). <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/SUGAR" style="font-family:courier;"><strong>SUGAR</strong></a><br/> <a href="./slides/SUGAR.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>
+    <strong>Shi, C.</strong>, Zhou, Y. and Li, L. (2024). <a href="https://arxiv.org/pdf/2106.01474.pdf">Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/SUGAR" style="font-family:courier;"><strong>SUGAR</strong></a><br/> <a href="./slides/SUGAR.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>
   </div>
 </div>
 
