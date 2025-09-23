@@ -494,7 +494,7 @@ permalink: /test/
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W., and Song, R. (2019). <a href="https://projecteuclid.org/euclid.aos/1558425648">On Testing Conditional Qualitative Treatment Effects</a>. <br/>
-    2017 <strong>IMS travel award</strong> <br/> <a href="./slides/JSM2017.pdf"><font size="3">slides</font>]</a> <font size="3">presented at JSM 2017</font>.
+    2017 <strong>IMS travel award</strong> <br/> <a href="./slides/JSM2017.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2017</font>.
   </div>
 </div>
 
