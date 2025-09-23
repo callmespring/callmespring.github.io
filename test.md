@@ -413,10 +413,10 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">IJCAI</span>
+    <span class="publication-logo-badge badge-ml">IJCAI workshop</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a>. _IJCAI Reinforcement Learning for Intelligent Transportation Systems Workshop_ (best paper, spotlight). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
+    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a>. (best paper). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
   </div>
 </div>
 
@@ -425,7 +425,7 @@ permalink: /test/
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a>. _ICML_ (long talk, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a>. (long talk, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
