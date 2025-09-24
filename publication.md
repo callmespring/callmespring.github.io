@@ -154,7 +154,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025+). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
+    Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
   </div>
 </div>
 
@@ -163,7 +163,16 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Luo, L*., <strong>Shi, C*.</strong>, Wang, J*, Wu, Z. and Li, L. (2024+). <a href="https://arxiv.org/pdf/2310.16203.pdf">Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/MedtimeRL" style="font-family:courier;"><strong>MedtimeRL</strong></a>
+    Luo, L*., <strong>Shi, C*.</strong>, Wang, J*, Wu, Z. and Li, L. (2025). <a href="https://arxiv.org/pdf/2310.16203.pdf">Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/MedtimeRL" style="font-family:courier;"><strong>MedtimeRL</strong></a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Bian, Z., <strong>Shi, C.</strong>, Qi, Z. and Wang, L. (2025). <a href="https://arxiv.org/pdf/2306.08719.pdf">Off-policy Evaluation in Doubly Inhomogeneous Environments</a>. <strong>Python module</strong> <a href="https://github.com/ZeyuBian/2FEOPE" style="font-family:courier;"><strong>2FEOPE</strong></a>
   </div>
 </div>
 
@@ -173,15 +182,6 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
   </div>
   <div class="pub-content" style="flex: 1;">
     Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and <strong>Shi, C.</strong> (2024). <a href="https://openreview.net/pdf?id=Lu9Rasfmjj">Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/fsmiu/Two-way-Deconfounder" style="font-family:courier;"><strong>Two-way-deconfounder</strong></a>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Bian, Z., <strong>Shi, C.</strong>, Qi, Z. and Wang, L. (2024+). <a href="https://arxiv.org/pdf/2306.08719.pdf">Off-policy Evaluation in Doubly Inhomogeneous Environments</a>. <strong>Python module</strong> <a href="https://github.com/ZeyuBian/2FEOPE" style="font-family:courier;"><strong>2FEOPE</strong></a>
   </div>
 </div>
 
