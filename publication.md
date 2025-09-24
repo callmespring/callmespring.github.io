@@ -64,7 +64,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees.
+    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees. <strong>Python module</strong> <a href="https://github.com/Mamba413/AdaDetectGPT" style="font-family:courier;"><strong>AdaDetectGPT</strong></a>
   </div>
 </div>
 
