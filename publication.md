@@ -313,6 +313,15 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">KDD</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Wu, G., Song, G., Lv, X., Luo, S., <strong>Shi, C.</strong> and Zhu, H. (2023). <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599809">DNet: Distributional Network for Distributional Individualized Treatment Effects</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
