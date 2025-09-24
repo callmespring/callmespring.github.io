@@ -13,7 +13,7 @@
 /* Category-based background colors (swapped) */
 .badge-ml { background: #0047AB; }      /* ML venues (deep blue) */
 .badge-stat { background: #8B0000; }   /* Statistical venues (dark red) */
-.badge-aos { background: #F5276C; } 
-.badge-jasa { background: #F54927; }   
-.badge-jrss { background: #F5B027; }
+.badge-AOS { background: #F5276C; } 
+.badge-JASA { background: #F54927; }   
+.badge-JRSS { background: #F5B027; }
 .badge-psych { background: #2E8B57; }  /* Psychological venues (sea green) */
