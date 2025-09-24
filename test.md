@@ -206,7 +206,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSSB</span>
+    <span class="publication-logo-badge badge-JRSS">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Luo, S*., Yang, Y*., <strong>Shi, C*.</strong>, Yao, F., Ye, J. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2202.10887.pdf">Policy Evaluation for Temporal and/or Spatial Dependent Experiments</a>. <strong>Python module</strong> <a href="https://github.com/anneyang0060/STVCM" style="font-family:courier;"><strong>STVCM</strong></a>
@@ -242,7 +242,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSSB</span>
+    <span class="publication-logo-badge badge-JRSS">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhou, Y., <strong>Shi, C.</strong>, Li, L. and Yao, Q. (2023). <a href="https://arxiv.org/abs/2305.19244">Testing for the Markov Property in Time Series via Deep Conditional Generative Learning</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/markov_test" style="font-family:courier;"><strong>markov_test</strong></a>
@@ -251,7 +251,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOAS</span>
+    <span class="publication-logo-badge badge-AOS">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). <a href="https://arxiv.org/abs/2202.10574">A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets</a>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/CausalMARL" style="font-family:courier;"><strong>CausalMARL</strong></a>
@@ -554,7 +554,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">EJS</span>
+    <span class="publication-logo-badge badge-EJS">EJS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R. and Lu, W. (2016). <a href="https://projecteuclid.org/euclid.ejs/1476368559">Robust Learning for Optimal Treatment Decision with NP-Dimensionality</a>.
