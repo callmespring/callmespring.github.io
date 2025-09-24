@@ -12,7 +12,7 @@
 
 /* Category-based background colors (swapped) */
 .badge-ml { background: #0047AB; }      /* ML venues (deep blue) */
-.badge-ICML { background: #0000FF; } 
+.badge-ICML { background: #000080; } 
 .badge-AOS { background: #8B0000; }   /* Statistical venues (dark red) */
 .badge-JASA { background: #F54927; }   
 .badge-JRSS { background: #FF0000; }
