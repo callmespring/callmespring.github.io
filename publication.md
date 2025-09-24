@@ -295,7 +295,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-stat">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). <a href="https://arxiv.org/abs/2202.10574">A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets</a>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/CausalMARL" style="font-family:courier;"><strong>CausalMARL</strong></a>
