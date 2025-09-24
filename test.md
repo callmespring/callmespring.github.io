@@ -215,7 +215,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">AISTATS</span>
+    <span class="publication-logo-badge badge-AISTATS">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhu, J*., Wan, R*., Qi, Z., Luo, S. and <strong>Shi, C</strong>. (2024). <a href="https://arxiv.org/pdf/2310.18715.pdf">Robust Offline Reinforcement Learning with Heavy-Tailed Rewards</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/ROOM" style="font-family:courier;"><strong>ROOM</strong></a>
@@ -332,7 +332,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">AISTATS</span>
+    <span class="publication-logo-badge badge-AISTATS">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhou, Y., Qi, Z., <strong>Shi, C.</strong> and Li, L. (2023). <a href="https://arxiv.org/pdf/2210.14420.pdf">Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/PBL" style="font-family:courier;"><strong>PBL</strong></a>
@@ -341,7 +341,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">AISTATS</span>
+    <span class="publication-logo-badge badge-AISTATS">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhang, Y., <strong>Shi, C.</strong> and Luo, S. (2023). <a href="https://arxiv.org/pdf/2206.06711.pdf">Conformal Off-Policy Prediction</a>. <strong>R code</strong> <a href="https://github.com/yyzhangecnu/COPP" style="font-family:courier;"><strong>COPP</strong></a>
@@ -413,7 +413,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">IJCAI workshop</span>
+    <span class="publication-logo-badge badge-IJCAI">IJCAI workshop</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a> (<strong>best paper</strong>). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
