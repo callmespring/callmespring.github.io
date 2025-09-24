@@ -44,7 +44,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">TMLR</span>
+    <span class="publication-logo-badge badge-JMLR">TMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Yang, X., <strong>Shi, C</strong>., Luo, S., Wang, L. and Song, R. (2025). <a href="https://arxiv.org/abs/2212.14466">Quantile Off-Policy Evaluation via Deep Conditional Generative Learning</a>. 2023 <strong>JSM Student Paper Award</strong>
@@ -53,7 +53,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhu, J*., Li, J*., Zhou, H., Lin, Y., Lin, Z., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.20130">Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/CausalGraphCut" style="font-family:courier;"><strong>CausalGraphCut</strong></a>
@@ -62,7 +62,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Wen, Q*., <strong>Shi, C*.</strong>, Yang, Y., Tang, N., Zhu, H. (2025). <a href="https://arxiv.org/pdf/2403.17285v1">Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments</a>. <strong>Python module</strong> <a href="https://github.com/QianglinSIMON/SwitchMDP" style="font-family:courier;"><strong>SwitchMDP</strong></a>
@@ -71,7 +71,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhou, H., Hanna, J., Zhu, J., Yang, Y., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.22492">Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation</a>
@@ -80,7 +80,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Behnamnia, A., Aminian, G., Aghaei, A., <strong>Shi, C.</strong>, Tan, V.Y., Rabiee, H. (2025). <a href="https://www.arxiv.org/pdf/2506.06873">Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning</a> (<strong>spotlight</strong>, top 2.6% of submissions).
@@ -143,7 +143,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Li, T*., <strong>Shi, C*.</strong>, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2406.00317">Combining Experimental and Historical Data for Policy Evaluation</a>. <strong>Python module</strong> <a href="https://github.com/tingstat/Data_Combination" style="font-family:courier;"><strong>Data_Combination</strong></a>
@@ -269,7 +269,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Ge, L., Wang, J., <strong>Shi, C.</strong>, Wu, Z. and Song, R. (2023). <a href="https://arxiv.org/pdf/2301.13348.pdf">A Reinforcement Learning Framework for Dynamic Mediation Analysis</a>. <strong>Python module</strong> <a href="https://github.com/linlinlin97/MediationRL" style="font-family:courier;"><strong>MediationRL</strong></a><br/>2023 <strong>ICSA Student Paper Award</strong>
@@ -278,7 +278,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Yang, X., Zhu, J., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2023). <a href="https://arxiv.org/pdf/2212.14468.pdf">An Instrumental Variable Approach to Confounded Off-Policy Evaluation</a>. <strong>Python module</strong> <a href="https://github.com/YangXU63/IVMDP" style="font-family:courier;"><strong>IVMDP</strong></a>
@@ -287,7 +287,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Wang, J., <strong>Shi, C.</strong> and Wu, Z. (2023). <a href="https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf">A Robust Test for the Stationarity Assumption in Sequential Decision Making</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/Double_CUSUM_RL" style="font-family:courier;"><strong>Double-CUSUM-RL</strong></a>
@@ -323,7 +323,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-JMLR">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. <strong>R Package</strong> <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="font-family:courier;"><strong>JQL</strong></a>
@@ -368,7 +368,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. (long talk, top 2%). <strong>Python module</strong> <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" style="font-family:courier;"><strong>Confounded-POMDP-OPE</strong></a> <br/> <a href="https://icml.cc/virtual/2022/oral/16360"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
@@ -386,7 +386,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-JMLR">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Xu, T., Bergsma, W. and Li, L. (2021). <a href="https://jmlr.org/papers/volume22/21-0294/21-0294.pdf">Double Generative Adversarial Networks for Conditional Independence Testing</a>. <strong>Python module</strong> <a href="https://github.com/tianlinxu312/dgcit" style="font-family:courier;"><strong>dgcit</strong></a>
@@ -395,7 +395,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-JMLR">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Luo, S., Zhu, H. and Song, R. (2021). <a href="https://jmlr.org/papers/volume22/21-0383/21-0383.pdf">An Online Sequential Test for Qualitative Treatment Effects</a>.
@@ -422,7 +422,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a> (<strong>long talk</strong>, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
@@ -450,7 +450,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-JMLR">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="./paper/SASv2cs.pdf">Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes</a>. <strong>R and C sample code</strong> <a href="./code/subagging2.cpp"><font size="3">subagging2.cpp</font></a> <a href="./code/sb.r"><font size="3">sb.r</font></a>
@@ -459,7 +459,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
+    <span class="publication-logo-badge badge-ICML">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Wan, R., Song, R., Lu, W. and Leng, L. (2020). <a href="http://proceedings.mlr.press/v119/shi20c/shi20c.pdf">Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making</a>, <em>ICML</em>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/TestMDP"><span style="font-family:courier;"><strong>TestMDP</strong></span></a> <br/> <a href="./slides/slides.pdf"><font size="3">slides</font></a> <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
@@ -498,7 +498,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-JMLR">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W. and Song, R. (2019). <a href="http://www.jmlr.org/papers/v20/18-037.html">Determining the Number of Latent Factors in Multirelational Learning</a>.
