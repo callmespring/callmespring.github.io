@@ -107,7 +107,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-AOS">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025+). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
@@ -116,7 +116,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-AOS">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Luo, L*., <strong>Shi, C*.</strong>, Wang, J*, Wu, Z. and Li, L. (2024+). <a href="https://arxiv.org/pdf/2310.16203.pdf">Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/MedtimeRL" style="font-family:courier;"><strong>MedtimeRL</strong></a>
@@ -134,7 +134,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Bian, Z., <strong>Shi, C.</strong>, Qi, Z. and Wang, L. (2024+). <a href="https://arxiv.org/pdf/2306.08719.pdf">Off-policy Evaluation in Doubly Inhomogeneous Environments</a>. <strong>Python module</strong> <a href="https://github.com/ZeyuBian/2FEOPE" style="font-family:courier;"><strong>2FEOPE</strong></a>
@@ -161,7 +161,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C*.</strong>, Qi, Z*., Wang, J. and Zhou, F. (2024). <a href="https://arxiv.org/pdf/2301.02220.pdf">Value Enhancement of Reinforcement Learning via Efficient and Robust Trust Region Optimization</a>. <strong>Python module</strong> <a href="https://github.com/dc-wangjn/VEPO" style="font-family:courier;"><strong>VEPO</strong></a>
@@ -170,7 +170,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Zhou, Y. and Li, L. (2024). <a href="https://arxiv.org/pdf/2106.01474.pdf">Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/SUGAR" style="font-family:courier;"><strong>SUGAR</strong></a><br/> <a href="./slides/SUGAR.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>
@@ -179,7 +179,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Li, T*., <strong>Shi, C*.</strong>, Lu, Z., Li, Y. and Zhu, H. (2024). <a href="https://arxiv.org/abs/2305.10187">Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing</a>. <strong>Python module</strong> <a href="https://github.com/BIG-S2/CQSTVCM" style="font-family:courier;"><strong>CQSTVCM</strong></a>
@@ -188,7 +188,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.10589">Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/cope" style="font-family:courier;"><strong>COPE</strong></a>
@@ -197,7 +197,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.13163">Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons</a>. <strong>Python module</strong> <a href="https://github.com/leyuanheart/SEAL" style="font-family:courier;"><strong>SEAL</strong></a>
@@ -260,7 +260,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C*.</strong>, Wang, X*., Luo, S., Zhu, H., Ye, J. and Song, R. (2023). <a href="https://arxiv.org/pdf/2002.01711.pdf">Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/callmespring/CausalRL" style="font-family:courier;"><strong>CausalRL</strong></a><br/> <a href="./slides/CausalRL.pdf"><font size="3">slides</font></a> <a href="https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s"><font size="3">video</font></a> <font size="3">presented at Online Causal Inference Seminar</font>
@@ -350,7 +350,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a>.  <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
@@ -359,7 +359,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSS-B</span>
+    <span class="publication-logo-badge badge-JRSS">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Zhang, S., Song, R. and Lu, W. (2022). <a href="https://arxiv.org/pdf/2001.04515.pdf">Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings</a>. <strong>Python module</strong> <a href="https://github.com/shengzhang37/SAVE" style="font-family:courier;"><strong>SAVE</strong></a> <br/> <a href="./slides/VIslides.pdf"><font size="3">slides</font></a> <font size="3">presented at ICSA 2019</font>.
@@ -431,7 +431,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Lu, W. and Li. R. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154">Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation</a> (<strong>ROSE</strong>). 
@@ -441,7 +441,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-AOS">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R. and Lu, W. (2021). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.short">Concordance and Value Information Criteria for Optimal Treatment Decision</a> (<strong>CIVIC</strong>).
@@ -468,7 +468,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1604368">A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects</a>.
@@ -477,7 +477,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-AOS">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Chen, Z. and Li, R. (2019). <a href="https://projecteuclid.org/euclid.aos/1564797860">Linear Hypothesis Testing for High Dimensional Generalized Linear Models</a>. <br/>
@@ -488,7 +488,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-AOS">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W., and Song, R. (2019). <a href="https://projecteuclid.org/euclid.aos/1558425648">On Testing Conditional Qualitative Treatment Effects</a>. <br/>
@@ -507,7 +507,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
+    <span class="publication-logo-badge badge-JASA">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W., and Song, R. (2018). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1360779">A Massive Data Framework for M-estimators with Cubic-Rate</a>.
@@ -516,7 +516,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSS-B</span>
+    <span class="publication-logo-badge badge-JRSS">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Lu, W., and Fu, B. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12273">Maximin Projection Learning for Optimal Treatment Decision with Heterogeneous Individualized Treatment Effects</a>. 
@@ -526,7 +526,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
+    <span class="publication-logo-badge badge-AOS">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Fan, A., Song, R., and Lu, W. (2018). <a href="https://projecteuclid.org/euclid.aos/1525313071">High-Dimensional A-Learning for Optimal Dynamic Treatment Regimes</a>. 
@@ -536,7 +536,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSS-C</span>
+    <span class="publication-logo-badge badge-JRSS">JRSS-C</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R. and Lu, W. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12266">Discussion of “Optimal Treatment Allocations in Space and Time for On-Line Control of an Emerging Infectious Disease”</a>.
@@ -545,7 +545,7 @@ permalink: /test/
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSS-B</span>
+    <span class="publication-logo-badge badge-JRSS">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R. and Lu, W. (2017). <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228">Discussion of “Random Projection Ensemble Classification”</a>.
