@@ -55,7 +55,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Xu, E*., Ye, K*., Zhou, H*., Zhu, L., Quinzan, F. and <strong>Shi, C</strong>. (2025). <a href="https://arxiv.org/pdf/2506.01183">Doubly Robust Alignment for Large Language Models</a>. <strong>Python module</strong> <a href="https://github.com/DRPO4LLM/DRPO4LLM" style="font-family:courier;"><strong>DRPO4LLM</strong></a><br/> <a href="./slides/DRPO.pdf"><font size="3">slides</font></a> <a href="https://www.bilibili.com/video/BV1xNuuzVEeD?p=3"><font size="3">video</font></a> <font size="3">presented Tsinghua Statistics + AI Frontier Summit</font>
+    Xu, E*., Ye, K*., Zhou, H*., Zhu, L., Quinzan, F. and <strong>Shi, C</strong>. (2025). <a href="https://arxiv.org/pdf/2506.01183">Doubly Robust Alignment for Large Language Models</a>. <strong>Python module</strong> <a href="https://github.com/DRPO4LLM/DRPO4LLM" style="font-family:courier;"><strong>DRPO4LLM</strong></a><br/> <a href="./slides/DRPO.pdf"><font size="3">slides</font></a> <a href="https://www.bilibili.com/video/BV1xNuuzVEeD?p=3"><font size="3">video</font></a> <font size="3">presented at Tsinghua Statistics + AI Frontier Summit</font>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ Wang, J., Qi, Z. and **Shi, C.** [Blessing from Experts: Super Reinforcement Lea
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees. <strong>Python module</strong> <a href="https://github.com/Mamba413/AdaDetectGPT" style="font-family:courier;"><strong>AdaDetectGPT</strong></a>
+    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees. <strong>Python module</strong> <a href="https://github.com/Mamba413/AdaDetectGPT" style="font-family:courier;"><strong>AdaDetectGPT</strong></a> <a href="https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f"><font size="3">video</font></a> <font size="3">presented at 狗熊会</font>
   </div>
 </div>
 
