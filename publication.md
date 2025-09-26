@@ -53,7 +53,17 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wang, J., Qi, Z. and <strong>Shi, C.</strong> <a href="https://arxiv.org/pdf/2209.15448.pdf">Blessing from Experts: Super Reinforcement Learning in Confounded Environments</a>
+    Wang, W. and <strong>Shi, C.</strong> <2025+> From Authors to Reviewers: Leveraging Rankings to Improve Peer Review -- Discussion of ``Analysis of the ICML 2023 Ranking Data: Can Authors’ Opinions
+of Their Own Papers Assist Peer Review in Machine Learning?''
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Wang, J., Qi, Z. and <strong>Shi, C.</strong> (2025+) <a href="https://arxiv.org/pdf/2209.15448.pdf">Blessing from Experts: Super Reinforcement Learning in Confounded Environments</a>
   </div>
 </div>
 
