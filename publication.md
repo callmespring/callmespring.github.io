@@ -53,7 +53,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wang, W. and <strong>Shi, C.</strong> (2025+) From Authors to Reviewers: Leveraging Rankings to Improve Peer Review. <br/> <font size="3"><i>Discussion of "Analysis of the ICML 2023 Ranking Data: Can Authors’ Opinions of Their Own Papers Assist Peer Review in Machine Learning?"</i></font>
+    Wang, W. and <strong>Shi, C.</strong> (2025+) From Authors to Reviewers: Leveraging Rankings to Improve Peer Review. <br/> <i><font size="3">Discussion of "Analysis of the ICML 2023 Ranking Data: Can Authors’ Opinions of Their Own Papers Assist Peer Review in Machine Learning?"</font></i>
   </div>
 </div>
 
