@@ -80,7 +80,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees. <strong>Python module</strong> <a href="https://github.com/Mamba413/AdaDetectGPT" style="font-family:courier;"><strong>AdaDetectGPT</strong></a> <a href="https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f"><font size="3">video</font></a> <font size="3">presented at 狗熊会</font>
+    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees. <strong>Python module</strong> <a href="https://github.com/Mamba413/AdaDetectGPT" style="font-family:courier;"><strong>AdaDetectGPT</strong></a> <br/> <a href="https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f"><font size="3">video</font></a> <font size="3">presented at 狗熊会</font>
   </div>
 </div>
 
