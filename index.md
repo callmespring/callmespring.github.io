@@ -44,13 +44,14 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 ### Research
 
 My research is motivated from the following applications: 
-* **LLMs** (see our recent papers [DRPO](https://arxiv.org/pdf/2506.01183), [VRPO](https://arxiv.org/pdf/2504.03784),  [slides](https://callmespring.github.io/slides/DRPO.pdf), [talk](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3) on fine-tuning);
+* **LLMs**
+  - Fine-tuning: [DRPO](https://arxiv.org/pdf/2506.01183), [VRPO](https://arxiv.org/pdf/2504.03784),  [slides](https://callmespring.github.io/slides/DRPO.pdf), [talk](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3);
+  - Detection: [AdadetectGPT](https://arxiv.org/pdf/2510.01268), [talk](https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click);
 * **Ridesharing** (see our AAAI tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
 )) and my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f); see also some simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL)); 
-* **Video-sharing** (see our KDD [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809) for details about our proposal successfully deployed in a widely used mobile app with millions of daily active users)
+* **Video-sharing** (see our KDD [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809)  successfully deployed in a widely used mobile app with millions of daily active users)
 * **Mobile health** (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl));
-* **Neuroscience** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making)
-* **Precision medicine** (a simulated [STARD](https://cran.r-project.org/web/packages/ITRSelect/index.html) data example).
+* **Neuroscience** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making).
 
 Some of my recent **talks** and **slides** on statistical inference, RL, causal inference, data integration, time series and experimental design: 
 * **StatRL** [Bilibili](https://www.bilibili.com/video/BV1ZP4y1r7DC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f), [Youtube](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s); Chinese versions: [Bilibili](https://www.bilibili.com/video/BV1kP411f7dA/?spm_id_from=333.337.search-card.all.click), [Youtube](https://www.youtube.com/watch?v=7NWBLuok8nk&t=3048s); [slides](https://callmespring.github.io/slides/StatRL.pdf); the accompanying [paper](https://arxiv.org/abs/2502.16195) and its Chinese [version](https://mp.weixin.qq.com/s/_uPxaxhYuG0D4AiillMJug)
