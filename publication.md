@@ -53,7 +53,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAT</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Hu, L., Wang, J., Wu, Z. and <strong>Shi, C.</strong> (2025+) Generalized Fitted Q-Iteration with Clustered Data. 
+    Hu, L., Wang, J., Wu, Z. and <strong>Shi, C.</strong> (2025+) <a href="https://arxiv.org/abs/2510.03912">Generalized Fitted Q-Iteration with Clustered Data</a>. 
   </div>
 </div>
 
