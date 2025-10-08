@@ -27,7 +27,7 @@ I am looking for PhD students interested in LLMs, reinforcement learning (see my
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
-- **Sep--Oct 2025**: *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*. Four papers accepted to *TMLR*, *JASA* and *STAT*. Congratulations to all co-authors!
+- **Sep/Oct 2025**: *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*. Four papers accepted to *TMLR*, *JASA* and *STAT*. Congratulations to all co-authors!
 - **Sep 2025**: *Four* papers on LLM and RL accepted to *NeurIPS 2025*. Congratulations to all co-authors!
 - **August 2025**: Talk @ *BIRS* on **RL**. 
 - **August 2025**: Talk @ *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**. 
