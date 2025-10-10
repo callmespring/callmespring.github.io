@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Zhang, J., Wang, J., **Shi, C**., Piette, J., Zeng, D., Wu, Z. [PyCFRL: A Python library for counterfactually fair offline reinforcement learning via sequential data preprocessing](https://arxiv.org/abs/2510.06935)
+
 Wang, J., Wen, Q., Zhang, Y., Yan, X. and **Shi, C**. [A Two-armed Bandit Framework for A/B Testing](https://arxiv.org/abs/2507.18118). 
 
 Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) **Python module**  [<span style="font-family:courier;">**VRPO**</span>](https://github.com/VRPO/VRPO)
