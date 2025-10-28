@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* FAI-Seminar, Oct 2025 (invited), [Statistics-powered AI](./slides/statspoweredai.pdf)
+
 * Keynote Talk @ Workshop on Foundation Models and their Biomedical Applications, Banff, Canada, Aug 2025 (invited), [From Theory to Practice: Challenges in Real-World Reinforcement Learning](./slides/RLchallenge.pdf)
 
 * Joint Statistical Meeting, Nashville, USA, Aug 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
