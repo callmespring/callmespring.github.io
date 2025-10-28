@@ -5,7 +5,16 @@ title: Talk
 
 ### Talk
 
-* FAI-Seminar, Oct 2025 (invited), [Statistics-powered AI](./slides/statspoweredai.pdf)
+* Seminar Seminar at University of Hong Kong, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+
+* Seminar Seminar at Hong Kong Polytechnic University, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+
+
+* UCL JumpTrading/ELLIS CSML Seminar Series, London, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+
+* Seminar at University of Birmingham, Department of Mathematics, Birmingham, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+
+* FAI-Seminar, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
 * Keynote Talk @ Workshop on Foundation Models and their Biomedical Applications, Banff, Canada, Aug 2025 (invited), [From Theory to Practice: Challenges in Real-World Reinforcement Learning](./slides/RLchallenge.pdf)
 
