@@ -73,7 +73,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wang, J., Qi, Z. and <strong>Shi, C.</strong> (2025+) <a href="https://arxiv.org/pdf/2209.15448.pdf">Blessing from Experts: Super Reinforcement Learning in Confounded Environments</a>
+    Wang, J., Qi, Z. and <strong>Shi, C.</strong> (2025+) <a href="https://arxiv.org/pdf/2209.15448.pdf">Blessing from Human-AI Interaction: Super Policy Learning in Confounded Environments</a>
   </div>
 </div>
 
