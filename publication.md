@@ -109,7 +109,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Feng, J., Zhao, W., Wu, Z., <strong>Shi, C</strong>. and Yan, X. (2025). Beyond Average Value Function in Precision Medicine: Maximum Probability-Driven Reinforcement Learning for Survival Analysis.
+    Feng, J., <strong>Shi, C</strong>., Wu, Z., Yan, X. and Zhao, W. (2025). Beyond Average Value Function in Precision Medicine: Maximum Probability-Driven Reinforcement Learning for Survival Analysis.
   </div>
 </div>
 
@@ -118,7 +118,8 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">TMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Yang, X., <strong>Shi, C</strong>., Luo, S., Wang, L. and Song, R. (2025). <a href="https://arxiv.org/abs/2212.14466">Quantile Off-Policy Evaluation via Deep Conditional Generative Learning</a>. 2023 <strong>JSM Student Paper Award</strong>
+    Yang, X., <strong>Shi, C</strong>., Luo, S., Wang, L. and Song, R. (2025). <a href="https://openreview.net/pdf?id=F0BwbieVws">Doubly Robust Uncertainty Quantification for
+Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM Student Paper Award</strong>
   </div>
 </div>
 
