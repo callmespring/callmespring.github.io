@@ -9,6 +9,7 @@ title: Talk
 
 * Seminar Seminar at Hong Kong Polytechnic University, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
+* AI-Fun & ELLIS Invited Speaker Lecture, University of Manchester, Manchester, UK, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
 * UCL JumpTrading/ELLIS CSML Seminar Series, London, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
