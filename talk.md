@@ -5,9 +5,9 @@ title: Talk
 
 ### Talk
 
-* Seminar Seminar at University of Hong Kong, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* Seminar at University of Hong Kong, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
-* Seminar Seminar at Hong Kong Polytechnic University, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* Seminar at Hong Kong Polytechnic University, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
 * AI-Fun & ELLIS Invited Speaker Lecture, University of Manchester, Manchester, UK, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
 
