@@ -5,17 +5,19 @@ title: Talk
 
 ### Talk
 
-* Seminar at University of Hong Kong, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* Seminar at University of Hong Kong Business School, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
 
-* Seminar at Hong Kong Polytechnic University, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* Seminar at Department of Statistics and Actuarial Science, University of Hong Kong, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
 
-* AI-Fun & ELLIS Invited Speaker Lecture, University of Manchester, Manchester, UK, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* Seminar at Hong Kong Polytechnic University, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
 
-* UCL JumpTrading/ELLIS CSML Seminar Series, London, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* AI-Fun & ELLIS Invited Speaker Lecture, University of Manchester, Manchester, UK, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
+  
+* UCL JumpTrading/ELLIS CSML Seminar Series, London, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
 
-* Seminar at University of Birmingham, Department of Mathematics, Birmingham, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* Seminar at University of Birmingham, Department of Mathematics, Birmingham, UK, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
 
-* FAI-Seminar, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1BmFaR18ByJPmm_gGuGndbdSx5h4rY5VX/view?usp=drive_link)
+* FAI-Seminar, Oct 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1dTzYPTOpfOGf4NbyehXL53SYFoNRUGTk/view?usp=sharing)
 
 * Keynote Talk @ Workshop on Foundation Models and their Biomedical Applications, Banff, Canada, Aug 2025 (invited), [From Theory to Practice: Challenges in Real-World Reinforcement Learning](./slides/RLchallenge.pdf)
 
