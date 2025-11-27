@@ -54,7 +54,7 @@ My research is motivated from the following applications:
 * **Neuroscience** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making).
 
 Some of my recent **talks** and **slides** on AI, RL, statistical inference, causal inference and experimental design: 
-* **Stats-powered AI** [Bilibili](https://www.bilibili.com/video/BV1WTsPzhEME/?spm_id_from=333.1387.homepage.video_card.click);
+* **Stats-powered AI** [Youtube](https://www.youtube.com/watch?v=qwI4jBvrhw4), [Bilibili](https://www.bilibili.com/video/BV1WTsPzhEME/?spm_id_from=333.1387.homepage.video_card.click);
 * **StatRL** [Bilibili](https://www.bilibili.com/video/BV1ZP4y1r7DC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f), [Youtube](https://www.youtube.com/watch?v=-SW9PevZThs&t=982s); Chinese versions: [Bilibili](https://www.bilibili.com/video/BV1kP411f7dA/?spm_id_from=333.337.search-card.all.click), [Youtube](https://www.youtube.com/watch?v=7NWBLuok8nk&t=3048s); [slides](https://callmespring.github.io/slides/StatRL.pdf); the accompanying [paper](https://arxiv.org/abs/2502.16195) and its Chinese [version](https://mp.weixin.qq.com/s/_uPxaxhYuG0D4AiillMJug)
 * **CausalRL** [Youtube](https://www.youtube.com/watch?v=Zor1CmRyycw&t=397s), [slides](https://callmespring.github.io/slides/CausalRL.pdf); the accompanying [paper](https://arxiv.org/pdf/2002.01711)
 * **ARMAdesign** [2-hour slides](https://callmespring.github.io/slides/ABtesting.pdf), [1-hour slides](https://callmespring.github.io/slides/ARMAdesign.pdf), [30-minute slides](https://callmespring.github.io/slides/design30m.pdf); the accompanying [paper](https://arxiv.org/pdf/2408.05342v3)
