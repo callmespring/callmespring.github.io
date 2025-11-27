@@ -65,7 +65,7 @@ A summary of my past research: **Statistical Methods in Reinforcement Learning**
 <img src="map0.png" width="700">
 
 ### Editorial Service
-* Associate editor, [Statistical Learning and Data Science](http://www.slads-submit.com/) (from July 2025)
+* Associate editor, [Statistical Learning and Data Science](http://www.slads-submit.com/) (from Nov 2025)
 * Associate editor, [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (from Feb 2025)
 * Associate editor, [Journal of the American Statistical Association, A&CS](https://www.tandfonline.com/journals/uasa20) (from Sep 2024)
 * Associate editor, [Journal of the American Statistical Association, T&M](https://www.tandfonline.com/journals/uasa20) (Aug 2023 -- present)
