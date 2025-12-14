@@ -43,12 +43,19 @@ Yang, Y., **Shi, C.**, Yao, F., Wang, S. and Zhu, H. [Spatially Randomized Desig
 Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
 Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 
-Ma, T\*., Zhu, J\*., Cai, H., Qi, Z., Chen, Y., **Shi, C.** and Laber, E. [Sequential Knockoffs for Variable Selection in
-Reinforcement Learning](https://arxiv.org/pdf/2303.14281.pdf) (**SEEK**)
-
 Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf). **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
 ### Publications/accepted manuscripts
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">STAT</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Ma, T\*., Zhu, J\*., Cai, H., Qi, Z., Chen, Y., <strong>Shi, C.</strong> and Laber, E. (2025+) <a href="https://arxiv.org/pdf/2303.14281.pdf">Sequential Knockoffs for Variable Selection in
+Reinforcement Learning<strong>SEEK</strong></a>. 
+  </div>
+</div>
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
