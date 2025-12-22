@@ -5,6 +5,16 @@ title: Talk
 
 ### Talk
 
+* Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
+* Seminar at Beijing Technology and Business University, School of Mathematics and Statistics, Beijing, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
+* CMStatistics, London, UK, Dec. 2025 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
+* Seminar at Kunming University of Science and Technology, Department of Mathematics, Yunnan, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
+* Seminar at Yunnan University, School of Mathematics and Statistics, Yunnan, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
 * Seminar at University of Hong Kong Business School, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
 
 * Seminar at Department of Statistics and Actuarial Science, University of Hong Kong, HK, China, Nov 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
