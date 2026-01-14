@@ -5,6 +5,10 @@ title: Talk
 
 ### Talk
 
+* Seminar at School of Statistics, East China Normal University, Shanghai, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
+* Seminar at School of Statistics, Renmin University of China, Beijing, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
 * Seminar at University of Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
 
 * Seminar at Beijing Technology and Business University, School of Mathematics and Statistics, Beijing, China, Dec 2025 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
