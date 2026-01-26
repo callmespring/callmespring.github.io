@@ -53,6 +53,24 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICLR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+     Zhou, H*, Zhu, J*., Ye., K., Yang, Y., Xu, E. and <strong>Shi, C</strong>. (2026). Towards Prompt-Robust Machine-Generated Text Detection
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICLR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Wu, X*., Wen, Q*., Zhang, Y., Zhu, H., Li, T. and <strong>Shi, C</strong>. (2026). Designing Time Series Experiments in A/B Testing with Transformer Reinforcement Learning
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-psych">Brain</span>
   </div>
   <div class="pub-content" style="flex: 1;">
