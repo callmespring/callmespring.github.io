@@ -5,7 +5,11 @@ title: Grants and Awards
 
 ### Grants
 
-* EPSRC New Investigator Award EP/W014971/1, 2021. "Statistical Methods in Offline Reinforcement Learning". 
+* AIRR Gateway project (PI), 2026. "Lowering the Computational Barrier: Resource- and Energy-Efficient Reinforcement Learning for LLM Reasoning". 
+
+* PCORI Award (Co-I), 2025. "Developing Reinforcement Learning Methods for Building Reliable Interventional Digital Health Systems". 
+
+* EPSRC New Investigator Award (PI) EP/W014971/1, 2021. "Statistical Methods in Offline Reinforcement Learning". 
 
 * LSE New Research Support Fund (PI), 2021. "Sparse Reinforcement Learning for Optimal Decision Making In Mobile Health."
 
