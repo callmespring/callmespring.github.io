@@ -56,7 +56,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-     Zhou, H*, Zhu, J*., Ye., K., Yang, Y., Xu, E. and <strong>Shi, C</strong>. (2026). Towards Prompt-Robust Machine-Generated Text Detection
+     Zhou, H*, Zhu, J*., Ye., K., Yang, Y., Xu, E. and <strong>Shi, C</strong>. (2026). <a href="https://arxiv.org/abs/2601.21895">Learn-to-Distance: Distance Learning for Detecting LLM-Generated Text</a>
   </div>
 </div>
 
