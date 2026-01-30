@@ -74,7 +74,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-psych">Brain</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Lawrence, D., Avraham, G.,Yao J., Li, L., <strong>Shi, C.</strong>, Starr, P.A. and Little, S. (2025+) <a href="https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf466/8380666">Cortico-basal oscillations index naturalistic movements during deep brain stimulation</a>.
+    Lawrence, D., Avraham, G.,Yao J., Li, L., <strong>Shi, C.</strong>, Starr, P.A. and Little, S. (2025) <a href="https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf466/8380666">Cortico-basal oscillations index naturalistic movements during deep brain stimulation</a>.
   </div>
 </div>
 
