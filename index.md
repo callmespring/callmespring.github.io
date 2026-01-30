@@ -27,6 +27,9 @@ I am looking for students interested in LLMs, reinforcement learning (see my lec
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **Jan 2026**: Two papers on LLM and A/B testing accepted to *ICLR*. Talks on **Stats-powered AI** at Renmin University, ECNU and Sanya Workshop on Causality and ML. 
+- **Dec 2025**: One paper on RL accepted to *JASA*, the other to *Brain*. 
+- **Oct/Nov**: Talks on **Stats-powered AI** at UCL, University of Birmingham, Manchester, PolyU and Yunnan University. 
 - **Sep/Oct 2025**: *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*. Four papers accepted to *TMLR*, *JASA* and *STAT*. Congratulations to all co-authors!
 - **Sep 2025**: *Four* papers on LLM and RL accepted to *NeurIPS 2025*. Congratulations to all co-authors!
 - **August 2025**: Talk @ *BIRS* on **RL**. 
