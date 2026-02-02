@@ -45,17 +45,18 @@
 }
 
 .gh-module-badge {
-    color: #d73a49 !important;      /* Bold Red */
-    font-size: 20px !important;      /* Significantly larger */
-    font-weight: 900 !important;      /* Extra bold */
-    font-family: sans-serif !important; 
+    color: #d73a49 !important;      /* Keep the Bold Red */
+    font-size: 14px !important;      /* Reduced from 20px to match text height */
+    font-weight: 800 !important;      /* Strong bold, but not "blocky" */
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace !important; 
     text-transform: uppercase !important;
     display: inline-block !important;
+    letter-spacing: 0.2px !important;
 }
 
 .gh-icon {
     fill: #d73a49 !important;
-    width: 22px !important;         /* Scale icon with font */
-    height: 22px !important;
-    margin-right: 5px !important;
+    width: 15px !important;         /* Reduced from 22px */
+    height: 15px !important;
+    margin-right: 4px !important;
 }
