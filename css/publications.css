@@ -14,3 +14,24 @@
 .badge-ml { background: #0047AB; }      /* ML venues (deep blue) */
 .badge-stat { background: #8B0000; }   /* Statistical venues (dark red) */
 .badge-psych { background: #2E8B57; }  /* Psychological venues (sea green) */
+
+
+/* Custom styling for GitHub software links */
+.pub-software-link {
+  text-decoration: none !important;
+  color: #333 !important; /* Professional dark gray */
+  font-size: 0.95em;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 8px;
+  transition: all 0.2s ease-in-out;
+}
+
+.pub-software-link:hover {
+  color: #4078c0 !important; /* GitHub blue on hover */
+  transform: scale(1.05); /* Subtle pop effect */
+}
+
+.pub-software-link i {
+  margin-right: 4px;
+}
