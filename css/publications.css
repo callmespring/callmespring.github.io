@@ -45,19 +45,19 @@
 }
 
 .gh-module-badge {
-    color: #d73a49 !important;      /* Keep the Bold Red */
-    font-size: 18px !important;      /* The "Goldilocks" size (between 14 and 20) */
-    font-weight: 800 !important;      /* Very bold */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important; 
+    color: #d73a49 !important;      /* Keep that nice Red */
+    font-size: 20px !important;      /* Keep the large size you liked */
+    font-weight: 600 !important;      /* Semi-Bold: Clear but not "too thick" */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important; 
     text-transform: uppercase !important;
     display: inline-block !important;
-    letter-spacing: 0.3px !important;
+    letter-spacing: 0.5px !important; /* Adds a clean, professional look */
 }
 
 .gh-icon {
     fill: #d73a49 !important;
-    width: 18px !important;         /* Matches 17px font height perfectly */
-    height: 18px !important;
-    margin-right: 5px !important;
-    vertical-align: middle !important; /* Ensures icon doesn't "float" too high */
+    width: 20px !important;         /* Scaled to match the 20px text */
+    height: 20px !important;
+    margin-right: 6px !important;
+    vertical-align: middle !important; 
 }
