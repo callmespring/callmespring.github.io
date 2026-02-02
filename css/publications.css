@@ -36,28 +36,28 @@
   margin-right: 4px;
 }
 
-/* Force Software Badge Styles */
-.gh-module-link {
+/* THE ULTIMATE OVERRIDE */
+a.gh-module-link, a.gh-module-link span, a.gh-module-link svg {
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important;
-    margin-left: 10px !important;
 }
 
-.gh-module-badge {
-    color: #d73a49 !important;      /* Keep that nice Red */
-    font-size: 20px !important;      /* Keep the large size you liked */
-    font-weight: 600 !important;      /* Semi-Bold: Clear but not "too thick" */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important; 
+a.gh-module-link span.gh-module-badge {
+    color: #d73a49 !important;
+    font-size: 20px !important;
+    font-weight: 500 !important; /* Medium weight - clean and elegant */
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
     text-transform: uppercase !important;
-    display: inline-block !important;
-    letter-spacing: 0.5px !important; /* Adds a clean, professional look */
+    margin-left: 6px !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
 }
 
-.gh-icon {
+a.gh-module-link svg.gh-icon {
     fill: #d73a49 !important;
-    width: 20px !important;         /* Scaled to match the 20px text */
+    width: 20px !important;
     height: 20px !important;
-    margin-right: 6px !important;
-    vertical-align: middle !important; 
+    display: inline-block !important;
 }
