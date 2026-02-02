@@ -35,3 +35,27 @@
 .pub-software-link i {
   margin-right: 4px;
 }
+
+/* Force Software Badge Styles */
+.gh-module-link {
+    text-decoration: none !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    margin-left: 10px !important;
+}
+
+.gh-module-badge {
+    color: #d73a49 !important;      /* Bold Red */
+    font-size: 20px !important;      /* Significantly larger */
+    font-weight: 900 !important;      /* Extra bold */
+    font-family: sans-serif !important; 
+    text-transform: uppercase !important;
+    display: inline-block !important;
+}
+
+.gh-icon {
+    fill: #d73a49 !important;
+    width: 22px !important;         /* Scale icon with font */
+    height: 22px !important;
+    margin-right: 5px !important;
+}
