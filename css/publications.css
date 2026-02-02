@@ -36,28 +36,29 @@
   margin-right: 4px;
 }
 
-/* THE ULTIMATE OVERRIDE */
-a.gh-module-link, a.gh-module-link span, a.gh-module-link svg {
+
+/* GitHub Software Links */
+.gh-module-link {
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important;
+    margin-left: 10px !important;
 }
 
-a.gh-module-link span.gh-module-badge {
+.gh-module-badge {
     color: #d73a49 !important;
     font-size: 20px !important;
-    font-weight: 500 !important; /* Medium weight - clean and elegant */
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-weight: 500 !important; /* Medium weight: clearly visible but clean */
+    font-family: -apple-system, system-ui, sans-serif !important;
     text-transform: uppercase !important;
-    margin-left: 6px !important;
     background: transparent !important;
     border: none !important;
     padding: 0 !important;
 }
 
-a.gh-module-link svg.gh-icon {
+.gh-icon {
     fill: #d73a49 !important;
     width: 20px !important;
     height: 20px !important;
-    display: inline-block !important;
+    margin-right: 6px !important;
 }
