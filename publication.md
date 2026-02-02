@@ -13,28 +13,28 @@ title: Publication
   }
 
   .gh-module-link:hover {
-    opacity: 0.8;
-    transform: translateY(-1px);
+    opacity: 0.7;
+    transform: scale(1.05);
   }
 
   .gh-module-badge {
     font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-    font-size: 12px;
-    /* Changed weight to 900 for maximum boldness */
+    font-size: 13px;
+    /* Extra bold weight */
     font-weight: 900; 
-    color: #0366d6; 
-    background-color: #f1f8ff;
-    padding: 3px 10px; /* Slightly more padding for the heavier font */
-    border-radius: 6px;
-    border: 1.5px solid rgba(3, 102, 214, 0.4); /* Thicker border to match weight */
+    /* High-visibility Red */
+    color: #d73a49; 
     text-transform: uppercase;
-    /* Added letter-spacing to prevent the bold letters from looking crowded */
-    letter-spacing: 1px; 
+    letter-spacing: 0.5px;
+    background: none;
+    border: none;
+    padding: 0;
   }
 
   .gh-icon {
-    fill: #24292e;
-    margin-right: 5px;
+    /* Making the icon match the red text */
+    fill: #d73a49; 
+    margin-right: 4px;
   }
 </style>
 
