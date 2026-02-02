@@ -20,14 +20,16 @@ title: Publication
   .gh-module-badge {
     font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
     font-size: 12px;
-    font-weight: 700;
-    color: #0366d6; /* GitHub Blue */
+    /* Changed weight to 900 for maximum boldness */
+    font-weight: 900; 
+    color: #0366d6; 
     background-color: #f1f8ff;
-    padding: 2px 8px;
+    padding: 3px 10px; /* Slightly more padding for the heavier font */
     border-radius: 6px;
-    border: 1px solid rgba(3, 102, 214, 0.2);
+    border: 1.5px solid rgba(3, 102, 214, 0.4); /* Thicker border to match weight */
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    /* Added letter-spacing to prevent the bold letters from looking crowded */
+    letter-spacing: 1px; 
   }
 
   .gh-icon {
