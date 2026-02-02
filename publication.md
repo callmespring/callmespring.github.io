@@ -692,4 +692,22 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
   </div>
 </div>
 
-
+<style>
+  /* This targets the SEEK link specifically with a 20px size and medium weight */
+  a.gh-module-link .gh-module-badge {
+    color: #d73a49 !important;
+    font-size: 20px !important;
+    font-weight: 500 !important; /* This is 'Medium' - not too bold */
+    font-family: sans-serif !important;
+    text-transform: uppercase !important;
+    background: none !important;
+    border: none !important;
+  }
+  
+  /* This ensures the icon scales to 20px too */
+  a.gh-module-link .gh-icon {
+    fill: #d73a49 !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+</style>
