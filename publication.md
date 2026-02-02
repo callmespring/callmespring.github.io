@@ -2,9 +2,6 @@
 layout: default
 title: Publication
 ---
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-
 <style>
   .gh-module-link {
     text-decoration: none !important;
@@ -38,6 +35,8 @@ title: Publication
     margin-right: 5px;
   }
 </style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments. 
 
