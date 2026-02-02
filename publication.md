@@ -2,42 +2,6 @@
 layout: default
 title: Publication
 ---
-<style>
-  .gh-module-link {
-    text-decoration: none !important;
-    margin-left: 12px !important;
-    display: inline-flex !important;
-    align-items: center !important;
-    vertical-align: middle !important;
-  }
-
-  .gh-module-badge {
-    /* 1. FORCE THE COLOR TO RED */
-    color: #d73a49 !important; 
-    
-    /* 2. FORCE THE SIZE TO BE LARGE (16px matches paper titles) */
-    font-size: 16px !important; 
-    
-    /* 3. FORCE THE MAXIMUM BOLDNESS */
-    font-weight: 900 !important; 
-    
-    /* 4. CHOOSE A BOLD FONT FAMILY */
-    font-family: Arial, sans-serif !important; 
-    
-    text-transform: uppercase !important;
-    letter-spacing: 0.5px !important;
-    background: none !important;
-    border: none !important;
-  }
-
-  .gh-icon {
-    fill: #d73a49 !important; 
-    margin-right: 6px !important;
-    /* Enlarge icon to match larger text */
-    height: 18px !important;
-    width: 18px !important;
-  }
-</style>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
