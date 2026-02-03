@@ -13,33 +13,33 @@
 .badge-stat { background: #8B0000; }
 .badge-psych { background: #2E8B57; }
 
-.gh-module-badge {
-    font-size: 16px !important; 
-    font-weight: 600 !important;
-    font-family: -apple-system, system-ui, sans-serif !important;
-    text-transform: uppercase !important;
-    color: #d73a49 !important;
-    position: relative;
-    top: 1px; 
-}
-
-.gh-icon {
-    fill: #d73a49 !important;
-    width: 16px !important;
-    height: 16px !important;
-    margin-right: 4px !important;
-    
-    /* This will nudge ONLY the icon further down */
-    transform: translateY(2px); 
-    
-    display: inline-block;
-}
-
+/* GitHub Software Links Container */
 .gh-module-link {
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important; 
     margin-left: 10px !important;
-    /* This keeps the whole group (icon + text) at your preferred height */
+    /* Keeps the whole group at your preferred vertical position */
     transform: translateY(2px); 
+}
+
+.gh-module-badge {
+    color: #000 !important; /* Changed from red to black */
+    font-size: 16px !important; 
+    font-weight: 600 !important;
+    font-family: -apple-system, system-ui, sans-serif !important;
+    text-transform: uppercase !important;
+    position: relative;
+    top: 1px; /* Keeps SEEK at the perfect height you liked */
+}
+
+.gh-icon {
+    fill: #000 !important; /* Changed from red to black to match the text */
+    width: 16px !important;
+    height: 16px !important;
+    margin-right: 4px !important;
+    
+    /* Nudges the icon down to match the text baseline */
+    transform: translateY(2px); 
+    display: inline-block;
 }
