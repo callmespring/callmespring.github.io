@@ -11,7 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Zhou, H., Zhu, J., Yang, Y. and **Shi, C**. [Detecting LLM-Generated Text with Performance Guarantees](https://arxiv.org/pdf/2601.06586)
+Zhou, H\*., Zhu, J\*., Yang, Y. and **Shi, C**. [Detecting LLM-Generated Text with Performance Guarantees](https://arxiv.org/pdf/2601.06586)
 
 Liu, Z., Guo, X., Yang, Z., Lou, F., Zeng, L., Li, M., Qi, Q., Liu, Z., Han, Y., Cheng, D., Feng, X., Wang, H., **Shi, C**. and Zhang, L. [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2503.16252)
 
