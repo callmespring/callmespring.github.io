@@ -74,21 +74,22 @@
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important; 
-    margin-left: 10px !important;
+    margin-left: 8px !important;
     vertical-align: middle;
 }
 
 .cran-module-badge {
     color: #276DC2 !important; 
-    font-size: 16px !important; 
-    font-weight: 600 !important;
-    font-family: -apple-system, system-ui, sans-serif !important;
+    font-size: 15px !important; /* Matches your GH badge size */
+    font-weight: 700 !important;
+    font-family: "Courier New", Courier, monospace !important; /* Matches your JQL style */
+    margin-left: 4px;
 }
 
 .cran-icon {
-    width: 22px !important; /* Slightly larger for the halo */
-    height: 18px !important;
-    margin-right: 5px !important;
+    width: 22px !important;
+    height: 17px !important;
     display: inline-block;
     vertical-align: middle;
+    margin-top: -2px; /* Fine-tuned alignment */
 }
