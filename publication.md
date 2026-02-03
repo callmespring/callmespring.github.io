@@ -15,8 +15,11 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
   <div class="pub-content" style="flex: 1;">
     Zhou, H*., Zhu, J*., Yang, Y. and <strong>Shi, C</strong>. <a href="https://arxiv.org/pdf/2601.06586">Detecting LLM-Generated Text with Performance Guarantees</a>.
     <a href="https://huggingface.co/spaces/stats-powered-ai/StatDetectLLM" class="hf-module-link">
-      <svg class="hf-icon" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-        <path d="M16 4C9.37 4 4 9.37 4 16c0 1.95.47 3.79 1.3 5.42-.09.34-.14.7-.14 1.08 0 2.48 2.02 4.5 4.5 4.5.38 0 .74-.05 1.08-.14C12.21 27.53 14.05 28 16 28s3.79-.47 5.42-1.3c.34.09.7.14 1.08.14 2.48 0 4.5-2.02 4.5-4.5 0-.38-.05-.74-.14-1.08C27.53 19.79 28 17.95 28 16c0-6.63-5.37-12-12-12zm-4.5 10a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm9 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm-4.5 8c-2.5 0-4.5-1.5-4.5-1.5s.5-1 1-1 3.5 1.5 3.5 1.5 2.5-1.5 3-1.5 1 1 1 1-2 1.5-4.5 1.5z"/>
+      <svg class="hf-icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16 28C22.6274 28 28 22.6274 28 16C28 9.37258 22.6274 4 16 4C9.37258 4 4 9.37258 4 16C4 22.6274 9.37258 28 16 28Z" fill="#FFD21E"/>
+        <circle cx="11.5" cy="15.5" r="1.5" fill="black"/>
+        <circle cx="20.5" cy="15.5" r="1.5" fill="black"/>
+        <path d="M11 20C11 20 12.5 22 16 22C19.5 22 21 20 21 20" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
       </svg>
       <span class="hf-module-badge">StatDetectLLM</span>
     </a>
