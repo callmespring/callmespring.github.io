@@ -19,7 +19,7 @@ Zhang, J., Wang, J., **Shi, C**., Piette, J., Zeng, D., Wu, Z. [PyCFRL: A Python
 
 Wang, J., Wen, Q., Zhang, Y., Yan, X. and **Shi, C**. [A Two-armed Bandit Framework for A/B Testing](https://arxiv.org/abs/2507.18118). 
 
-Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) **Python module**  [<span style="font-family:courier;">**VRPO**</span>](https://github.com/VRPO/VRPO)
+Ye, K\*., Zhou, H\*., Zhu, J\*., Quinzan, F. and **Shi, C**. [Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/pdf/2504.03784) <a href="https://github.com/VRPO/VRPO" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">VRPO</span></a>
 
 Zhu, J., Zhou, X., Yao, J., Aminian, G., Rivasplata, O., Little, S., Li, L. and **Shi, C**. [Semi-pessimistic Reinforcement Learning](https://arxiv.org/pdf/2505.19002).
 
@@ -33,10 +33,10 @@ Wang, J., **Shi, C**., Piette, J., Loftus, J., Zeng, D. and Wu, Z. [Counterfactu
 Liu, P., **Shi, C**. and Sun, W. [Dual Active Learning for Reinforcement Learning from
 Human Feedback](https://arxiv.org/pdf/2410.02504)
 
-Sun, K., Kong, L., Zhu, H. and **Shi, C**. [ARMA-Design: Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments](https://arxiv.org/pdf/2408.05342) **Python module** [<span style="font-family:courier;">**ARMAdesign**</span>](https://github.com/datake/ARMADesign) <br/> [<font size="3">slides</font>](./slides/design1h.pdf)
+Sun, K., Kong, L., Zhu, H. and **Shi, C**. [ARMA-Design: Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments](https://arxiv.org/pdf/2408.05342) <a href="https://github.com/datake/ARMADesign" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">ARMAdesign</span></a> <br/> [<font size="3">slides</font>](./slides/design1h.pdf)
 
 Hao, M\*., Su, P\*., Hu, L., Szabó, Z., Zhao, Q. and **Shi, C**. [Off-policy Evaluation with Deeply-abstracted States
-](https://arxiv.org/pdf/2406.19531). **Python module** [<span style="font-family:courier;">**state-abstraction**</span>](https://github.com/pufffs/state-abstraction)
+](https://arxiv.org/pdf/2406.19531). <a href="https://github.com/pufffs/state-abstraction" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">state-abstraction</span></a>
 
 Dai, R\*., Wang, J\*., Zhou, F\*., Luo, S., Qin, Q., **Shi, C**., and Zhu, H. [Causal Deepsets for Off-policy Evaluation under Spatial or
 Spatio-temporal Interferences](https://arxiv.org/pdf/2407.17910)
@@ -47,7 +47,7 @@ Yang, Y., **Shi, C.**, Yao, F., Wang, S. and Zhu, H. [Spatially Randomized Desig
 Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
 Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 
-Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf). **Python module** [<span style="font-family:courier;">**DIRL**</span>](https://github.com/zaza0209/DIRL) <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
+Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous Reinforcement Learning](https://arxiv.org/pdf/2211.03983.pdf). <a href="https://github.com/zaza0209/DIRL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">DIRL</span></a> <br/> [<font size="3">slides</font>](./slides/DIRL.pdf) <font size="3">presented at CMStatistics 2022</font>.
 
 ### Publications/accepted manuscripts
 
@@ -56,7 +56,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-     Zhou, H*, Zhu, J*., Ye., K., Yang, Y., Xu, E. and <strong>Shi, C</strong>. (2026). <a href="https://arxiv.org/abs/2601.21895">Learn-to-Distance: Distance Learning for Detecting LLM-Generated Text</a>
+      Zhou, H*, Zhu, J*., Ye., K., Yang, Y., Xu, E. and <strong>Shi, C</strong>. (2026). <a href="https://arxiv.org/abs/2601.21895">Learn-to-Distance: Distance Learning for Detecting LLM-Generated Text</a>
   </div>
 </div>
 
@@ -83,11 +83,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Ma, T*., Zhu, J*., Cai, H., Qi, Z., Chen, Y., <strong>Shi, C.</strong> and Laber, E. (2025+) <a href="https://arxiv.org/pdf/2303.14281.pdf">Sequential Knockoffs for Variable Selection in
-Reinforcement Learning</a> <a href="https://github.com/Mamba413/seek" class="gh-module-link">
-  <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-  <span class="gh-module-badge">SEEK</span>
-</a>
+    Ma, T*., Zhu, J*., Cai, H., Qi, Z., Chen, Y., <strong>Shi, C.</strong> and Laber, E. (2025+) <a href="https://arxiv.org/pdf/2303.14281.pdf">Sequential Knockoffs for Variable Selection in Reinforcement Learning</a> <a href="https://github.com/Mamba413/seek" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">SEEK</span></a>
   </div>
 </div>
 
@@ -105,15 +101,6 @@ Reinforcement Learning</a> <a href="https://github.com/Mamba413/seek" class="gh-
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wang, W. and <strong>Shi, C.</strong> (2025+) <a href="https://arxiv.org/pdf/2510.21726v1">From Authors to Reviewers: Leveraging Rankings to Improve Peer Review</a> <br/> <i><font size="3">Discussion of "Analysis of the ICML 2023 Ranking Data: Can Authors’ Opinions of Their Own Papers Assist Peer Review in Machine Learning?"</font></i>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
     Wang, J., Qi, Z. and <strong>Shi, C.</strong> (2025+) <a href="https://arxiv.org/pdf/2209.15448.pdf">Blessing from Human-AI Interaction: Super Policy Learning in Confounded Environments</a>
   </div>
 </div>
@@ -123,7 +110,7 @@ Reinforcement Learning</a> <a href="https://github.com/Mamba413/seek" class="gh-
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Xu, E*., Ye, K*., Zhou, H*., Zhu, L., Quinzan, F. and <strong>Shi, C</strong>. (2025). <a href="https://arxiv.org/pdf/2506.01183">Doubly Robust Alignment for Large Language Models</a>. <strong>Python module</strong> <a href="https://github.com/DRPO4LLM/DRPO4LLM" style="font-family:courier;"><strong>DRPO4LLM</strong></a><br/> <a href="./slides/DRPO.pdf"><font size="3">slides</font></a> <a href="https://www.bilibili.com/video/BV1xNuuzVEeD?p=3"><font size="3">video</font></a> <font size="3">presented at Tsinghua Statistics + AI Frontier Summit</font>
+    Xu, E*., Ye, K*., Zhou, H*., Zhu, L., Quinzan, F. and <strong>Shi, C</strong>. (2025). <a href="https://arxiv.org/pdf/2506.01183">Doubly Robust Alignment for Large Language Models</a> <a href="https://github.com/DRPO4LLM/DRPO4LLM" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">DRPO4LLM</span></a><br/> <a href="./slides/DRPO.pdf"><font size="3">slides</font></a> <a href="https://www.bilibili.com/video/BV1xNuuzVEeD?p=3"><font size="3">video</font></a> <font size="3">presented at Tsinghua Statistics + AI Frontier Summit</font>
   </div>
 </div>
 
@@ -132,35 +119,7 @@ Reinforcement Learning</a> <a href="https://github.com/Mamba413/seek" class="gh-
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). <a href="https://arxiv.org/pdf/2510.01268">AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/AdaDetectGPT" style="font-family:courier;"><strong>AdaDetectGPT</strong></a> <br/> <a href="https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f"><font size="3">video</font></a> <font size="3">presented at 狗熊会</font>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">NeurIPS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Wu, X*., Li, T*., Aminian, G., Behnamnia, A., Rabiee, H. and <strong>Shi, C</strong>. (2025). <a href="https://eprints.lse.ac.uk/130005/1/PessimisticOPE.pdf">Pessimistic Data Integration for Policy Evaluation</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">NeurIPS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Feng, J., <strong>Shi, C</strong>., Wu, Z., Yan, X. and Zhao, W. (2025). <a href="https://openreview.net/pdf/8de4b2dc2957f4d546436ad58dcc98ad899f9ede.pdf">Beyond Average Value Function in Precision Medicine: Maximum Probability-Driven Reinforcement Learning for Survival Analysis</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">TMLR</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Yang, X., <strong>Shi, C</strong>., Luo, S., Wang, L. and Song, R. (2025). <a href="https://openreview.net/pdf?id=F0BwbieVws">Doubly Robust Uncertainty Quantification for
-Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM Student Paper Award</strong>
+    Zhou, H*., Zhu, J*., Su, P., Ye, K., Yang, Y., Gavioli-Akilagun SA. and <strong>Shi, C</strong>. (2025). <a href="https://arxiv.org/pdf/2510.01268">AdaDetectGPT: Adaptive Detection of LLM-Generated Text with Statistical Guarantees</a> <a href="https://github.com/Mamba413/AdaDetectGPT" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">AdaDetectGPT</span></a> <br/> <a href="https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f"><font size="3">video</font></a> <font size="3">presented at 狗熊会</font>
   </div>
 </div>
 
@@ -169,7 +128,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhu, J*., Li, J*., Zhou, H., Lin, Y., Lin, Z., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.20130">Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/CausalGraphCut" style="font-family:courier;"><strong>CausalGraphCut</strong></a>
+    Zhu, J*., Li, J*., Zhou, H., Lin, Y., Lin, Z., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.20130">Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach</a> <a href="https://github.com/Mamba413/CausalGraphCut" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">CausalGraphCut</span></a>
   </div>
 </div>
 
@@ -178,43 +137,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wen, Q*., <strong>Shi, C*.</strong>, Yang, Y., Tang, N., Zhu, H. (2025). <a href="https://arxiv.org/pdf/2403.17285v1">Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments</a>. <strong>Python module</strong> <a href="https://github.com/QianglinSIMON/SwitchMDP" style="font-family:courier;"><strong>SwitchMDP</strong></a>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Zhou, H., Hanna, J., Zhu, J., Yang, Y., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.22492">Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation</a>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">ICML</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Behnamnia, A., Aminian, G., Aghaei, A., <strong>Shi, C.</strong>, Tan, V.Y., Rabiee, H. (2025). <a href="https://www.arxiv.org/pdf/2506.06873">Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning</a> (<strong>spotlight</strong>, top 2.6% of submissions).
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">HDSR</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    StatsUpAI Interest Group (2025). <a href="https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2">Statistics and AI: A Fireside Conversation</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">Stat Sci</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Uehara, M., <strong>Shi, C.</strong> and Kallus, N. (2025+). <a href="https://arxiv.org/pdf/2212.06355.pdf">A Review of Off-Policy Evaluation in Reinforcement Learning</a>.
+    Wen, Q*., <strong>Shi, C*.</strong>, Yang, Y., Tang, N., Zhu, H. (2025). <a href="https://arxiv.org/pdf/2403.17285v1">Unraveling the Interplay between Carryover Effects and Reward Autocorrelations in Switchback Experiments</a> <a href="https://github.com/QianglinSIMON/SwitchMDP" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">SwitchMDP</span></a>
   </div>
 </div>
 
@@ -223,7 +146,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/limengbinggz/CUSUM-RL" style="font-family:courier;"><strong>CUSUM-RL</strong></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
+    Li, M., <strong>Shi, C.</strong>, Wu, Z. and Fryzlewicz, P. (2025). <a href="https://arxiv.org/pdf/2203.01707.pdf">Testing Stationarity and Change Point Detection in Reinforcement Learning</a> <a href="https://github.com/limengbinggz/CUSUM-RL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">CUSUM-RL</span></a><br/> <a href="./slides/CUSUMRL.pdf"><font size="3">slides</font></a> <a href="https://www.dropbox.com/s/56nstisjitkxvjd/video.mp4?dl=0"><font size="3">video</font></a> <font size="3">presented at JSM 2022</font>.
   </div>
 </div>
 
@@ -232,7 +155,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Luo, L*., <strong>Shi, C*.</strong>, Wang, J*, Wu, Z. and Li, L. (2025). <a href="https://arxiv.org/pdf/2310.16203.pdf">Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/MedtimeRL" style="font-family:courier;"><strong>MedtimeRL</strong></a>
+    Luo, L*., <strong>Shi, C*.</strong>, Wang, J*, Wu, Z. and Li, L. (2025). <a href="https://arxiv.org/pdf/2310.16203.pdf">Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework</a> <a href="https://github.com/jtwang95/MedtimeRL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">MedtimeRL</span></a>
   </div>
 </div>
 
@@ -241,7 +164,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Bian, Z., <strong>Shi, C.</strong>, Qi, Z. and Wang, L. (2025). <a href="https://arxiv.org/pdf/2306.08719.pdf">Off-policy Evaluation in Doubly Inhomogeneous Environments</a>. <strong>Python module</strong> <a href="https://github.com/ZeyuBian/2FEOPE" style="font-family:courier;"><strong>2FEOPE</strong></a>
+    Bian, Z., <strong>Shi, C.</strong>, Qi, Z. and Wang, L. (2025). <a href="https://arxiv.org/pdf/2306.08719.pdf">Off-policy Evaluation in Doubly Inhomogeneous Environments</a> <a href="https://github.com/ZeyuBian/2FEOPE" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">2FEOPE</span></a>
   </div>
 </div>
 
@@ -250,7 +173,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and <strong>Shi, C.</strong> (2024). <a href="https://openreview.net/pdf?id=Lu9Rasfmjj">Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning</a>. <strong>Python module</strong> <a href="https://github.com/fsmiu/Two-way-Deconfounder" style="font-family:courier;"><strong>Two-way-deconfounder</strong></a>
+    Yu, S., Fang, S., Peng, R., Qi, Z., Zhou, F. and <strong>Shi, C.</strong> (2024). <a href="https://openreview.net/pdf?id=Lu9Rasfmjj">Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning</a> <a href="https://github.com/fsmiu/Two-way-Deconfounder" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">Two-way-deconfounder</span></a>
   </div>
 </div>
 
@@ -259,7 +182,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, T*., <strong>Shi, C*.</strong>, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2406.00317">Combining Experimental and Historical Data for Policy Evaluation</a>. <strong>Python module</strong> <a href="https://github.com/tingstat/Data_Combination" style="font-family:courier;"><strong>Data_Combination</strong></a>
+    Li, T*., <strong>Shi, C*.</strong>, Wen, Q., Sui, Y., Qin, Y., Lai, C. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2406.00317">Combining Experimental and Historical Data for Policy Evaluation</a> <a href="https://github.com/tingstat/Data_Combination" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">Data_Combination</span></a>
   </div>
 </div>
 
@@ -268,7 +191,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-psych">J Math Psychol</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2024). <a href="https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf">Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making</a>, Journal of Mathematical Psychology, <strong>119</strong>, 102842. <strong>Python module</strong> <a href="https://github.com/jl3676/dynamic_noise_estimation" style="font-family:courier;"><strong>dynamic_noise_estimation</strong></a>
+    Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2024). <a href="https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf">Dynamic noise estimation: A generalized method for modeling noise fluctuations in decision-making</a>, Journal of Mathematical Psychology, <strong>119</strong>, 102842 <a href="https://github.com/jl3676/dynamic_noise_estimation" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">dynamic_noise_estimation</span></a>
   </div>
 </div>
 
@@ -277,7 +200,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Qi, Z*., Wang, J. and Zhou, F. (2024). <a href="https://arxiv.org/pdf/2301.02220.pdf">Value Enhancement of Reinforcement Learning via Efficient and Robust Trust Region Optimization</a>. <strong>Python module</strong> <a href="https://github.com/dc-wangjn/VEPO" style="font-family:courier;"><strong>VEPO</strong></a>
+    <strong>Shi, C*.</strong>, Qi, Z*., Wang, J. and Zhou, F. (2024). <a href="https://arxiv.org/pdf/2301.02220.pdf">Value Enhancement of Reinforcement Learning via Efficient and Robust Trust Region Optimization</a> <a href="https://github.com/dc-wangjn/VEPO" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">VEPO</span></a>
   </div>
 </div>
 
@@ -286,7 +209,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Zhou, Y. and Li, L. (2024). <a href="https://arxiv.org/pdf/2106.01474.pdf">Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/SUGAR" style="font-family:courier;"><strong>SUGAR</strong></a><br/> <a href="./slides/SUGAR.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>
+    <strong>Shi, C.</strong>, Zhou, Y. and Li, L. (2024). <a href="https://arxiv.org/pdf/2106.01474.pdf">Testing Directed Acyclic Graph via Structural, Supervised and Generative Adversarial Learning</a> <a href="https://github.com/yunzhe-zhou/SUGAR" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">SUGAR</span></a><br/> <a href="./slides/SUGAR.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>
   </div>
 </div>
 
@@ -295,7 +218,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, T*., <strong>Shi, C*.</strong>, Lu, Z., Li, Y. and Zhu, H. (2024). <a href="https://arxiv.org/abs/2305.10187">Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing</a>. <strong>Python module</strong> <a href="https://github.com/BIG-S2/CQSTVCM" style="font-family:courier;"><strong>CQSTVCM</strong></a>
+    Li, T*., <strong>Shi, C*.</strong>, Lu, Z., Li, Y. and Zhu, H. (2024). <a href="https://arxiv.org/abs/2305.10187">Evaluating Dynamic Conditional Quantile Treatment Effects with Applications in Ridesharing</a> <a href="https://github.com/BIG-S2/CQSTVCM" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">CQSTVCM</span></a>
   </div>
 </div>
 
@@ -304,7 +227,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.10589">Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/cope" style="font-family:courier;"><strong>COPE</strong></a>
+    <strong>Shi, C.</strong>, Zhu, J., Shen, Y., Luo, S., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.10589">Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process</a> <a href="https://github.com/Mamba413/cope" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">COPE</span></a>
   </div>
 </div>
 
@@ -313,7 +236,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.13163">Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons</a>. <strong>Python module</strong> <a href="https://github.com/leyuanheart/SEAL" style="font-family:courier;"><strong>SEAL</strong></a>
+    <strong>Shi, C.</strong>, Luo, S., Le, Y., Zhu, H. and Song, R. (2024). <a href="https://arxiv.org/abs/2202.13163">Statistically Efficient Advantage Learning for Offline Reinforcement Learning in Infinite Horizons</a> <a href="https://github.com/leyuanheart/SEAL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">SEAL</span></a>
   </div>
 </div>
 
@@ -322,7 +245,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Luo, S*., Yang, Y*., <strong>Shi, C*.</strong>, Yao, F., Ye, J. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2202.10887.pdf">Policy Evaluation for Temporal and/or Spatial Dependent Experiments</a>. <strong>Python module</strong> <a href="https://github.com/anneyang0060/STVCM" style="font-family:courier;"><strong>STVCM</strong></a>
+    Luo, S*., Yang, Y*., <strong>Shi, C*.</strong>, Yao, F., Ye, J. and Zhu, H. (2024). <a href="https://arxiv.org/pdf/2202.10887.pdf">Policy Evaluation for Temporal and/or Spatial Dependent Experiments</a> <a href="https://github.com/anneyang0060/STVCM" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">STVCM</span></a>
   </div>
 </div>
 
@@ -331,7 +254,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhu, J*., Wan, R*., Qi, Z., Luo, S. and <strong>Shi, C</strong>. (2024). <a href="https://arxiv.org/pdf/2310.18715.pdf">Robust Offline Reinforcement Learning with Heavy-Tailed Rewards</a>. <strong>Python module</strong> <a href="https://github.com/Mamba413/ROOM" style="font-family:courier;"><strong>ROOM</strong></a>
+    Zhu, J*., Wan, R*., Qi, Z., Luo, S. and <strong>Shi, C</strong>. (2024). <a href="https://arxiv.org/pdf/2310.18715.pdf">Robust Offline Reinforcement Learning with Heavy-Tailed Rewards</a> <a href="https://github.com/Mamba413/ROOM" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">ROOM</span></a>
   </div>
 </div>
 
@@ -340,16 +263,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., <strong>Shi, C.</strong> and Sun, W. (2023) <a href="https://arxiv.org/pdf/2207.13081.pdf">Future-Dependent Value-Based Off-Policy Evaluation in POMDPs</a> (<strong>spotlight</strong>)
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">NeurIPS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Li, T*., <strong>Shi, C*.</strong>, Wang, J., Zhou, F. and Zhu, H. (2023). <a href="https://openreview.net/pdf?id=EcReRm7q9p">Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making</a>. <strong>Python module</strong> <a href="https://github.com/tingstat/MDP_design" style="font-family:courier;"><strong>MDPdesign</strong></a>
+    Li, T*., <strong>Shi, C*.</strong>, Wang, J., Zhou, F. and Zhu, H. (2023). <a href="https://openreview.net/pdf?id=EcReRm7q9p">Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making</a> <a href="https://github.com/tingstat/MDP_design" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">MDPdesign</span></a>
   </div>
 </div>
 
@@ -358,7 +272,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhou, Y., <strong>Shi, C.</strong>, Li, L. and Yao, Q. (2023). <a href="https://arxiv.org/abs/2305.19244">Testing for the Markov Property in Time Series via Deep Conditional Generative Learning</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/markov_test" style="font-family:courier;"><strong>markov_test</strong></a>
+    Zhou, Y. and <strong>Shi, C.</strong> (2023). <a href="https://arxiv.org/abs/2305.19244">Testing for the Markov Property in Time Series via Deep Conditional Generative Learning</a> <a href="https://github.com/yunzhe-zhou/markov_test" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">markov_test</span></a>
   </div>
 </div>
 
@@ -367,7 +281,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). <a href="https://arxiv.org/abs/2202.10574">A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets</a>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/CausalMARL" style="font-family:courier;"><strong>CausalMARL</strong></a>
+    <strong>Shi, C.</strong>, Wan, R., Song, G., Luo, S., Zhu, H. and Song, R. (2023). <a href="https://arxiv.org/abs/2202.10574">A Multi-Agent Reinforcement Learning Framework for Off-Policy Evaluation in Two-sided Markets</a> <a href="https://github.com/RunzheStat/CausalMARL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">CausalMARL</span></a>
   </div>
 </div>
 
@@ -376,16 +290,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Wang, X*., Luo, S., Zhu, H., Ye, J. and Song, R. (2023). <a href="https://arxiv.org/pdf/2002.01711.pdf">Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework</a>. <strong>Python module</strong> <a href="https://github.com/callmespring/CausalRL" style="font-family:courier;"><strong>CausalRL</strong></a><br/> <a href="./slides/CausalRL.pdf"><font size="3">slides</font></a> <a href="https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s"><font size="3">video</font></a> <font size="3">presented at Online Causal Inference Seminar</font>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">KDD</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Wu, G., Song, G., Lv, X., Luo, S., <strong>Shi, C.</strong> and Zhu, H. (2023). <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599809">DNet: Distributional Network for Distributional Individualized Treatment Effects</a>.
+    <strong>Shi, C*.</strong>, Wang, X*., Luo, S., Zhu, H., Ye, J. and Song, R. (2023). <a href="https://arxiv.org/pdf/2002.01711.pdf">Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework</a> <a href="https://github.com/callmespring/CausalRL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">CausalRL</span></a><br/> <a href="./slides/CausalRL.pdf"><font size="3">slides</font></a> <a href="https://www.youtube.com/watch?v=Zor1CmRyycw&t=2470s"><font size="3">video</font></a> <font size="3">presented at Online Causal Inference Seminar</font>
   </div>
 </div>
 
@@ -394,7 +299,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Ge, L., Wang, J., <strong>Shi, C.</strong>, Wu, Z. and Song, R. (2023). <a href="https://arxiv.org/pdf/2301.13348.pdf">A Reinforcement Learning Framework for Dynamic Mediation Analysis</a>. <strong>Python module</strong> <a href="https://github.com/linlinlin97/MediationRL" style="font-family:courier;"><strong>MediationRL</strong></a><br/>2023 <strong>ICSA Student Paper Award</strong>
+    Ge, L., Wang, J., <strong>Shi, C.</strong>, Wu, Z. and Song, R. (2023). <a href="https://arxiv.org/pdf/2301.13348.pdf">A Reinforcement Learning Framework for Dynamic Mediation Analysis</a> <a href="https://github.com/linlinlin97/MediationRL" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">MediationRL</span></a><br/>2023 <strong>ICSA Student Paper Award</strong>
   </div>
 </div>
 
@@ -403,7 +308,7 @@ Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM S
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Yang, X., Zhu, J., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2023). <a href="https://arxiv.org/pdf/2212.14468.pdf">An Instrumental Variable Approach to Confounded Off-Policy Evaluation</a>. <strong>Python module</strong> <a href="https://github.com/YangXU63/IVMDP" style="font-family:courier;"><strong>IVMDP</strong></a>
+    Yang, X., Zhu, J., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2023). <a href="https://arxiv.org/pdf/2212.14468.pdf">An Instrumental Variable Approach to Confounded Off-Policy Evaluation</a> <a href="https://github.com/YangXU63/IVMDP" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">IVMDP</span></a>
   </div>
 </div>
 
