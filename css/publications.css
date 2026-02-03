@@ -1,6 +1,5 @@
-/* Shared badge style stays the same */
 .publication-logo-badge {
-    color: #fff; /* white text */
+    color: #fff;
     padding: 6px 10px;
     border-radius: 6px;
     font-weight: 700;
@@ -10,34 +9,10 @@
     display: inline-block;
 }
 
-/* Category-based background colors (swapped) */
-.badge-ml { background: #0047AB; }      /* ML venues (deep blue) */
-.badge-stat { background: #8B0000; }   /* Statistical venues (dark red) */
-.badge-psych { background: #2E8B57; }  /* Psychological venues (sea green) */
+.badge-ml { background: #0047AB; }
+.badge-stat { background: #8B0000; }
+.badge-psych { background: #2E8B57; }
 
-
-/* Custom styling for GitHub software links */
-.pub-software-link {
-  text-decoration: none !important;
-  color: #333 !important; /* Professional dark gray */
-  font-size: 0.95em;
-  display: inline-flex;
-  align-items: center;
-  margin-left: 8px;
-  transition: all 0.2s ease-in-out;
-}
-
-.pub-software-link:hover {
-  color: #4078c0 !important; /* GitHub blue on hover */
-  transform: scale(1.05); /* Subtle pop effect */
-}
-
-.pub-software-link i {
-  margin-right: 4px;
-}
-
-
-/* GitHub Software Links */
 .gh-module-link {
     text-decoration: none !important;
     display: inline-flex !important;
@@ -48,12 +23,9 @@
 .gh-module-badge {
     color: #d73a49 !important;
     font-size: 20px !important;
-    font-weight: 500 !important; /* Medium weight: clearly visible but clean */
-    font-family: -apple-system, system-ui, sans-serif !important;
+    font-weight: 500 !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
     text-transform: uppercase !important;
-    background: transparent !important;
-    border: none !important;
-    padding: 0 !important;
 }
 
 .gh-icon {
