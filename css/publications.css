@@ -74,7 +74,7 @@
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important; 
-    margin-left: 8px !important;
+    margin-left: 10px !important;
     vertical-align: middle;
 }
 
@@ -83,11 +83,10 @@
     font-size: 15px !important; 
     font-weight: 700 !important;
     font-family: "Courier New", Courier, monospace !important;
-    margin-left: 4px;
 }
 
 .cran-icon {
-    width: 24px !important; /* Slightly wider to accommodate the oval */
+    width: 24px !important; 
     height: 18px !important;
     display: inline-block;
     vertical-align: middle;
