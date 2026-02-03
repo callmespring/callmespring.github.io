@@ -80,16 +80,15 @@
 
 .cran-module-badge {
     color: #276DC2 !important; 
-    font-size: 15px !important; /* Matches your GH badge size */
+    font-size: 15px !important; 
     font-weight: 700 !important;
-    font-family: "Courier New", Courier, monospace !important; /* Matches your JQL style */
+    font-family: "Courier New", Courier, monospace !important;
     margin-left: 4px;
 }
 
 .cran-icon {
-    width: 22px !important;
-    height: 17px !important;
+    width: 24px !important; /* Slightly wider to accommodate the oval */
+    height: 18px !important;
     display: inline-block;
     vertical-align: middle;
-    margin-top: -2px; /* Fine-tuned alignment */
 }
