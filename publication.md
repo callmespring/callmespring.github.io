@@ -15,15 +15,13 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
   <div class="pub-content" style="flex: 1;">
     Zhou, H*., Zhu, J*., Yang, Y. and <strong>Shi, C</strong>. <a href="https://arxiv.org/pdf/2601.06586">Detecting LLM-Generated Text with Performance Guarantees</a>.
     <a href="https://huggingface.co/spaces/stats-powered-ai/StatDetectLLM" class="hf-module-link">
-      <svg class="hf-icon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-        <path d="M50,11.5c-22.1,0-40,15.7-40,35c0,4.8,1.2,9.4,3.5,13.4c0.5,0.9,0.7,2.1,0.3,3.1c-1.4,3.5-3.6,7.2-6.2,10.2 c-0.8,0.9-0.5,2.3,0.6,2.7c3.8,1.5,8.8,2.7,13.5,1.7c1.1-0.2,2.1,0.1,2.9,0.9c6.6,6,15.6,9.6,25.4,9.6c22.1,0,40-15.7,40-35 S72.1,11.5,50,11.5z M32.2,43.4c2.2,0,4,1.8,4,4s-1.8,4-4,4s-4-1.8-4-4S30,43.4,32.2,43.4z M50,72.4c-8.3,0-15.1-5.4-16.1-12.4 c-0.1-0.7,0.4-1.3,1.1-1.3h30.1c0.7,0,1.2,0.6,1.1,1.3C65.1,67,58.3,72.4,50,72.4z M67.8,51.4c-2.2,0-4-1.8-4-4s1.8-4,4-4 s4,1.8,4,4S70,51.4,67.8,51.4z"/>
+      <svg class="hf-icon" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16 4C9.37 4 4 9.37 4 16c0 1.95.47 3.79 1.3 5.42-.09.34-.14.7-.14 1.08 0 2.48 2.02 4.5 4.5 4.5.38 0 .74-.05 1.08-.14C12.21 27.53 14.05 28 16 28s3.79-.47 5.42-1.3c.34.09.7.14 1.08.14 2.48 0 4.5-2.02 4.5-4.5 0-.38-.05-.74-.14-1.08C27.53 19.79 28 17.95 28 16c0-6.63-5.37-12-12-12zm-4.5 10a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm9 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm-4.5 8c-2.5 0-4.5-1.5-4.5-1.5s.5-1 1-1 3.5 1.5 3.5 1.5 2.5-1.5 3-1.5 1 1 1 1-2 1.5-4.5 1.5z"/>
       </svg>
       <span class="hf-module-badge">StatDetectLLM</span>
     </a>
   </div>
 </div>
-
-
 
 Liu, Z., Guo, X., Yang, Z., Lou, F., Zeng, L., Li, M., Qi, Q., Liu, Z., Han, Y., Cheng, D., Feng, X., Wang, H., **Shi, C**. and Zhang, L. [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2503.16252)
 
