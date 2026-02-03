@@ -62,9 +62,9 @@
 }
 
 .hf-icon {
-    width: 20px !important;
-    height: 20px !important;
+    width: 22px !important;
+    height: 22px !important;
     margin-right: 5px !important;
     display: inline-block;
-    transform: translateY(3px);
+    vertical-align: middle;
 }
