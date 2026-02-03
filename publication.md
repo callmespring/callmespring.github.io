@@ -350,9 +350,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   <div class="pub-content" style="flex: 1;">
     Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>.
     <a href="https://cran.r-project.org/web/packages/JQL/index.html" class="cran-module-link">
-      <svg class="cran-icon" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg">
-        <path d="M500.2 268c13.4 12.3 22.1 29.8 22.1 50.4 0 35.8-26.1 63.6-60.6 63.6h-54.8v-114h93.3zM406.9 156.4h41.7c31 0 55.4 22.7 55.4 51 0 28.3-24.4 51-55.4 51h-41.7v-102z" fill="#BFC2C5"/>
-        <path d="M362 4.4C162.1 4.4 0 126 0 276c0 150 162.1 271.6 362 271.6 137.4 0 256.4-57.5 319.4-143.4L559.1 319c-11.8-13.4-28-21.7-46-21.7h-106.2v170h-85.3V82.8h127c77.2 0 138.8 55.8 138.8 123.6 0 45.4-27.5 84.8-68.8 106.6l155.6 170.8c50.3-51.4 81.8-116.5 81.8-187.8C724 126 561.9 4.4 362 4.4z" fill="#276DC2"/>
+      <svg class="cran-icon" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+        <g>
+          <path d="M500.2,268c13.4,12.3 22.1,29.8 22.1,50.4c0,35.8 -26.1,63.6 -60.6,63.6l-54.8,0l0,-114l93.3,0Z" style="fill:#bfc2c5;"/>
+          <path d="M406.9,156.4l41.7,0c31,0 55.4,22.7 55.4,51c0,28.3 -24.4,51 -55.4,51l-41.7,0l0,-102Z" style="fill:#bfc2c5;"/>
+          <path d="M362,4.4c-199.9,0 -362,121.6 -362,271.6c0,150 162.1,271.6 362,271.6c137.4,0 256.4,-57.5 319.4,-143.4l-122.3,-115.2c-11.8,-13.4 -28,-21.7 -46,-21.7l-106.2,0l0,170l-85.3,0l0,-454.2l127,0c77.2,0 138.8,55.8 138.8,123.6c0,45.4 -27.5,84.8 -68.8,106.6l155.6,170.8c50.3,-51.4 81.8,-116.5 81.8,-187.8c0,-150 -162.1,-271.6 -362,-271.6Z" style="fill:#276dc2;"/>
+        </g>
       </svg>
       <span class="cran-module-badge">JQL</span>
     </a>
