@@ -50,7 +50,7 @@
     display: inline-flex !important;
     align-items: center !important; 
     margin-left: 10px !important;
-    vertical-align: middle;
+    transform: translateY(2px);
 }
 
 .hf-module-badge {
@@ -62,10 +62,9 @@
 }
 
 .hf-icon {
-    width: 22px !important; /* Authentic size */
-    height: 22px !important;
+    width: 20px !important;
+    height: 20px !important;
     margin-right: 5px !important;
-    /* This is the official Hugging Face Yellow */
-    fill: #FFD21E !important; 
     display: inline-block;
+    transform: translateY(3px);
 }
