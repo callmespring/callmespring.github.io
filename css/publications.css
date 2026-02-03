@@ -13,24 +13,36 @@
 .badge-stat { background: #8B0000; }
 .badge-psych { background: #2E8B57; }
 
-.gh-module-link {
-    text-decoration: none !important;
-    display: inline-flex !important;
-    align-items: center !important;
-    margin-left: 10px !important;
-}
-
 .gh-module-badge {
-    color: #d73a49 !important;
-    font-size: 20px !important;
-    font-weight: 500 !important;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    /* Reduce from 20px to 16px to match text better */
+    font-size: 16px !important; 
+    font-weight: 600 !important;
+    font-family: -apple-system, system-ui, sans-serif !important;
     text-transform: uppercase !important;
+    color: #d73a49 !important;
+    
+    /* Improve alignment: nudge it down slightly */
+    position: relative;
+    top: 1px; 
 }
 
 .gh-icon {
     fill: #d73a49 !important;
-    width: 20px !important;
-    height: 20px !important;
-    margin-right: 6px !important;
+    /* Match icon size to new font size */
+    width: 16px !important;
+    height: 16px !important;
+    margin-right: 4px !important;
+    
+    /* Align with text baseline */
+    vertical-align: text-bottom;
+}
+
+.gh-module-link {
+    text-decoration: none !important;
+    display: inline-flex !important;
+    /* This helps center the icon and text together */
+    align-items: center !important; 
+    margin-left: 10px !important;
+    /* Subtle shift down for the whole unit */
+    transform: translateY(2px); 
 }
