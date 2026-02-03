@@ -44,13 +44,13 @@
     display: inline-block;
 }
 
-/* Hugging Face Link Container */
+/* Hugging Face Link Styles */
 .hf-module-link {
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important; 
     margin-left: 10px !important;
-    transform: translateY(2px); 
+    vertical-align: middle;
 }
 
 .hf-module-badge {
@@ -59,15 +59,13 @@
     font-weight: 600 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
     text-transform: none !important;
-    position: relative;
-    top: 1px;
 }
 
 .hf-icon {
-    width: 20px !important; /* Slightly wider for the brand logo */
-    height: 20px !important;
+    width: 22px !important; /* Authentic size */
+    height: 22px !important;
     margin-right: 5px !important;
+    /* This is the official Hugging Face Yellow */
     fill: #FFD21E !important; 
     display: inline-block;
-    transform: translateY(3px); /* Adjusted for the new SVG baseline */
 }
