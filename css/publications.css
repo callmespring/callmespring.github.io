@@ -68,3 +68,28 @@
     display: inline-block;
     vertical-align: middle;
 }
+
+/* CRAN/R Link Container */
+.cran-module-link {
+    text-decoration: none !important;
+    display: inline-flex !important;
+    align-items: center !important; 
+    margin-left: 10px !important;
+    vertical-align: middle;
+}
+
+.cran-module-badge {
+    color: #276DC2 !important; /* Matches the icon blue */
+    font-size: 16px !important; 
+    font-weight: 600 !important;
+    font-family: -apple-system, system-ui, sans-serif !important;
+    text-transform: none !important;
+}
+
+.cran-icon {
+    width: 20px !important;
+    height: 16px !important;
+    margin-right: 5px !important;
+    display: inline-block;
+    transform: translateY(1px);
+}
