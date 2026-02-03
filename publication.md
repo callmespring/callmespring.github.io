@@ -317,34 +317,11 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wang, J., <strong>Shi, C.</strong> and Wu, Z. (2023). <a href="https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf">A Robust Test for the Stationarity Assumption in Sequential Decision Making</a>. <strong>Python module</strong> <a href="https://github.com/jtwang95/Double_CUSUM_RL" style="font-family:courier;"><strong>Double-CUSUM-RL</strong></a>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-psych">CogSci</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2023). <a href="https://escholarship.org/content/qt7p00v6c5/qt7p00v6c5_noSplash_c8894c31a36bfc9e82ef2e67f80623ec.pdf?t=rxy9wr">A Generalized Method for Dynamic Noise Inference in Modeling Sequential Decision-making</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">HDSR</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong> (2023). <a href="https://hdsr.mitpress.mit.edu/pub/qj4z4dj0/release/1?readingCollection=d6860ef9">The Impact of David Cox’s Work and Leadership on My Research</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">STAT</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Gao, Y., <strong>Shi, C.</strong> and Song, R. (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.564">Deep Spectral Q-learning with Application to Mobile Health</a>. 2022 <strong>JSM Student Paper Award</strong>
+    Wang, J., <strong>Shi, C.</strong> and Wu, Z. (2023). <a href="https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf">A Robust Test for the Stationarity Assumption in Sequential Decision Making</a>. 
+    <a href="https://github.com/jtwang95/Double_CUSUM_RL" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">Double-CUSUM-RL</span>
+    </a>
   </div>
 </div>
 
@@ -362,7 +339,11 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">AISTATS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhou, Y., Qi, Z., <strong>Shi, C.</strong> and Li, L. (2023). <a href="https://arxiv.org/pdf/2210.14420.pdf">Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach</a>. <strong>Python module</strong> <a href="https://github.com/yunzhe-zhou/PBL" style="font-family:courier;"><strong>PBL</strong></a>
+    Zhou, Y., Qi, Z., <strong>Shi, C.</strong> and Li, L. (2023). <a href="https://arxiv.org/pdf/2210.14420.pdf">Optimizing Pessimism in Dynamic Treatment Regimes: A Bayesian Learning Approach</a>. 
+    <a href="https://github.com/yunzhe-zhou/PBL" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">PBL</span>
+    </a>
   </div>
 </div>
 
@@ -380,7 +361,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a>.  <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
+    <strong>Shi, C.</strong> and Li, L. (2022). <a href="https://arxiv.org/abs/2005.04584">Testing Mediation Effects Using Logic of Boolean Matrices</a>.
+    <a href="https://github.com/callmespring/LOGAN" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">LOGAN</span>
+    </a>
+    <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
   </div>
 </div>
 
@@ -389,7 +375,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Zhang, S., Song, R. and Lu, W. (2022). <a href="https://arxiv.org/pdf/2001.04515.pdf">Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings</a>. <strong>Python module</strong> <a href="https://github.com/shengzhang37/SAVE" style="font-family:courier;"><strong>SAVE</strong></a> <br/> <a href="./slides/VIslides.pdf"><font size="3">slides</font></a> <font size="3">presented at ICSA 2019</font>.
+    <strong>Shi, C.</strong>, Zhang, S., Song, R. and Lu, W. (2022). <a href="https://arxiv.org/pdf/2001.04515.pdf">Statistical Inference of the Value Function for Reinforcement Learning in Infinite Horizon Settings</a>.
+    <a href="https://github.com/shengzhang37/SAVE" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">SAVE</span>
+    </a>
+    <br/> <a href="./slides/VIslides.pdf"><font size="3">slides</font></a> <font size="3">presented at ICSA 2019</font>.
   </div>
 </div>
 
@@ -398,25 +389,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. (long talk, top 2%). <strong>Python module</strong> <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" style="font-family:courier;"><strong>Confounded-POMDP-OPE</strong></a> <br/> <a href="https://icml.cc/virtual/2022/oral/16360"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">STAT</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Li, L., <strong>Shi, C.</strong>, Guo, T. and Jagust, W. (2022). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.433">Sequential Pathway Inference for Multimodal Neuroimaging Analysis</a>. <strong>Python module</strong> <a href="https://github.com/callmespring/LOGAN" style="font-family:courier;"><strong>LOGAN</strong></a> <br/> <a href="./slides/jsm.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2021</font>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Xu, T., Bergsma, W. and Li, L. (2021). <a href="https://jmlr.org/papers/volume22/21-0294/21-0294.pdf">Double Generative Adversarial Networks for Conditional Independence Testing</a>. <strong>Python module</strong> <a href="https://github.com/tianlinxu312/dgcit" style="font-family:courier;"><strong>dgcit</strong></a>
+    <strong>Shi, C*.</strong>, Uehara, M*., Huang, J. and Jiang, N. (2022). <a href="https://arxiv.org/pdf/2111.06784.pdf">A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes</a>. (long talk, top 2%).
+    <a href="https://github.com/jiaweihhuang/Confounded-POMDP-Exp" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">Confounded-POMDP-OPE</span>
+    </a>
+    <br/> <a href="https://icml.cc/virtual/2022/oral/16360"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
@@ -425,7 +403,11 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Luo, S., Zhu, H. and Song, R. (2021). <a href="https://jmlr.org/papers/volume22/21-0383/21-0383.pdf">An Online Sequential Test for Qualitative Treatment Effects</a>.
+    <strong>Shi, C.</strong>, Xu, T., Bergsma, W. and Li, L. (2021). <a href="https://jmlr.org/papers/volume22/21-0294/21-0294.pdf">Double Generative Adversarial Networks for Conditional Independence Testing</a>.
+    <a href="https://github.com/tianlinxu312/dgcit" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">dgcit</span>
+    </a>
   </div>
 </div>
 
@@ -434,16 +416,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Cai, H*. <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2021). <a href="https://arxiv.org/abs/2010.15963">Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings</a>. 2021 <strong>ENAR Distinguished Student Paper Awards</strong> <br/> <strong>Python module</strong> <a href="https://github.com/HengruiCai/DJL" style="font-family:courier;"><strong>DJL</strong></a> <br/> <a href="https://papertalk.org/papertalks/37049"><font size="3">video</font></a> <font size="3">presented at NeurIPS</font>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">IJCAI workshop</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Wan, R*., Zhang, S*., <strong>Shi, C.</strong>, Luo, S. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.13218.pdf">Pattern Transfer Learning for Reinforcement Learning in Order Dispatching</a> (<strong>best paper</strong>). <br/> <a href="https://www.youtube.com/watch?v=g6ejNcMUdHk&t=851s"><font size="3">video</font></a> <font size="3">presented at the workshop</font>.
+    Cai, H*. <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2021). <a href="https://arxiv.org/abs/2010.15963">Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings</a>. 2021 <strong>ENAR Distinguished Student Paper Awards</strong> <br/>
+    <a href="https://github.com/HengruiCai/DJL" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">DJL</span>
+    </a>
+    <br/> <a href="https://papertalk.org/papertalks/37049"><font size="3">video</font></a> <font size="3">presented at NeurIPS</font>.
   </div>
 </div>
 
@@ -452,7 +430,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a> (<strong>long talk</strong>, top 3%). <strong>Python module</strong> <a href="https://github.com/RunzheStat/D2OPE" style="font-family:courier;"><strong>D2OPE</strong></a> <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
+    <strong>Shi, C*.</strong>, Wan, R*., Chernozhukov, V. and Song, R. (2021). <a href="https://arxiv.org/pdf/2105.04646.pdf">Deeply-Debiased Off-Policy Interval Estimation</a> (<strong>long talk</strong>, top 3%).
+    <a href="https://github.com/RunzheStat/D2OPE" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">D2OPE</span>
+    </a>
+    <br/> <a href="https://www.youtube.com/watch?v=uAEWmmm8aDM"><font size="3">video</font></a> <font size="3">presented at ICML</font>.
   </div>
 </div>
 
@@ -463,15 +446,6 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Song, R., Lu, W. and Li. R. (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1710154">Statistical Inference for High-Dimensional Models via Recursive Online-Score Estimation</a> (<strong>ROSE</strong>). 
     <strong>R code</strong> for <a href="./code/sample_linear.r"><font size="3">linear</font></a>/<a href="./code/sample_logistic.r"><font size="3">logistic</font></a> regression
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2021). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.short">Concordance and Value Information Criteria for Optimal Treatment Decision</a> (<strong>CIVIC</strong>).
   </div>
 </div>
 
@@ -489,55 +463,12 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Wan, R., Song, R., Lu, W. and Leng, L. (2020). <a href="http://proceedings.mlr.press/v119/shi20c/shi20c.pdf">Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making</a>, <em>ICML</em>. <strong>Python module</strong> <a href="https://github.com/RunzheStat/TestMDP"><span style="font-family:courier;"><strong>TestMDP</strong></span></a> <br/> <a href="./slides/slides.pdf"><font size="3">slides</font></a> <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1604368">A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R., Chen, Z. and Li, R. (2019). <a href="https://projecteuclid.org/euclid.aos/1564797860">Linear Hypothesis Testing for High Dimensional Generalized Linear Models</a>. <br/>
-    2018 <strong>IMS travel award</strong> <br/>
-    <strong>R code</strong> for <a href="./code/lm_ADMM0.r"><font size="3">linear</font></a>/<a href="./code/Logistic_ADMM0.r"><font size="3">logistic</font></a>/<a href="./code/Poisson_ADMM0.r"><font size="3">Poisson</font></a> <font size="3">regression</font>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">AOS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Lu, W., and Song, R. (2019). <a href="https://projecteuclid.org/euclid.aos/1558425648">On Testing Conditional Qualitative Treatment Effects</a>. <br/>
-    2017 <strong>IMS travel award</strong> <br/> <a href="./slides/JSM2017.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2017</font>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2019). <a href="http://www.jmlr.org/papers/v20/18-037.html">Determining the Number of Latent Factors in Multirelational Learning</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JASA</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Lu, W., and Song, R. (2018). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1360779">A Massive Data Framework for M-estimators with Cubic-Rate</a>.
+    <strong>Shi, C.</strong>, Wan, R., Song, R., Lu, W. and Leng, L. (2020). <a href="http://proceedings.mlr.press/v119/shi20c/shi20c.pdf">Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making</a>, <em>ICML</em>.
+    <a href="https://github.com/RunzheStat/TestMDP" class="gh-module-link">
+      <svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span class="gh-module-badge">TestMDP</span>
+    </a>
+    <br/> <a href="./slides/slides.pdf"><font size="3">slides</font></a> <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
   </div>
 </div>
 
@@ -558,33 +489,6 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Fan, A., Song, R., and Lu, W. (2018). <a href="https://projecteuclid.org/euclid.aos/1525313071">High-Dimensional A-Learning for Optimal Dynamic Treatment Regimes</a>. 
     <strong>R package</strong> <a href="https://cran.r-project.org/web/packages/ITRSelect/index.html"><span style="font-family:courier;"><strong>ITRSelect</strong></span></a> <br/> <a href="./slides/ENAR2016spring.pdf"><font size="3">slides</font></a> <font size="3">presented at ENAR 2016</font>
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSS-C</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2018). <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12266">Discussion of “Optimal Treatment Allocations in Space and Time for On-Line Control of an Emerging Infectious Disease”</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">JRSS-B</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2017). <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228">Discussion of “Random Projection Ensemble Classification”</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">EJS</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2016). <a href="https://projecteuclid.org/euclid.ejs/1476368559">Robust Learning for Optimal Treatment Decision with NP-Dimensionality</a>.
   </div>
 </div>
 
