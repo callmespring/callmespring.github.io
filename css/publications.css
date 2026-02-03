@@ -79,17 +79,16 @@
 }
 
 .cran-module-badge {
-    color: #276DC2 !important; /* Matches the icon blue */
+    color: #276DC2 !important; 
     font-size: 16px !important; 
     font-weight: 600 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
-    text-transform: none !important;
 }
 
 .cran-icon {
-    width: 20px !important;
-    height: 16px !important;
+    width: 22px !important; /* Slightly larger for the halo */
+    height: 18px !important;
     margin-right: 5px !important;
     display: inline-block;
-    transform: translateY(1px);
+    vertical-align: middle;
 }
