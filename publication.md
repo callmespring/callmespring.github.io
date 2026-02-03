@@ -349,17 +349,13 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   </div>
   <div class="pub-content" style="flex: 1;">
     Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
-    <a href="https://cran.r-project.org/web/packages/JQL/index.html" class="cran-module-link">
-      <svg class="cran-icon" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg">
-        <ellipse cx="362" cy="280.5" rx="362" ry="271.6" fill="#BFC2C5" />
-        
-        <path d="M559.1 319c-11.8-13.4-28-21.7-46-21.7h-106.2v170h-85.3V82.8h127c77.2 0 138.8 55.8 138.8 123.6 0 45.4-27.5 84.8-68.8 106.6l155.6 170.8c50.3-51.4 81.8-116.5 81.8-187.8 0-150-162.1-271.6-362-271.6C162.1 4.4 0 126 0 276c0 150 162.1 271.6 362 271.6 137.4 0 256.4-57.5 319.4-143.4L559.1 319z" fill="white"/>
-        
+    <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 10px; vertical-align: middle;">
+      <svg width="22" height="17" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg" style="display: inline-block; vertical-align: middle;">
+        <ellipse cx="362" cy="280" rx="362" ry="271" fill="#BFC2C5" />
         <path d="M559.1 319c-11.8-13.4-28-21.7-46-21.7h-106.2v170h-85.3V82.8h127c77.2 0 138.8 55.8 138.8 123.6 0 45.4-27.5 84.8-68.8 106.6l155.6 170.8c50.3-51.4 81.8-116.5 81.8-187.8 0-150-162.1-271.6-362-271.6C162.1 4.4 0 126 0 276c0 150 162.1 271.6 362 271.6 137.4 0 256.4-57.5 319.4-143.4L559.1 319z" fill="#276DC2"/>
-        
         <path d="M500.2 268c13.4 12.3 22.1 29.8 22.1 50.4 0 35.8-26.1 63.6-60.6 63.6h-54.8v-114h93.3zM406.9 156.4h41.7c31 0 55.4 22.7 55.4 51 0 28.3-24.4 51-55.4 51h-41.7v-102z" fill="white"/>
       </svg>
-      <span class="cran-module-badge">JQL</span>
+      <span style="color: #276DC2; font-size: 16px; font-weight: 700; font-family: courier; margin-left: 4px;">JQL</span>
     </a>
   </div>
 </div>
