@@ -11,7 +11,17 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Zhou, H\*., Zhu, J\*., Yang, Y. and **Shi, C**. [Detecting LLM-Generated Text with Performance Guarantees](https://arxiv.org/pdf/2601.06586)
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-content" style="flex: 1;">
+    Zhou, H*., Zhu, J*., Yang, Y. and <strong>Shi, C</strong>. <a href="https://arxiv.org/pdf/2601.06586">Detecting LLM-Generated Text with Performance Guarantees</a>.
+    <a href="https://huggingface.co/spaces/stats-powered-ai/StatDetectLLM" class="hf-module-link">
+      <svg class="hf-icon" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10.125 10C8.4 10 7 11.4 7 13.125V26.875C7 28.6 8.4 30 10.125 30H29.875C31.6 30 33 28.6 33 26.875V13.125C33 11.4 31.6 10 29.875 10H10.125ZM14.5 16.25C15.875 16.25 17 17.375 17 18.75C17 20.125 15.875 21.25 14.5 21.25C13.125 21.25 12 20.125 12 18.75C12 17.375 13.125 16.25 14.5 16.25ZM25.5 16.25C26.875 16.25 28 17.375 28 18.75C28 20.125 26.875 21.25 25.5 21.25C24.125 21.25 23 20.125 23 18.75C23 17.375 24.125 16.25 25.5 16.25ZM20 22.5C22.25 22.5 24.125 23.875 24.875 25.75H15.125C15.875 23.875 17.75 22.5 20 22.5Z"/>
+      </svg>
+      <span class="hf-module-badge">StatDetectLLM</span>
+    </a>
+  </div>
+</div>
 
 Liu, Z., Guo, X., Yang, Z., Lou, F., Zeng, L., Li, M., Qi, Q., Liu, Z., Han, Y., Cheng, D., Feng, X., Wang, H., **Shi, C**. and Zhang, L. [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2503.16252)
 
