@@ -23,6 +23,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
   </div>
 </div>
 
+
+
 Liu, Z., Guo, X., Yang, Z., Lou, F., Zeng, L., Li, M., Qi, Q., Liu, Z., Han, Y., Cheng, D., Feng, X., Wang, H., **Shi, C**. and Zhang, L. [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2503.16252)
 
 Zhang, J., Wang, J., **Shi, C**., Piette, J., Zeng, D., Wu, Z. [PyCFRL: A Python library for counterfactually fair offline reinforcement learning via sequential data preprocessing](https://arxiv.org/abs/2510.06935)
