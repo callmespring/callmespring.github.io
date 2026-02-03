@@ -58,17 +58,16 @@
     font-size: 16px !important; 
     font-weight: 600 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
-    text-transform: none !important; /* Ensures VRPO/DRPO casing stays correct */
+    text-transform: none !important;
     position: relative;
     top: 1px;
 }
 
 .hf-icon {
-    width: 18px !important;
-    height: 18px !important;
-    margin-right: 4px !important;
-    /* This is the official Hugging Face Yellow */
+    width: 20px !important; /* Slightly wider for the brand logo */
+    height: 20px !important;
+    margin-right: 5px !important;
     fill: #FFD21E !important; 
     display: inline-block;
-    transform: translateY(2px);
+    transform: translateY(3px); /* Adjusted for the new SVG baseline */
 }
