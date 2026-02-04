@@ -663,6 +663,21 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Song, R., Chen, Z. and Li, R. (2019). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-5/Linear-hypothesis-testing-for-high-dimensional-generalized-linear-models/10.1214/18-AOS1761.full">Linear Hypothesis Testing for High Dimensional Generalized Linear Models</a>. 2018 <strong>IMS travel award</strong>
+    <br/>
+    <font size="3">R code for </font>
+    <a href="https://github.com/callmespring/callmespring.github.io/blob/0a279dfc1424964e2aa953527b9f31b6537d17fd/code/lm_ADMM0.r"><font size="3">linear</font></a>/
+    <a href="https://github.com/callmespring/callmespring.github.io/blob/0a279dfc1424964e2aa953527b9f31b6537d17fd/code/Logistic_ADMM0.r"><font size="3">logistic</font></a>/
+    <a href="https://github.com/callmespring/callmespring.github.io/blob/0a279dfc1424964e2aa953527b9f31b6537d17fd/code/Poisson_ADMM0.r"><font size="3">Poisson</font></a>
+    <font size="3"> regression</font>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">AOS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
     <strong>Shi, C.</strong>, Lu, W., and Song, R. (2019). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-4/On-testing-conditional-qualitative-treatment-effects/10.1214/18-AOS1750.full">On Testing Conditional Qualitative Treatment Effects</a>. 2017 <strong>IMS travel award</strong>
     <br/>
     <a href="https://github.com/callmespring/callmespring.github.io/blob/0a279dfc1424964e2aa953527b9f31b6537d17fd/slides/JSM2017.pdf"><font size="3">slides</font></a> <font size="3">presented at JSM 2017</font>
