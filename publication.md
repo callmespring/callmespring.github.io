@@ -628,6 +628,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">AOS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2021). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Concordance-and-value-information-criteria-for-optimal-treatment-decision/10.1214/19-AOS1908.full">Concordance and Value Information Criteria for Optimal Treatment Decision</a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-ml">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
