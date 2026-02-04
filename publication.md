@@ -438,6 +438,33 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-psych">CogSci</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, J., <strong>Shi, C.</strong>, Li, L. and Collins, A. (2023). <a href="https://escholarship.org/content/qt84q4r61v/qt84q4r61v.pdf">A Generalized Method for Dynamic Noise Inference in Modeling Sequential Decision-making</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">HDSR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong> (2023). <a href="https://hdsr.mitpress.mit.edu/pub/7y0h003n/release/1">The Impact of David Cox’s Work and Leadership on My Research</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">STAT</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Gao, Y., <strong>Shi, C.</strong> and Song, R. (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.498">Deep Spectral Q-learning with Application to Mobile Health</a>. 2022 <strong>JSM Student Paper Award</strong>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-ml" style="width: 100%; text-align: center;">JMLR</span>
   </div>
   
