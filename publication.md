@@ -198,6 +198,42 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Zhou, H., Hanna, J., Zhu, J., Yang, Y., <strong>Shi, C.</strong> (2025). <a href="https://arxiv.org/pdf/2505.22492">Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation</a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Behnamnia, A., Aminian, G., Aghaei, A., <strong>Shi, C.</strong>, Tan, V.Y., Rabiee, H. (2025). <a href="https://www.arxiv.org/pdf/2506.06873">Log-Sum-Exponential Estimator for Off-Policy Evaluation and Learning</a> (<strong>spotlight</strong>, top 2.6% of submissions).
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">HDSR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    StatsUpAI Interest Group (2025). <a href="https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2">Statistics and AI: A Fireside Conversation</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">Stat Sci</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Uehara, M., <strong>Shi, C.</strong> and Kallus, N. (2025+). <a href="https://arxiv.org/pdf/2212.06355.pdf">A Review of Off-Policy Evaluation in Reinforcement Learning</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-stat">AOS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
