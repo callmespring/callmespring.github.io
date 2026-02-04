@@ -643,7 +643,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="./paper/SASv2cs.pdf">Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes</a>. <strong>R and C sample code</strong> <a href="./code/subagging2.cpp"><font size="3">subagging2.cpp</font></a> <a href="./code/sb.r"><font size="3">sb.r</font></a>
+    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="https://jmlr.org/papers/volume21/20-066/20-066.pdf">Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes</a>. <strong>R and C sample code</strong> <a href="./code/subagging2.cpp"><font size="3">subagging2.cpp</font></a> <a href="./code/sb.r"><font size="3">sb.r</font></a>
   </div>
 </div>
 
@@ -658,6 +658,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
       <span class="gh-module-badge">TestMDP</span>
     </a>
     <br/> <a href="./slides/slides.pdf"><font size="3">slides</font></a> <a href="https://icml.cc/virtual/2020/poster/5961"><font size="3">video</font></a> <font size="3">presented at CMStatistics 2020, ICML 2020, JSM 2020 and EYSM 2021</font>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2020). <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1604368"> A Sparse Random Projection-based Test for Overall Qualitative Treatment Effects</a>
   </div>
 </div>
 
