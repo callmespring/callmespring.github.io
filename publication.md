@@ -345,15 +345,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge" style="background-color: #004488; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold; font-size: 12px;">JMLR</span>
+    <span class="publication-logo-badge badge-ml" style="min-width: 65px; text-align: center; padding: 5px 0; line-height: 1.2; display: inline-block;">JMLR</span>
   </div>
   
   <div class="pub-content" style="flex: 1;">
     Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
     
     <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 8px; vertical-align: middle;">
-      <img src="https://www.r-project.org/logo/Rlogo.svg" width="22" height="17" style="vertical-align: middle; border: none; display: inline-block;">
-      <span style="color: #276DC2 !important; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin-left: 5px; font-size: 15px;">JQL</span>
+      <img src="https://www.r-project.org/logo/Rlogo.svg" width="22" height="17" style="vertical-align: middle; border: none; display: inline-block; margin-right: 4px;">
+      <span style="color: #000000 !important; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px;">JQL</span>
     </a>
   </div>
 </div>
