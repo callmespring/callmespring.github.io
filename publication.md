@@ -660,6 +660,24 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">JMLR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Lu, W. and Song, R. (2019). <a href="https://www.jmlr.org/papers/v20/18-037.html">Determining the Number of Latent Factors in Multirelational Learning</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">JASA</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Lu, W., and Song, R. (2018). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1360779">A Massive Data Framework for M-estimators with Cubic-Rate</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-stat" style="width: 100%; text-align: center;">JRSS-B</span>
   </div>
   <div class="pub-content" style="flex: 1;">
