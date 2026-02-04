@@ -153,6 +153,33 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Wu, X*., Li, T*., Aminian, G., Behnamnia, A., Rabiee, H. and <strong>Shi, C</strong>. (2025). <a href="https://eprints.lse.ac.uk/130005/1/PessimisticOPE.pdf">Pessimistic Data Integration for Policy Evaluation</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Feng, J., <strong>Shi, C</strong>., Wu, Z., Yan, X. and Zhao, W. (2025). <a href="https://openreview.net/pdf/8de4b2dc2957f4d546436ad58dcc98ad899f9ede.pdf">Beyond Average Value Function in Precision Medicine: Maximum Probability-Driven Reinforcement Learning for Survival Analysis</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">TMLR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Yang, X., <strong>Shi, C</strong>., Luo, S., Wang, L. and Song, R. (2025). <a href="https://openreview.net/pdf?id=F0BwbieVws">Doubly Robust Uncertainty Quantification for Quantile Treatment Effects in Sequential Decision Making</a>. 2023 <strong>JSM Student Paper Award</strong>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
