@@ -343,24 +343,23 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em; font-family: sans-serif;">
-  <div style="flex: 0 0 90px; margin-right: 15px; display: flex; align-items: center; justify-content: center;">
-    <span style="background-color: #e8f0fe; color: #1a73e8; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 13px;">JMLR</span>
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml" style="background-color: #004488; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold;">JMLR</span>
   </div>
-
-  <div style="flex: 1; line-height: 1.6; font-size: 15px; color: #333;">
-    Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). 
-    <a href="https://arxiv.org/pdf/2111.08885.pdf" style="color: #1a73e8; text-decoration: none;">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
+  
+  <div class="pub-content" style="flex: 1;">
+    Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
     
     <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 8px; vertical-align: middle;">
-      <svg width="24" height="18" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg" style="display: inline-block;">
-        <ellipse cx="362" cy="280" rx="362" ry="275" fill="#BFC2C5" />
+      <svg width="24" height="18" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg">
+        <ellipse cx="362" cy="280" rx="362" ry="275" fill="#BFC2C5" stroke="none" />
         
-        <path d="M559.1,319c-11.8,-13.4 -28,-21.7 -46,-21.7l-106.2,0l0,170l-85.3,0l0,-454.2l127,0c77.2,0 138.8,55.8 138.8,123.6c0,45.4 -27.5,84.8 -68.8,106.6l155.6,170.8c50.3,-51.4 81.8,-116.5 81.8,-187.8c0,-150 -162.1,-271.6 -362,-271.6c-199.9,0 -362,121.6 -362,271.6c0,150 162.1,271.6 362,271.6c137.4,0 256.4,-57.5 319.4,-143.4l-122.3,-115.2Z" fill="#276DC2" />
+        <path d="M559,319c-11-13-28-21-46-21h-106v170h-85V82h127c77,0 138,55 138,123c0,45-27,84-68,106l155,170c50-51 81-116 81-187c0-150-162-271-362-271C162,4 0,126 0,276c0,150 162,271 362,271c137,0 256-57 319-143L559,319z" fill="#276DC2" stroke="none" />
         
-        <path d="M500.2,268c13.4,12.3 22.1,29.8 22.1,50.4c0,35.8 -26.1,63.6 -60.6,63.6l-54.8,0l0,-114l93.3,0Zm-93.3,-111.6l41.7,0c31,0 55.4,22.7 55.4,51c0,28.3 -24.4,51 -55.4,51l-41.7,0l0,-102Z" fill="white" />
+        <path d="M500,268c13,12 22,29 22,50c0,35-26,63-60,63h-55V268H500z M407,156h41c31,0 55,22 55,51c0,28-24,51-55,51h-41V156z" fill="white" stroke="none" />
       </svg>
-      <span style="color: #276DC2; font-weight: 700; font-family: 'Courier New', Courier, monospace; margin-left: 5px; font-size: 15px;">JQL</span>
+      <span style="color: #276DC2 !important; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin-left: 4px; font-size: 15px;">JQL</span>
     </a>
   </div>
 </div>
