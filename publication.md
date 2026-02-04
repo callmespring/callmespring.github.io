@@ -343,19 +343,24 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   </div>
 </div>
 
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em; font-family: sans-serif;">
+  <div style="flex: 0 0 90px; margin-right: 15px; display: flex; align-items: center; justify-content: center;">
+    <span style="background-color: #e8f0fe; color: #1a73e8; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 13px;">JMLR</span>
   </div>
-  <div class="pub-content" style="flex: 1;">
-    Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
-    <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 10px; vertical-align: middle;">
-      <svg width="22" height="17" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg" style="display: inline-block; vertical-align: middle;">
-        <ellipse cx="362" cy="280" rx="362" ry="271" fill="#BFC2C5" />
-        <path d="M559.1 319c-11.8-13.4-28-21.7-46-21.7h-106.2v170h-85.3V82.8h127c77.2 0 138.8 55.8 138.8 123.6 0 45.4-27.5 84.8-68.8 106.6l155.6 170.8c50.3-51.4 81.8-116.5 81.8-187.8 0-150-162.1-271.6-362-271.6C162.1 4.4 0 126 0 276c0 150 162.1 271.6 362 271.6 137.4 0 256.4-57.5 319.4-143.4L559.1 319z" fill="#276DC2"/>
-        <path d="M500.2 268c13.4 12.3 22.1 29.8 22.1 50.4 0 35.8-26.1 63.6-60.6 63.6h-54.8v-114h93.3zM406.9 156.4h41.7c31 0 55.4 22.7 55.4 51 0 28.3-24.4 51-55.4 51h-41.7v-102z" fill="white"/>
+
+  <div style="flex: 1; line-height: 1.6; font-size: 15px; color: #333;">
+    Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). 
+    <a href="https://arxiv.org/pdf/2111.08885.pdf" style="color: #1a73e8; text-decoration: none;">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
+    
+    <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 8px; vertical-align: middle;">
+      <svg width="24" height="18" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg" style="display: inline-block;">
+        <ellipse cx="362" cy="280" rx="362" ry="275" fill="#BFC2C5" />
+        
+        <path d="M559.1,319c-11.8,-13.4 -28,-21.7 -46,-21.7l-106.2,0l0,170l-85.3,0l0,-454.2l127,0c77.2,0 138.8,55.8 138.8,123.6c0,45.4 -27.5,84.8 -68.8,106.6l155.6,170.8c50.3,-51.4 81.8,-116.5 81.8,-187.8c0,-150 -162.1,-271.6 -362,-271.6c-199.9,0 -362,121.6 -362,271.6c0,150 162.1,271.6 362,271.6c137.4,0 256.4,-57.5 319.4,-143.4l-122.3,-115.2Z" fill="#276DC2" />
+        
+        <path d="M500.2,268c13.4,12.3 22.1,29.8 22.1,50.4c0,35.8 -26.1,63.6 -60.6,63.6l-54.8,0l0,-114l93.3,0Zm-93.3,-111.6l41.7,0c31,0 55.4,22.7 55.4,51c0,28.3 -24.4,51 -55.4,51l-41.7,0l0,-102Z" fill="white" />
       </svg>
-      <span style="color: #276DC2; font-size: 16px; font-weight: 700; font-family: courier; margin-left: 4px;">JQL</span>
+      <span style="color: #276DC2; font-weight: 700; font-family: 'Courier New', Courier, monospace; margin-left: 5px; font-size: 15px;">JQL</span>
     </a>
   </div>
 </div>
