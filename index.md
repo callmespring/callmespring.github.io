@@ -59,7 +59,7 @@ My research is motivated from the following applications:
 )) and my [talk](https://www.bilibili.com/video/BV1yo4y1j7FU/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f); see also some simulated environments for [Order Dispatch](https://github.com/callmespring/MDPOD) and [Spatio-temporal Policy Evaluation](https://github.com/RunzheStat/CausalMARL)); 
 * **Video-sharing** (see our KDD [paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599809)  successfully deployed in a widely used mobile app with millions of daily active users)
 * **Mobile health** (some simulated environments for [Diabetes](https://github.com/RunzheStat/TestMDP) and [Intern Health](https://github.com/limengbinggz/cusum-rl));
-* **Neuroscience** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making).
+* **Psychology** (see our [paper](https://www.biorxiv.org/content/10.1101/2023.06.19.545524v1.full.pdf) on using RL for modelling human decision making).
 
 Some of my recent **talks** and **slides** on AI, RL, statistical inference, causal inference and experimental design: 
 * **Stats-powered AI** [Youtube](https://www.youtube.com/watch?v=qwI4jBvrhw4), [Bilibili](https://www.bilibili.com/video/BV1WTsPzhEME/?spm_id_from=333.1387.homepage.video_card.click);
