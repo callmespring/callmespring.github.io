@@ -574,7 +574,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">JMLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    <strong>Shi, C.</strong>, Luo, S., Zhu, H. and Song, R. (2021). <a href="https://www.jmlr.org/papers/v22/20-1090.html">An Online Sequential Test for Qualitative Treatment Effects</a>.
+    <strong>Shi, C.</strong>, Luo, S., Zhu, H. and Song, R. (2021). <a href="https://jmlr.org/papers/volume22/21-0383/21-0383.pdf">An Online Sequential Test for Qualitative Treatment Effects</a>.
   </div>
 </div>
 
