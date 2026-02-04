@@ -354,6 +354,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
+    Uehara, M., Kiyohara, H., Bennett, A., Chernozhukov, V., Jiang, N., Kallus, N., <strong>Shi, C.</strong> and Sun, W. (2023) <a href="https://arxiv.org/pdf/2207.13081.pdf">Future-Dependent Value-Based Off-Policy Evaluation in POMDPs</a> (<strong>spotlight</strong>)
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
     Li, T*., <strong>Shi, C*.</strong>, Wang, J., Zhou, F. and Zhu, H. (2023). <a href="https://openreview.net/pdf?id=EcReRm7q9p">Optimal Treatment Allocation for Efficient Policy Evaluation in Sequential Decision Making</a> <a href="https://github.com/tingstat/MDP_design" class="gh-module-link"><svg class="gh-icon" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg><span class="gh-module-badge">MDPdesign</span></a>
   </div>
 </div>
