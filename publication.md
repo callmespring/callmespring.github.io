@@ -345,21 +345,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml" style="background-color: #004488; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold;">JMLR</span>
+    <span class="publication-logo-badge" style="background-color: #004488; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold; font-size: 12px;">JMLR</span>
   </div>
   
   <div class="pub-content" style="flex: 1;">
     Cai, H*., <strong>Shi, C*.</strong>, Song, R. and Lu, W. (2023). <a href="https://arxiv.org/pdf/2111.08885.pdf">Jump Interval-Learning for Individualized Decision Making with Continuous Treatments</a>. 
     
     <a href="https://cran.r-project.org/web/packages/JQL/index.html" style="text-decoration: none; display: inline-flex; align-items: center; margin-left: 8px; vertical-align: middle;">
-      <svg width="24" height="18" viewBox="0 0 724 561" xmlns="http://www.w3.org/2000/svg">
-        <ellipse cx="362" cy="280" rx="362" ry="275" fill="#BFC2C5" stroke="none" />
-        
-        <path d="M559,319c-11-13-28-21-46-21h-106v170h-85V82h127c77,0 138,55 138,123c0,45-27,84-68,106l155,170c50-51 81-116 81-187c0-150-162-271-362-271C162,4 0,126 0,276c0,150 162,271 362,271c137,0 256-57 319-143L559,319z" fill="#276DC2" stroke="none" />
-        
-        <path d="M500,268c13,12 22,29 22,50c0,35-26,63-60,63h-55V268H500z M407,156h41c31,0 55,22 55,51c0,28-24,51-55,51h-41V156z" fill="white" stroke="none" />
-      </svg>
-      <span style="color: #276DC2 !important; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin-left: 4px; font-size: 15px;">JQL</span>
+      <img src="https://www.r-project.org/logo/Rlogo.svg" width="22" height="17" style="vertical-align: middle; border: none; display: inline-block;">
+      <span style="color: #276DC2 !important; font-weight: bold; font-family: 'Courier New', Courier, monospace; margin-left: 5px; font-size: 15px;">JQL</span>
     </a>
   </div>
 </div>
