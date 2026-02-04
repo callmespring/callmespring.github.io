@@ -68,26 +68,3 @@
     display: inline-block;
     vertical-align: middle;
 }
-
-/* CRAN/R Link Container */
-.cran-module-link {
-    text-decoration: none !important;
-    display: inline-flex !important;
-    align-items: center !important; 
-    margin-left: 10px !important;
-    vertical-align: middle;
-}
-
-.cran-module-badge {
-    color: #276DC2 !important; 
-    font-size: 15px !important; 
-    font-weight: 700 !important;
-    font-family: "Courier New", Courier, monospace !important;
-}
-
-.cran-icon {
-    width: 24px !important; 
-    height: 18px !important;
-    display: inline-block;
-    vertical-align: middle;
-}
