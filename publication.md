@@ -156,7 +156,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">NeurIPS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wu, X*., Li, T*., Aminian, G., Behnamnia, A., Rabiee, H. and <strong>Shi, C</strong>. (2025). <a href="https://eprints.lse.ac.uk/130005/1/PessimisticOPE.pdf">Pessimistic Data Integration for Policy Evaluation</a>.
+    Wu, X*., Li, T*., Aminian, G., Behnamnia, A., Rabiee, H. and <strong>Shi, C</strong>. (2025). <a href="https://openreview.net/pdf/c8165ae8f029dae801c05a595683bc69d902bb16.pdf">Pessimistic Data Integration for Policy Evaluation</a>.
   </div>
 </div>
 
