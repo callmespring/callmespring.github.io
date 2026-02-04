@@ -688,6 +688,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">EJS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    <strong>Shi, C.</strong>, Song, R. and Lu, W. (2016). <a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-10/issue-2/Robust-learning-for-optimal-treatment-decision-with-NP-dimensionality/10.1214/16-EJS1178.full">Robust Learning for Optimal Treatment Decision with NP-Dimensionality</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-stat" style="width: 100%; text-align: center;">J Stat Soft</span>
   </div>
   <div class="pub-content" style="flex: 1;">
