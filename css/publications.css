@@ -28,7 +28,7 @@
     font-size: 14px !important; 
     font-weight: 700 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
-    text-transform: none !important;
+/*    text-transform: none !important;*/
     position: relative;
     top: 1px; /* Keeps SEEK at the perfect height you liked */
 }
@@ -58,7 +58,7 @@
     font-size: 14px !important; 
     font-weight: 700 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
-    text-transform: none !important;
+/*    text-transform: none !important;*/
 }
 
 .hf-icon {
