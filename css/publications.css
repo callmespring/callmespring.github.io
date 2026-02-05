@@ -26,7 +26,7 @@
 .gh-module-badge {
     color: #000 !important; /* Changed from red to black */
     font-size: 14px !important; 
-    font-weight: 700 !important;
+    font-weight: 600 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
 /*    text-transform: none !important;*/
     position: relative;
@@ -56,7 +56,7 @@
 .hf-module-badge {
     color: #000 !important;
     font-size: 14px !important; 
-    font-weight: 700 !important;
+    font-weight: 600 !important;
     font-family: -apple-system, system-ui, sans-serif !important;
 /*    text-transform: none !important;*/
 }
