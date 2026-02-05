@@ -18,7 +18,7 @@
     text-decoration: none !important;
     display: inline-flex !important;
     align-items: center !important; 
-    margin-left: 4px !important;
+    margin-left: 2px !important;
     /* Keeps the whole group at your preferred vertical position */
     transform: translateY(2px); 
 }
