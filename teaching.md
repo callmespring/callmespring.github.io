@@ -3,6 +3,9 @@ layout: default
 title: Teaching
 ---
 
+We have a new [LLM short course](https://github.com/noncollapse/LLM_short_course).
+
+
 I'm teaching an [RL short course](https://github.com/callmespring/RL-short-course), based on materials in Sutton and Barto (2018), Puterman (2014), DeepMind & UCL RL lecture series and some research papers.
 
 * [Lecture 1](https://github.com/callmespring/RL-short-course/blob/main/Lecture%201/slides.pdf) Foundations of RL
@@ -10,8 +13,6 @@ I'm teaching an [RL short course](https://github.com/callmespring/RL-short-cours
 * [Lecture 3](https://github.com/callmespring/RL-short-course/blob/main/Lecture%203/slides.pdf) Q-Learning and Beyond
 * [Lecture 4](https://github.com/callmespring/RL-short-course/blob/main/Lecture%204/slides.pdf) Policy- and Model-based Learning 
 * [Lecture 5](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/slides.pdf) Offline RL
-
-We also have an [LLM short course](https://github.com/noncollapse/LLM_short_course).
 
 Teaching @ LSE
 
