@@ -11,6 +11,8 @@ I'm teaching an [RL short course](https://github.com/callmespring/RL-short-cours
 * [Lecture 4](https://github.com/callmespring/RL-short-course/blob/main/Lecture%204/slides.pdf) Policy- and Model-based Learning 
 * [Lecture 5](https://github.com/callmespring/RL-short-course/blob/main/Lecture%205/slides.pdf) Offline RL
 
+We also have an [LLM short course](https://github.com/noncollapse/LLM_short_course).
+
 Teaching @ LSE
 
 * MT 2019 -- MT 2021: [Managing and Visualising Data](https://lse-st445.github.io/) (ST445)
