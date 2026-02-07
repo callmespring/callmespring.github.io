@@ -83,7 +83,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wu, X*., Wen, Q*., Zhang, Y., Zhu, H., Li, T. and <strong>Shi, C</strong>. (2026). Designing Time Series Experiments in A/B Testing with Transformer Reinforcement Learning
+    Wu, X*., Wen, Q*., Zhang, Y., Zhu, H., Li, T. and <strong>Shi, C</strong>. (2026). <a href="https://arxiv.org/pdf/2602.01853">Designing Time Series Experiments in A/B Testing with Transformer Reinforcement Learning</a>
   </div>
 </div>
 
