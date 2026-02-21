@@ -71,6 +71,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">CVPR</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Qi, X*., Ye, K*., <strong>Shi, C</strong>, Yang, Y., Zhou, H. and Zhu, J. (2026). A Difference-in-Difference Approach to Detecting AI-Generated Images
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-ml">ICLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
