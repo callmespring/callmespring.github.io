@@ -49,22 +49,15 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
   * *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*.
   * *Two* papers accepted to *JASA*.  Congratulations to all co-authors!
 - **August 2025**:
-  * One paper on **RL** accepted to *TMLR*. 
+  * One paper on RL accepted to *TMLR*. 
   * Talk at *BIRS*, *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**.
-- **July 2025**: RL short course at Renmin University, Soochow University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
-- **July 2025**: Talk @ Tsinghua Statistics + AI Frontier Summit, JCSDS, SHUFE, ECNU, SDUFE. 
-- **June 29, 2025**: Talk @ ICSA, Zhuhai, China.
-  * Erhan will present our [paper](https://arxiv.org/pdf/2506.01183) on **Doubly Robust LLM Fine-Tuning** on my behalf ([Slides](https://callmespring.github.io/slides/DRPO.pdf))
-  * Jin will present our work on LLM detection
-- **June 21, 2025**: Hongyi will present our work on LLM detection @ 狗熊会
-- **May 2025**: *Four* papers accepted to *ICML 2025*. Congratulations to all co-authors! Talk @ Warwick
-- **April 2025**: Honored to receive the [Peter Gavin Hall IMS Early Career Prize](https://imstat.org/2025/05/05/chengchun-shi-wins-peter-gavin-hall-ims-early-career-prize/).
 
 
 ### Research
 
 My research is motivated from the following applications: 
-* **AI**: 
+* **Large language models**:
+  - Reasoning: [Demystify GRPO](https://github.com/callmespring/callmespring.github.io/blob/master/paper/GRPO.pdf); [Fin-R1](https://arxiv.org/pdf/2503.16252)
   - RLHF: [DRPO](https://arxiv.org/pdf/2506.01183) ([slides](https://callmespring.github.io/slides/DRPO.pdf), [talk](https://www.bilibili.com/video/BV1xNuuzVEeD?spm_id_from=333.788.videopod.sections&vd_source=0ff25cf8645aa63231bec2428b94bf6f&p=3)); [VRPO](https://arxiv.org/pdf/2504.03784) ([talk](https://www.bilibili.com/video/BV17oMQzyEcC/?spm_id_from=333.337.search-card.all.click&vd_source=0ff25cf8645aa63231bec2428b94bf6f)); [Dual active learning](https://arxiv.org/abs/2410.02504)
   - AI generated content detection: [AdadetectGPT](https://arxiv.org/pdf/2510.01268) ([talk](https://www.bilibili.com/video/BV1S7K9zwEgU/?spm_id_from=333.337.search-card.all.click)); [L2D](https://arxiv.org/abs/2601.21895); [StatDetectLLM](https://arxiv.org/pdf/2601.06586) ([Try](https://huggingface.co/spaces/stats-powered-ai/StatDetectLLM)); DID
 * **Ridesharing** (see our AAAI tutorial ([Youtube](https://www.youtube.com/watch?v=LwShOYaRFqM&list=PLA_E7IjY9cw4aC4T8pnV3vl9wSA1461KV), [Bilibili](https://www.bilibili.com/video/BV1ZS9NYpEHg/?spm_id_from=333.788.recommend_more_video.-1&vd_source=0ff25cf8645aa63231bec2428b94bf6f
