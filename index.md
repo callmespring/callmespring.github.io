@@ -38,12 +38,19 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
   * Talks on **Stats-powered AI** at Renmin University, ECNU and Sanya Workshop on Causality and ML.
 - **Dec 2025**:
   * Our proposal *Developing Reinforcement Learning Methods for Building Reliable Interventional Digital Health Systems* has been awarded! 
-  * One paper on RL accepted to *JASA*, the other to *Brain*. 
-- **Oct/Nov**: Talks on **Stats-powered AI** at UCL, University of Birmingham, Manchester, PolyU and Yunnan University. 
-- **Sep/Oct 2025**: *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*. Four papers accepted to *TMLR*, *JASA* and *STAT*. Congratulations to all co-authors!
-- **Sep 2025**: *Four* papers on LLM and RL accepted to *NeurIPS 2025*. Congratulations to all co-authors!
-- **August 2025**: Talk @ *BIRS* on **RL**. 
-- **August 2025**: Talk @ *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**. 
+  * One paper on RL accepted to *JASA*, the other to *Brain*.
+- **Nov 2025**:
+  * Talks on **Stats-powered AI** at Manchester, PolyU and Yunnan University. 
+- **Oct 2025**:
+  * Talks on **Stats-powered AI** at UCL, University of Birmingham.
+  * One paper accepted to *STAT*. 
+- **Sep 2025**:
+  * *Four* papers on LLM and RL accepted to *NeurIPS 2025*. Congratulations to all co-authors!
+  * *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*.
+  * *Two* papers accepted to *JASA*.  Congratulations to all co-authors!
+- **August 2025**:
+  * One paper on **RL** accepted to *TMLR*. 
+  * Talk at *BIRS*, *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**.
 - **July 2025**: RL short course at Renmin University, Soochow University, and Capital Normal University ([Slides](https://github.com/callmespring/RL-short-course)).
 - **July 2025**: Talk @ Tsinghua Statistics + AI Frontier Summit, JCSDS, SHUFE, ECNU, SDUFE. 
 - **June 29, 2025**: Talk @ ICSA, Zhuhai, China.
