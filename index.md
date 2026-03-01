@@ -27,6 +27,11 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **Mar 2026**:
+  * [New paper](https://github.com/callmespring/callmespring.github.io/blob/master/paper/GRPO.pdf) on demystifying GRPO using U-statistics theory 
+- **Feb 2026**:
+  * One paper on detecting AI-generated images accepted to *CVPR*.
+  * Talk on **Stats-powered AI** at QMUL. 
 - **Jan 2026**:
   * Our proposal *Lowering the Computational Barrier: Resource- and Energy-Efficient Reinforcement Learning for LLM Reasoning* has been awarded!
   * Two papers on LLM and A/B testing accepted to *ICLR*.
