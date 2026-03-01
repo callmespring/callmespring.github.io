@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Zhou, H\*., Ye, K\*., Xu, E., Zhu, J., Gong, S. and **Shi, C**. [Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic](https://github.com/callmespring/callmespring.github.io/blob/master/paper/GRPO.pdf)
+
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-content" style="flex: 1;">
     Zhou, H*., Zhu, J*., Yang, Y. and <strong>Shi, C</strong>. <a href="https://arxiv.org/pdf/2601.06586">Detecting LLM-Generated Text with Performance Guarantees</a>.
