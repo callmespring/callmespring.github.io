@@ -28,7 +28,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 ### News
 - **Mar 2026**:
-  * [New paper](https://github.com/callmespring/callmespring.github.io/blob/master/paper/GRPO.pdf) on demystifying GRPO using U-statistics theory 
+  * [New paper](https://github.com/callmespring/callmespring.github.io/blob/master/paper/GRPO.pdf) on demystifying GRPO through U-statistics theory 
 - **Feb 2026**:
   * One paper on detecting AI-generated images accepted to *CVPR*.
   * Talk on **Stats-powered AI** at QMUL. 
