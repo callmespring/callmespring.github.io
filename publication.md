@@ -76,7 +76,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">CVPR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Qi, X*., Ye, K*., <strong>Shi, C</strong>, Yang, Y., Zhou, H. and Zhu, J. (2026). A Difference-in-Difference Approach to Detecting AI-Generated Images
+    Qi, X*., Ye, K*., <strong>Shi, C</strong>, Yang, Y., Zhou, H. and Zhu, J. (2026). <a href="https://arxiv.org/pdf/2602.23732">A Difference-in-Difference Approach to Detecting AI-Generated Images</a>
   </div>
 </div>
 
