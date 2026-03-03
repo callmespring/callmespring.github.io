@@ -11,7 +11,7 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Zhou, H\*., Ye, K\*., Xu, E., Zhu, J., Gong, S. and **Shi, C**. [Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic](https://github.com/callmespring/callmespring.github.io/blob/master/paper/GRPO.pdf)
+Zhou, H\*., Ye, K\*., Xu, E., Zhu, J., Gong, S. and **Shi, C**. [Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic](http://arxiv.org/abs/2603.01162)
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-content" style="flex: 1;">
