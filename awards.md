@@ -17,6 +17,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* Peter Gavin Hall IMS Early Career Prize, 2025.
+
 * IMS Tweedie New Researcher Award, 2024.
 
 * ICSA Outstanding Young Research Award, 2023. 
