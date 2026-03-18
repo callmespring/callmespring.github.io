@@ -75,7 +75,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Yang, Y., <strong>Shi, C</strong>, Yao, F., Wang, S. and Zhu, H. (2026). <a href="https://arxiv.org/pdf/2602.01853">Spatially Randomized Designs Can Enhance Policy Evaluation</a>
+    Yang, Y., <strong>Shi, C</strong>, Yao, F., Wang, S. and Zhu, H. (2026+). <a href="https://arxiv.org/pdf/2602.01853">Spatially Randomized Designs Can Enhance Policy Evaluation</a>
   </div>
 </div>
 
