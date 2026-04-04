@@ -5,6 +5,10 @@ title: Talk
 
 ### Talk
 
+* Chinese Statistical Association of Scholars Spring Forum, April. 2026 (invited), [Demystify GRPO: Its policy gradient is a U-statistic](./slides/GRPOchinese.pdf)
+
+* Seminar at School of Mathematical Sciences, Queen Mary University of London, London, UK, Feb. 2026 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
+
 * Sanya Workshop on Causality and Machine Learning, Sanya, China, Jan. 2026 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
 
 * Seminar at School of Statistics, East China Normal University, Shanghai, China, Jan 2026 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
