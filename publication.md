@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Liu, P., **Shi, C** and Sun, W. [Reinforcement Learning from Human Feedback: A Statistical Perspective](https://arxiv.org/pdf/2604.02507). 
+
 Zhou, H\*., Ye, K\*., Xu, E., Zhu, J., Yang, Y., Gong, S. and **Shi, C**. [Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic](http://arxiv.org/abs/2603.01162)
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
