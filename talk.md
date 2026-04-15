@@ -6,6 +6,8 @@ title: Talk
 ### Talk
 
 * Seminar at Department of Biostatistics, Columbia University, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at Schoo of Mathematics and Statistics, Northwest Normal University, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
  
 * Chinese Statistical Association of Scholars Spring Forum, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
