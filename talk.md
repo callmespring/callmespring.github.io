@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at Department of Biostatistics, Columbia University, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+ 
 * Chinese Statistical Association of Scholars Spring Forum, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
 * Seminar at School of Mathematical Sciences, Queen Mary University of London, London, UK, Feb. 2026 (invited), [Doubly robust alignment for LLMs](./slides/DRPO.pdf)
