@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* IMSI Workshop on Reinforcement Learning from Offline Data and Human Feedback, Chicago, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
 * Seminar at Department of Biostatistics, Columbia University, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
 * Seminar at Schoo of Mathematics and Statistics, Northwest Normal University, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
