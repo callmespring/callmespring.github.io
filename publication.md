@@ -74,6 +74,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">ICML</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Wen, Q*., Wu, X*., <strong>Shi, C</strong>, Li, T., Tang, N., Zhang, Y. and Zhou, H. (2026). Robust Sequential Experimental Design for A/B Testing
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-stat">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
@@ -104,7 +113,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICLR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wu, X*., Wen, Q*., Zhang, Y., Zhu, H., Li, T. and <strong>Shi, C</strong>. (2026). <a href="https://arxiv.org/pdf/2602.01853">Designing Time Series Experiments in A/B Testing with Transformer Reinforcement Learning</a>
+    Wu, X*., Wen, Q*., Zhang, Y*., Zhu, H., Li, T. and <strong>Shi, C</strong>. (2026). <a href="https://arxiv.org/pdf/2602.01853">Designing Time Series Experiments in A/B Testing with Transformer Reinforcement Learning</a>
   </div>
 </div>
 
