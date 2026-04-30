@@ -27,6 +27,9 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **April 2026**:
+  * One paper on A/B testing accepted to *ICML*
+  * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Columbia, IMSI RLHF workshop Chinese Statistical Association of Scholars Spring Forum and Northwest Normal University.
 - **Mar 2026**:
   * One paper on A/B testing accepted to *AoAS*
   * [New paper](http://arxiv.org/abs/2603.01162) on demystifying GRPO through U-statistics theory; [slides](./slides/GRPO.pdf); [code](https://github.com/noncollapse/Demystifying-GRPO) 
