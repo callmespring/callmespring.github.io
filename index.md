@@ -29,10 +29,11 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 ### News
 - **April 2026**:
   * One paper on A/B testing accepted to *ICML*
+  * [New paper](https://arxiv.org/pdf/2604.28005) connecting nonparametric statistics to LLM reasoning
   * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Columbia, IMSI RLHF workshop Chinese Statistical Association of Scholars Spring Forum and Northwest Normal University.
 - **Mar 2026**:
   * One paper on A/B testing accepted to *AoAS*
-  * [New paper](http://arxiv.org/abs/2603.01162) on demystifying GRPO through U-statistics theory; [slides](./slides/GRPO.pdf); [code](https://github.com/noncollapse/Demystifying-GRPO) 
+  * [New paper](http://arxiv.org/abs/2603.01162) on demystifying LLM reasoning through U-statistics theory; [slides](./slides/GRPO.pdf); [code](https://github.com/noncollapse/Demystifying-GRPO); a [post](https://mp.weixin.qq.com/s/hwHQrgaKe2dl1Qb881FVFQ) in Chinese. 
 - **Feb 2026**:
   * We have an [LLM short course](https://github.com/noncollapse/LLM_short_course). 
   * One paper on detecting AI-generated images accepted to *CVPR*.
