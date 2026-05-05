@@ -80,7 +80,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wen, Q*., Wu, X*., <strong>Shi, C</strong>, Li, T., Tang, N., Zhang, Y. and Zhou, H. (2026). Robust Sequential Experimental Design for A/B Testing
+    Wen, Q*., Wu, X*., <strong>Shi, C</strong>, Li, T., Tang, N., Zhang, Y. and Zhu, H. (2026). Robust Sequential Experimental Design for A/B Testing
   </div>
 </div>
 
