@@ -11,6 +11,9 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Li, M\*, Zhu, J.\*, Li, J. and **Shi, C**. [Segmenting Human–LLM Co-authored Text via Change Point
+Detection](https://arxiv.org/pdf/2605.03723).
+
 Gong, S\*., Ye, K\*., Zhu, J., Zhang, X., Zhou, H. and **Shi, C**. [Kernelized Advantage Estimation: From Nonparametric Statistics
 to LLM Reasoning](https://arxiv.org/pdf/2604.28005).
 
