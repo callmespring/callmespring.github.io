@@ -17,6 +17,8 @@ title: Grants and Awards
 
 ### Awards and Honors
 
+* ICML Gold Reviewer Award, 2026. 
+
 * Peter Gavin Hall IMS Early Career Prize, 2025.
 
 * IMS Tweedie New Researcher Award, 2024.
