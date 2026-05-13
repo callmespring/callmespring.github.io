@@ -27,6 +27,8 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **May 2026**:
+  * Gold Reviewer Award, ICML 2026
 - **April 2026**:
   * One paper on A/B testing accepted to *ICML*
   * [New paper](https://arxiv.org/pdf/2604.28005) connecting nonparametric statistics to LLM reasoning
