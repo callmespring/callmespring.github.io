@@ -5,6 +5,8 @@ title: Grants and Awards
 
 ### Grants
 
+* * AIRR Gateway project (Co-PI), 2026. "Reasoning-Enhanced Multimodal AI-Generated Content Detection". 
+
 * AIRR Gateway project (PI), 2026. "Lowering the Computational Barrier: Resource- and Energy-Efficient Reinforcement Learning for LLM Reasoning". 
 
 * PCORI Award (Co-I), 2025. "Developing Reinforcement Learning Methods for Building Reliable Interventional Digital Health Systems". 
