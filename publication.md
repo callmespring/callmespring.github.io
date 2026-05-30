@@ -16,6 +16,8 @@ Sharing for LLM Reasoning](https://arxiv.org/pdf/2605.27293)
 
 Su P\*., Ye K\*., Gong S., Xu E., Zhu J., Livieri, G. and **Shi, C**. [READER: Reasoning-Enhanced AI-Generated Text Detection](https://arxiv.org/pdf/2605.25281)
 
+Li J., Wu P. and **Shi, C**. [Counterfactually Safe Reinforcement Learning](https://arxiv.org/abs/2605.25114)
+
 Cen Z\*., Gu, C.\*, Zhu, J., Li, T., Chen, Y. and **Shi, C**. [Learning Perturbations to Extrapolate Your LLM](https://arxiv.org/pdf/2605.13284)
 
 Cen Z\*., Zhu J.\*, Shen, X. and **Shi, C**. [Perturbation is All You Need for Extrapolating Language Models](http://arxiv.org/abs/2605.04344)
