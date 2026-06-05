@@ -5,6 +5,11 @@ title: Talk
 
 ### Talk
 
+* Oxford Probability for Machine Learning seminar series, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* [DASS](https://www.dass-programme.org/virtual-seminar-series 
+) Online Seminar Series, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
 * IMSI Workshop on Reinforcement Learning from Offline Data and Human Feedback, Chicago, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
 * Workshop on Detecting LLM-generated Content, University of Birmingham, Birmingham, UK, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
