@@ -91,7 +91,25 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAI-X</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, M\*., Zhu, J.\*, Li, J. and **Shi, C**. (2026+). <a href="https://arxiv.org/pdf/2403.11400">Segmenting Human–LLM Co-authored Text via Change Point Detection</a>
+    Cen Z\*., Gu, C.\*, Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM]</a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">STAI-X</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Li, M*., Zhu, J.*, Li, J. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2403.11400">Segmenting Human–LLM Co-authored Text via Change Point Detection</a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">STAI-X</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Yu, S*., Li, T*., Lu, Y. <strong>Shi, C.</strong>, Zhou, F., Zou, Z., Zhen, P. and Zhu, H. (2026+). <a href="https://arxiv.org/abs/2605.26532">Global Average Treatment Effects for Individualized Randomization Experiments with Aggregate Data</a>
   </div>
 </div>
 
@@ -100,7 +118,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-ml">ICML</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Wen, Q*., Wu, X*., <strong>Shi, C</strong>, Li, T., Tang, N., Zhang, Y. and Zhu, H. (2026). <a href="https://arxiv.org/pdf/2605.12899">Robust Sequential Experimental Design for A/B Testing</a>
+    Wen, Q*., Wu, X*., <strong>Shi, C.</strong>, Li, T., Tang, N., Zhang, Y. and Zhu, H. (2026). <a href="https://arxiv.org/pdf/2605.12899">Robust Sequential Experimental Design for A/B Testing</a>
   </div>
 </div>
 
