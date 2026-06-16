@@ -18,8 +18,6 @@ Sharing for LLM Reasoning](https://arxiv.org/pdf/2605.27293)
 
 Su P\*., Ye K\*., Gong S., Xu E., Zhu J., Livieri, G. and **Shi, C**. [READER: Reasoning-Enhanced AI-Generated Text Detection](https://arxiv.org/pdf/2605.25281)
 
-Cen Z\*., Gu, C.\*, Zhu, J., Li, T., Chen, Y. and **Shi, C**. [Learning Perturbations to Extrapolate Your LLM](https://arxiv.org/pdf/2605.13284)
-
 Cen Z\*., Zhu J.\*, Shen, X. and **Shi, C**. [Perturbation is All You Need for Extrapolating Language Models](http://arxiv.org/abs/2605.04344)
 
 Gong, S\*., Ye, K\*., Zhu, J., Zhang, X., Zhou, H. and **Shi, C**. [Kernelized Advantage Estimation: From Nonparametric Statistics
@@ -78,7 +76,6 @@ Dai, R\*., Wang, J\*., Zhou, F\*., Luo, S., Qin, Q., **Shi, C**., and Zhu, H. [C
 Spatio-temporal Interferences](https://arxiv.org/pdf/2407.17910)
 
 
-
 Wang, D., **Shi, C.**, Luo, S. and Sun, W. [Pessimistic Causal Reinforcement Learning with
 Mediators for Confounded Offline Data](https://arxiv.org/pdf/2403.11841.pdf)
 
@@ -91,7 +88,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAI-X</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Cen Z*., Gu, C*., Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM]</a>
+    Cen Z*., Gu, C*., Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM</a>
   </div>
 </div>
 
@@ -100,7 +97,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAI-X</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, M*., Zhu, J*., Li, J. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2403.11400">Segmenting Human–LLM Co-authored Text via Change Point Detection</a>
+    Li, M*., Zhu, J*., Li, J. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/abs/2605.03723">Segmenting Human–LLM Co-authored Text via Change Point Detection</a>
   </div>
 </div>
 
