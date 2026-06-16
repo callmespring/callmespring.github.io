@@ -89,6 +89,7 @@ A summary of my past research: **Statistical Methods in Reinforcement Learning**
 <img src="map0.png" width="700">
 
 ### Editorial Service
+* Action Editor, TMLR
 * Area Chair, NeurIPS
 * Area Chair, STAI-X
 * Associate editor, [Statistical Learning and Data Science](http://www.slads-submit.com/) (from Nov 2025)
