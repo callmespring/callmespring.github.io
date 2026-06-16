@@ -27,6 +27,9 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **Six 2026**:
+  * Three papers on LLM and A/B testing accepted to SATI-X.
+  * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Oxford, IMS-Asia Pacific Rim Meeting, SUFE, Fudan, ECNU, Tongji and SUIBE. 
 - **May 2026**:
   * Gold Reviewer Award, ICML 2026
 - **April 2026**:
