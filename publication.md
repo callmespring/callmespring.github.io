@@ -91,7 +91,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAI-X</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Cen Z\*., Gu, C.\*, Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM]</a>
+    Cen Z*., Gu, C*., Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM]</a>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAI-X</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Li, M*., Zhu, J.*, Li, J. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2403.11400">Segmenting Human–LLM Co-authored Text via Change Point Detection</a>
+    Li, M*., Zhu, J*., Li, J. and <strong>Shi, C.</strong>. (2026+). <a href="https://arxiv.org/pdf/2403.11400">Segmenting Human–LLM Co-authored Text via Change Point Detection</a>
   </div>
 </div>
 
