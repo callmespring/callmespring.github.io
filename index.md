@@ -27,9 +27,10 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
-- **Six 2026**:
+- **July 2026**: Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at CUHK-Shenzhen, ZJU, JCSDS and Second Interdisciplinary Conference on Statistics and Management Science. 
+- **June 2026**:
   * Three papers on LLM and A/B testing accepted to SATI-X.
-  * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Oxford, IMS-Asia Pacific Rim Meeting, University of Macau, SUFE, Fudan, ECNU, Tongji University and SUIBE. 
+  * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Oxford, IMS-Asia Pacific Rim Meeting, University of Macau, SUFE, Fudan, ECNU, Tongji University, SUIBE and Xiamen University. 
 - **May 2026**:
   * Gold Reviewer Award, ICML 2026
 - **April 2026**:
@@ -47,21 +48,6 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
   * Our proposal *Lowering the Computational Barrier: Resource- and Energy-Efficient Reinforcement Learning for LLM Reasoning* has been awarded!
   * Two papers on LLM and A/B testing accepted to *ICLR*.
   * Talks on **Stats-powered AI** at Renmin University, ECNU and Sanya Workshop on Causality and ML.
-- **Dec 2025**:
-  * Our proposal *Developing Reinforcement Learning Methods for Building Reliable Interventional Digital Health Systems* has been awarded! 
-  * One paper on RL accepted to *JASA*, the other to *Brain*.
-- **Nov 2025**:
-  * Talks on **Stats-powered AI** at Manchester, PolyU and Yunnan University. 
-- **Oct 2025**:
-  * Talks on **Stats-powered AI** at UCL, University of Birmingham.
-  * One paper accepted to *STAT*. 
-- **Sep 2025**:
-  * *Four* papers on LLM and RL accepted to *NeurIPS 2025*. Congratulations to all co-authors!
-  * *Two* of my AOS papers on RL were selected to present @ *NeurIPS 2025*.
-  * *Two* papers accepted to *JASA*.  Congratulations to all co-authors!
-- **August 2025**:
-  * One paper on RL accepted to *TMLR*. 
-  * Talk at *BIRS*, *JSM* and *NKU* on **Doubly Robust LLM Fine-Tuning**.
 
 
 ### Research
