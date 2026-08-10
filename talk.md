@@ -5,12 +5,38 @@ title: Talk
 
 ### Talk
 
-* Oxford Probability for Machine Learning seminar series, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+* Joint Statistical Meeting, Boston, USA, Aug 2027 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Joint Conference on Statistics and Data Science, Guiyang, China, July 2027 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at Center for Data Science, Zhejiang University, Zhejiang, China, July 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Second Interdisciplinary Conference on Statistics and Management Science, Hefei, China, July 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at the Chinese University of Hong Kong, Shenzhen, the School of Data Science, Shenzhen, China, July 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at Xiamen University, School of Economics and Management, Xiamen, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Statistics Seminar at Shanghai University of International Business and Economics, Shanghai, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at School of Mathematical Sciences, Tongji University, Shanghai, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at School of Statistics, East China Normal University, Shanghai, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at Fudan University, Center for Applied Mathematics, Shanghai, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at SHUFE, School of Statistics, Shanghai, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at University of Macau, Department of Mathematics, Macau, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* IMS-Asia Pacific Rim Meeting, HK, China, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Oxford Probability for Machine Learning seminar series, Oxford, UK, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
 * [DASS](https://www.dass-programme.org/virtual-seminar-series 
 ) Online Seminar Series, June 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
-* IMSI Workshop on Reinforcement Learning from Offline Data and Human Feedback, Chicago, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+* IMSI Workshop on Reinforcement Learning from Offline Data and Human Feedback, Chicago, USA, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
 * Workshop on Detecting LLM-generated Content, University of Birmingham, Birmingham, UK, April. 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
