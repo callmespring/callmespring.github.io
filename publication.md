@@ -86,7 +86,16 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">JASA</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Zhu, J., Zhou, X., Yao, J., Aminian, G., Rivasplata, O., Little, S., Li, L. and <strong>Shi, C</strong>. <a href="https://arxiv.org/pdf/2505.19002">Semi-pessimistic Reinforcement Learning</a>.
+    Zhu, J., Zhou, X., Yao, J., Aminian, G., Rivasplata, O., Little, S., Li, L. and <strong>Shi, C</strong>. (2026) <a href="https://arxiv.org/pdf/2505.19002">Semi-pessimistic Reinforcement Learning</a>.
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-stat">Stat Sci</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+    Uehara, M., <strong>Shi, C.</strong> and Kallus, N. (2026). <a href="https://arxiv.org/pdf/2212.06355.pdf">A Review of Off-Policy Evaluation in Reinforcement Learning</a>.
   </div>
 </div>
 
@@ -95,7 +104,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">STAI-X</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Cen Z*., Gu, C*., Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026). <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM</a> (<strong>honorable mentions</strong>). 
+    Cen Z*., Gu, C*., Zhu, J., Li, T., Chen, Y. and <strong>Shi, C.</strong>. (2026) <a href="https://arxiv.org/pdf/2605.13284">Learning Perturbations to Extrapolate Your LLM</a> (<strong>honorable mentions</strong>). 
   </div>
 </div>
 
@@ -295,15 +304,6 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
   </div>
   <div class="pub-content" style="flex: 1;">
     StatsUpAI Interest Group (2025). <a href="https://hdsr.mitpress.mit.edu/pub/a7kmqk35/release/1?readingCollection=da931fd2">Statistics and AI: A Fireside Conversation</a>.
-  </div>
-</div>
-
-<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">Stat Sci</span>
-  </div>
-  <div class="pub-content" style="flex: 1;">
-    Uehara, M., <strong>Shi, C.</strong> and Kallus, N. (2025+). <a href="https://arxiv.org/pdf/2212.06355.pdf">A Review of Off-Policy Evaluation in Reinforcement Learning</a>.
   </div>
 </div>
 
