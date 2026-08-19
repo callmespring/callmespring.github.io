@@ -81,7 +81,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-stat">SINICA</span>
+    <span class="publication-logo-badge badge-stat">Sinica</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhao, T., <strong>Shi, C</strong>., Qi, Z. and Wang, L. (2026+) Sparse Additive Off-Policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories.
