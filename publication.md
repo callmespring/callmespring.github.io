@@ -81,7 +81,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">EMNLP</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Gong S\*., Xu E\*. Ye K\*., Livieri, G., Quinzan F. and <strong>Shi, C</strong>. (2026) <a href="https://arxiv.org/pdf/2605.27293">BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning (<strong>findings</strong>)</a>.
+    Gong S\*., Xu E\*. Ye K\*., Livieri, G., Quinzan F. and <strong>Shi, C</strong>. (2026) <a href="https://arxiv.org/pdf/2605.27293">BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning</a>(<strong>findings</strong>).
   </div>
 </div>
 
