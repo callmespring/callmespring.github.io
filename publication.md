@@ -75,7 +75,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Liu, H*., Wang, D., <strong>Shi, C</strong>, Liu, S. and Sun, W. (2026+). <a href="https://arxiv.org/pdf/2403.11841.pdf">Pessimistic Causal Reinforcement Learning with Applications to Ride-sharing</a>
+    Liu, H*., Wang, D., <strong>Shi, C</strong>, Luo, S. and Sun, W. (2026+). <a href="https://arxiv.org/pdf/2403.11841.pdf">Pessimistic Causal Reinforcement Learning with Applications to Ride-sharing</a>
   </div>
 </div>
 
