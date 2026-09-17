@@ -5,9 +5,19 @@ title: Talk
 
 ### Talk
 
-* Joint Statistical Meeting, Boston, USA, Aug 2027 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+* Seminar at UFRGS, Department of Statistics, Brazil, Sep 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
-* Joint Conference on Statistics and Data Science, Guiyang, China, July 2027 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+* Plenary Talk @ the 26th edition of the National Symposium of Probability and Statistics (SINAPE), Gramado, Brazil, Sep 2026 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
+
+* Plenary Talk @ Workshop on Time Series, Wavelets, High-Dimensional Data and Applications, Unicamp, Campinas, Brazil, Sep 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Royal Statistical Society International Conference, Bournemouth, UK, Sep 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Seminar at Beijing Technology and Business University, School of Mathematics and Statistics, Beijing, China, Aug 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Joint Statistical Meeting, Boston, USA, Aug 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Joint Conference on Statistics and Data Science, Guiyang, China, July 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
 * Seminar at Center for Data Science, Zhejiang University, Zhejiang, China, July 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
 
