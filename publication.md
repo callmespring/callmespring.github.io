@@ -72,10 +72,28 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+   Liu, S., <strong>Shi, C.</strong>, Zhang, K. and Zhu, H. (2026). FAST-Brain: A Flow-Aligned Spatio-Temporal Surrogate Brain Model. 
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">NeurIPS</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+   Zhang, J., Wang, J., Piette, J., Zeng, D., <strong>Shi, C.</strong> and Wu, Z. (2026). <a href="https://arxiv.org/pdf/2403.11841.pdf">A Distribution Mapping Approach to Counterfactually Fair Reinforcement Learning</a>
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-stat">AOAS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-    Liu, H*., Wang, D*., <strong>Shi, C</strong>, Luo, S. and Sun, W. (2026+). <a href="https://arxiv.org/pdf/2403.11841.pdf">Pessimistic Causal Reinforcement Learning with Applications to Ride-sharing</a>
+    Liu, H*., Wang, D*., <strong>Shi, C.</strong>, Luo, S. and Sun, W. (2026+). <a href="https://arxiv.org/pdf/2403.11841.pdf">Pessimistic Causal Reinforcement Learning with Applications to Ride-sharing</a>
   </div>
 </div>
 
