@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Ye, K., Gong, S., Zhou, H., Zangirolami V. and **Shi, C.** [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114)
+
 Li J., Wu P. and **Shi, C**. [Counterfactually Safe Reinforcement Learning](https://arxiv.org/abs/2605.25114)
 
 Su P\*., Ye K\*., Gong S., Xu E., Zhu J., Livieri, G. and **Shi, C**. [READER: Reasoning-Enhanced AI-Generated Text Detection](https://arxiv.org/pdf/2605.25281)
