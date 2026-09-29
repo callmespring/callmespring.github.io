@@ -5,6 +5,8 @@ title: Talk
 
 ### Talk
 
+* Seminar at Shandong University, Institute for Financial Studies, Shandong, China, Sep 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
 * Plenary Talk @ the 26th edition of the National Symposium of Probability and Statistics (SINAPE), Gramado, Brazil, Sep 2026 (invited), [Statistics-powered AI](https://drive.google.com/file/d/1QInf7RRFp34l0-QaCF8Lnoss1y0O1080/view?usp=sharing)
 
 * Plenary Talk @ Workshop on Time Series, Wavelets, High-Dimensional Data and Applications, Unicamp, Campinas, Brazil, Sep 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
