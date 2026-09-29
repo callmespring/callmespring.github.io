@@ -27,27 +27,15 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **Sep 2026**:
+  * New paper [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114)
+  * Two papers accepted to NeurIPS.
+  * Two plenary talks in Brazil.
 - **July 2026**: Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at CUHK-Shenzhen, ZJU, JCSDS and Second Interdisciplinary Conference on Statistics and Management Science. 
 - **June 2026**:
   * Three papers on LLM and A/B testing accepted to SATI-X.
   * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Oxford, IMS-Asia Pacific Rim Meeting, University of Macau, SUFE, Fudan, ECNU, Tongji University, SUIBE and Xiamen University. 
 - **May 2026**: Gold Reviewer Award, ICML 2026
-- **April 2026**:
-  * One paper on A/B testing accepted to *ICML*
-  * [New paper](https://arxiv.org/pdf/2604.28005) connecting nonparametric statistics to LLM reasoning
-  * Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at Columbia, University of Birmingham, IMSI RLHF workshop, Chinese Statistical Association of Scholars Spring Forum and Northwest Normal University.
-- **Mar 2026**:
-  * One paper on A/B testing accepted to *AoAS*
-  * [New paper](http://arxiv.org/abs/2603.01162) on demystifying LLM reasoning through U-statistics theory ([slides](./slides/GRPO.pdf); [code](https://github.com/noncollapse/Demystifying-GRPO); a [post](https://mp.weixin.qq.com/s/hwHQrgaKe2dl1Qb881FVFQ) in Chinese). 
-- **Feb 2026**:
-  * We have an [LLM short course](https://github.com/noncollapse/LLM_short_course). 
-  * One paper on detecting AI-generated images accepted to *CVPR*.
-  * Talk on **Stats-powered AI** at QMUL. 
-- **Jan 2026**:
-  * Our proposal *Lowering the Computational Barrier: Resource- and Energy-Efficient Reinforcement Learning for LLM Reasoning* has been awarded!
-  * Two papers on LLM and A/B testing accepted to *ICLR*.
-  * Talks on **Stats-powered AI** at Renmin University, ECNU and Sanya Workshop on Causality and ML.
-
 
 ### Research
 
