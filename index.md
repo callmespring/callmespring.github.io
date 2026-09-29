@@ -31,6 +31,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
   * New paper [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114)
   * Two papers accepted to NeurIPS, one paper to JASA, one to EMNLP, one to Sinica, one to AOAS and one to JMLR. 
   * Two plenary talks in Brazil.
+- **Aug 2026**: Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at JSM and Beijing Technology and Business University. 
 - **July 2026**: Talks on [Demystifying LLM through U-statistics theory](./slides/GRPO.pdf) at CUHK-Shenzhen, ZJU, JCSDS and Second Interdisciplinary Conference on Statistics and Management Science. 
 - **June 2026**:
   * Three papers on LLM and A/B testing accepted to SATI-X.
