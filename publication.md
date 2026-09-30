@@ -101,7 +101,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
-    <span class="publication-logo-badge badge-ml">JMLR</span>
+    <span class="publication-logo-badge badge-ml">JOSS</span>
   </div>
   <div class="pub-content" style="flex: 1;">
     Zhang, J., Wang, J.,  <strong>Shi, C</strong>., Piette, J., Zeng, D. and Wu, Z. (2026) <a href="https://arxiv.org/abs/2510.06935">PyCFRL: A Python library for counterfactually fair offline reinforcement learning via sequential data preprocessing</a>.
