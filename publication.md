@@ -72,7 +72,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-om">OR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-   Liu, S., <strong>Shi, C.</strong>, Sun, W. (2026). <a href="https://arxiv.org/pdf/2410.02504">Dual Active Learning for Reinforcement Learning from Human Feedback</a> 
+   Liu, S., <strong>Shi, C.</strong>, Sun, W. (2026+). <a href="https://arxiv.org/pdf/2410.02504">Dual Active Learning for Reinforcement Learning from Human Feedback</a> 
   </div>
 </div>
 
