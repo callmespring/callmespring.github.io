@@ -28,7 +28,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 ### News
 - **Sep 2026**:
-  * New paper [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114)
+  * New paper [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114). [Slides](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1). 
   * Two papers accepted to NeurIPS, one paper to JASA, one to EMNLP, one to Sinica and one to AOAS 
   * Two plenary talks in Brazil. One talk in Bournemouth. 
 - **Aug 2026**:
