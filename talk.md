@@ -5,6 +5,10 @@ title: Talk
 
 ### Talk
 
+* Conference on Statistical Foundations of AI, UC Santa Barbara, Santa Barbara, CA, US, Nov 2026 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
+
+* Conference on Statistics Beyond Euclid: Functional Data, Random Objects and AI, UC Davis, Davis, CA, US, Nov 2026 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
+
 * Seminar at School of Mathematics, Shanghai Jiaotong University, Shanghai, China, Nov 2026 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
 
 * Seminar at School of Statistics, ECNU, Shanghai, China, Nov 2026 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
