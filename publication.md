@@ -88,7 +88,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">Annu Rev Stat Appl</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-   Liu, P., <strong>Shi, C.</strong>, Sun, W. (2026+). <a href="https://arxiv.org/pdf/2604.02507">Reinforcement Learning from Human Feedback: A Statistical Perspective.</a> <br/>2026 <strong>ASA Student Paper Award Honorable Mention</strong>
+   Liu, P., <strong>Shi, C.</strong>, Sun, W. (2026+). <a href="https://arxiv.org/pdf/2604.02507">Reinforcement Learning from Human Feedback: A Statistical Perspective.</a>
   </div>
 </div>
 
