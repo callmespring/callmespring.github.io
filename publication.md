@@ -69,6 +69,15 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
 
 <div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
   <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
+    <span class="publication-logo-badge badge-ml">KDD</span>
+  </div>
+  <div class="pub-content" style="flex: 1;">
+   Wen, Q., Wu, X., Li, T., Tang, N. <strong>Shi, C.</strong>, Zhang, Y. and Zhu, H. (2026). Dynamic Subsidy Allocation with Budget-Feasible Stochastic Policies and Reliable Reinforcement Learning. 
+  </div>
+</div>
+
+<div class="publication-entry" style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+  <div class="pub-venue" style="flex: 0 0 90px; margin-right: 12px; display: flex; align-items: center; justify-content: center;">
     <span class="publication-logo-badge badge-om">OR</span>
   </div>
   <div class="pub-content" style="flex: 1;">
