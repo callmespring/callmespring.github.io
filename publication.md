@@ -67,7 +67,7 @@ Hu, L\*., Li, M\*., **Shi, C.**, Wu, Z. and Fryzlewicz, P. [Doubly Inhomogeneous
     <span class="publication-logo-badge badge-stat">Book Chapter</span>
   </div>
   <div class="pub-content" style="flex: 1;">
-   <strong>Shi, C.</strong> (2026). <a href="https://arxiv.org/abs/2502.16195">Statistical Inference in Reinforcement Learning: A Selective Survey</a> In S. Ma, E. B. Laber, and Y. Zhao (Eds.),
+   <strong>Shi, C.</strong> (2026). <a href="https://arxiv.org/abs/2502.16195">Statistical Inference in Reinforcement Learning: A Selective Survey</a> In S. Ma, E. B. Laber, and Y. Zhao,
     <em>Empirical Processes and Statistical Reinforcement Learning: A Festschrift in Honor of Michael R. Kosorok</em>.
     Chapman &amp; Hall/CRC.
   </div>
