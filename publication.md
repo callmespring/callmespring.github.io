@@ -11,6 +11,8 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
+Yan, H., Zhu, J., **Shi, C.** and Wang, T. [Can Pretrained Transformers Deliver Semiparametrically Efficient Inference?](https://arxiv.org/abs/2611.27666)
+
 Ye, K., Gong, S., Zhou, H., Zangirolami V. and **Shi, C.** [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114)
 
 Li J., Wu P. and **Shi, C**. [Counterfactually Safe Reinforcement Learning](https://arxiv.org/abs/2605.25114)
