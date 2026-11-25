@@ -27,6 +27,10 @@ I am looking for students interested in LLMs (see our short course [slides](http
 My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring). 
 
 ### News
+- **Nov 2026**:
+  * New paper [U-Statistics-Powered LLM Reasoning](https://arxiv.org/abs/2611.33064) ([Video](https://drive.google.com/file/d/1YqVLZx7wjPeP8vVSpdT9w_Lq-lEwJPHq/view))
+  * New paper [Can pretrained Transformers deliver semiparametrically efficient inference?
+](https://arxiv.org/abs/2611.27666)
 - **Sep 2026**:
   * New paper [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114) ([Slides](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)). 
   * Two papers accepted to NeurIPS, one paper to JASA, one to EMNLP, one to Sinica and one to AOAS 
