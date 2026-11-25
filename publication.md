@@ -11,11 +11,11 @@ Please feel free to email me <c.shi7@lse.ac.uk> if you have any comments.
 
 \* indicates equal contribution
 
-Gong, S\*. Ye, K\*., Chernozhukov, V., Zhang, X. and **Shi, C.** [U-Statistics-Powered LLM Reasoning](https://arxiv.org/abs/2611.33064) <a href="https://drive.google.com/file/d/1YqVLZx7wjPeP8vVSpdT9w_Lq-lEwJPHq/view?usp=sharing"><font size="3">video</font></a>
+Gong, S\*. Ye, K\*., Chernozhukov, V., Zhang, X. and **Shi, C.** [U-Statistics-Powered LLM Reasoning](https://arxiv.org/abs/2611.33064) <br/> <a href="https://drive.google.com/file/d/1YqVLZx7wjPeP8vVSpdT9w_Lq-lEwJPHq/view?usp=sharing"><font size="3">video</font></a>
 
 Yan, H., Zhu, J., **Shi, C.** and Wang, T. [Can Pretrained Transformers Deliver Semiparametrically Efficient Inference?](https://arxiv.org/abs/2611.27666)
 
-Ye, K., Gong, S., Zhou, H., Zangirolami V. and **Shi, C.** [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114) <a href="https://kaiye.noncollapse.com/kai-talks/TabCon/#/1"><font size="3">slides</font></a>
+Ye, K., Gong, S., Zhou, H., Zangirolami V. and **Shi, C.** [Can Tabular Foundation Models Amortize Statistical Inference?](https://arxiv.org/abs/2609.33114) <br/> <a href="https://kaiye.noncollapse.com/kai-talks/TabCon/#/1"><font size="3">slides</font></a>
 
 Li, J., Wu, P. and **Shi, C**. [Counterfactually Safe Reinforcement Learning](https://arxiv.org/abs/2605.25114)
 
