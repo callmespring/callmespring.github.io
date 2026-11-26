@@ -5,6 +5,12 @@ title: Talk
 
 ### Talk
 
+* Seminar at Center for Data Science, Zhejiang University, Zhejiang, China, Nov 2026 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
+
+* Seminar at Institute for Math & AI, Wuhan University, Wuhan, China, Nov 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
+* Workshop on Mathematical Foundations and Scientific Applications of LLM Agents, Xi'an Jiaotong University, Xi'an, China, Nov 2026 (invited), [Demystify LLM Reasoning through U-statistics Theory](./slides/GRPO.pdf)
+
 * Seminar at School of Management Science, Fudan University, Shanghai, China, Nov 2026 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
 
 * Seminar at University of Science and Technology of China, School of Management, Hefei, China, Oct 2022 (invited), [Can Tabular Foundation Models Amortize Statistical Inference](https://kaiye.noncollapse.com/kai-talks/TabCon/#/1)
