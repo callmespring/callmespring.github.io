@@ -28,7 +28,7 @@ My email <c.shi7@lse.ac.uk>. My [GitHub](https://github.com/callmespring).
 
 ### News
 - **Nov 2026**:
-  * New paper [U-Statistics-Powered LLM Reasoning](https://arxiv.org/abs/2611.33064) ([Video](https://drive.google.com/file/d/1YqVLZx7wjPeP8vVSpdT9w_Lq-lEwJPHq/view))
+  * New paper [U-Statistics-Powered LLM Reasoning](https://arxiv.org/abs/2611.33064) ([Video](https://drive.google.com/file/d/1YqVLZx7wjPeP8vVSpdT9w_Lq-lEwJPHq/view)) ([GitHub](https://github.com/Gsj49/U-Statistics-Powered-Reasoning))
   * New paper [Can pretrained Transformers deliver semiparametrically efficient inference?
 ](https://arxiv.org/abs/2611.27666)
 - **Sep 2026**:
